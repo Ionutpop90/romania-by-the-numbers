@@ -1,0 +1,280 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Romania by the Numbers</title>
+  <meta name="description" content="Where Romania leads the EU, where it lags, and where it is moving: 38 official indicators across economy, society, health, education, digital, environment and governance, ranked against all 27 member states, 2014 vs latest. Explore any EU country.">
+  <meta property="og:title" content="Romania by the Numbers: a decade in 38 EU rankings">
+  <meta property="og:description" content="Interactive data report benchmarking Romania (and any EU country) on 38 Eurostat indicators.">
+  <meta property="og:image" content="assets/preview.png">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%232a78d6'/%3E%3Cpath d='M8 23V9M8 23h16M12 19l4-5 3 3 5-6' fill='none' stroke='white' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/style.css">
+  <script>
+    try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap">
+      <div class="brand">Romania by the Numbers <span>· data report</span></div>
+      <nav class="nav" aria-label="Sections">
+        <a href="#summary">Summary</a>
+        <a href="#rankings">38 rankings</a>
+        <a href="#quadrant">Strengths &amp; gaps</a>
+        <a href="#standing">EU standing</a>
+        <a href="#trends">Trends</a>
+        <a href="#people">People</a>
+        <a href="#method">Method</a>
+      </nav>
+      <button class="icon-btn" id="theme" type="button" aria-label="Toggle light/dark theme">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <!-- ================= HERO ================= -->
+    <section class="hero wrap" id="summary">
+      <div class="eyebrow">Data analysis · 38 indicators · 27 EU member states · 2014 → latest</div>
+      <h1>Romania by the Numbers: where it leads Europe, where it lags, and where it is heading</h1>
+      <p class="lede">
+        Romania is often described in extremes: the EU’s fastest-growing economy, or the bottom of every league table. Both are true,
+        just in different areas. I ranked Romania against the other 26 member states on 38 official indicators in seven domains,
+        once around 2014 and once at the latest data point, to see what it is good at, what it is bad at, and which way each is moving.
+        The same model ranks every EU country: you can switch the main charts to any of them.
+      </p>
+      <div class="byline">
+        <span>Analysis: <b>Ionut Daniel Pop</b> · <a href="https://github.com/Ionutpop90">@Ionutpop90</a></span>
+        <span>Data: <b>Eurostat</b> (incl. SDG monitoring set)</span>
+        <span>Stack: <b>Python · DuckDB SQL · bootstrap · SVG/JS</b></span>
+      </div>
+
+      <div class="kpis">
+        <article class="kpi hero-kpi">
+          <div>
+            <div class="label">Romania’s overall EU rank, all 38 indicators</div>
+            <div class="value"><span data-k="roRank">–</span><span class="kpi-unit"> / 27</span></div>
+          </div>
+          <div>
+            <span class="badge badge-neutral">90% bootstrap range: <span data-k="roRankCI"></span> · momentum rank <span data-k="roMomentum"></span></span>
+            <div class="tally" id="heroTally" style="margin-top:12px"></div>
+            <div class="sub" style="margin-top:10px">Top third = rank 1–9 · bottom third = rank 19–27 · climbing/falling = moved 3+ places</div>
+          </div>
+        </article>
+        <article class="kpi">
+          <div class="label">GDP per person, purchasing power (EU = 100)</div>
+          <div class="value" data-k="gdp">–</div>
+          <div class="sub">was <span data-k="gdp0"></span> in 2014 · rank <span data-k="gdpRank"></span></div>
+        </article>
+        <article class="kpi">
+          <div class="label">Best ranking</div>
+          <div class="value" data-k="bestRank">–</div>
+          <div class="sub" data-k="bestName"></div>
+        </article>
+        <article class="kpi">
+          <div class="label">Biggest fall</div>
+          <div class="value" data-k="fallRank">–</div>
+          <div class="sub" data-k="fallName"></div>
+        </article>
+        <article class="kpi">
+          <div class="label">Population since 2014</div>
+          <div class="value" data-k="popChange">–</div>
+          <div class="sub"><span data-k="pop"></span> million in <span data-k="popYear"></span></div>
+        </article>
+      </div>
+
+      <ol class="findings">
+        <li><strong>Strong where the country is physical and frugal.</strong> Romania is top-five in the EU for low greenhouse emissions per person,
+          energy productivity, low obesity, energy independence and fibre broadband coverage. These strengths largely come from low consumption
+          and late, modern infrastructure.</li>
+        <li><strong>The fastest climb is in living standards.</strong> Income inequality went from <span data-k="ineqMove"></span>, housing-cost burden from
+          <span data-k="burdenMove"></span>, and GDP per person from <span data-k="gdpMove"></span> of the EU average.</li>
+        <li><strong>Stuck at the bottom on human capital and the state.</strong> Last or second-to-last on university degrees, digital skills, R&amp;D,
+          patents, online public services, infant mortality and treatable deaths. The biggest fall is in public finances: from 5th-best budget balance
+          in 2014 to <span data-k="balRank"></span> today.</li>
+      </ol>
+    </section>
+
+    <!-- ================= 1. RANKINGS ================= -->
+    <section class="chapter wrap" id="rankings">
+      <div class="chapter-head">
+        <div class="chapter-num">01 · 38 rankings</div>
+        <div>
+          <h2>Every indicator, then and now</h2>
+          <p class="intro">Each row shows where the country ranked among the 27 member states at the start of the period (grey) and at the latest data point
+            (blue). Right is better (rank 1). Choose any country below. Romania is the default.</p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="select-row">
+          <label for="countrySelect"><strong>Country</strong></label>
+          <select id="countrySelect" aria-label="Choose a country"></select>
+          <div class="tally" id="countryTally"></div>
+        </div>
+        <ul class="legend" id="legendRank"></ul>
+      </div>
+      <div class="grid-2" id="domainGrid"></div>
+    </section>
+
+    <!-- ================= 2. QUADRANT ================= -->
+    <section class="chapter wrap" id="quadrant">
+      <div class="chapter-head">
+        <div class="chapter-num">02 · Strengths &amp; gaps</div>
+        <div>
+          <h2>Four kinds of indicator: hold, defend, push, fix</h2>
+          <p class="intro">Plotting today’s rank against the change since the start of the period sorts the indicators into four groups.
+            Top right are strengths that keep improving. Top left are weaknesses being closed. Bottom right are strengths that are slipping.
+            Bottom left are weaknesses getting worse, the urgent ones.</p>
+        </div>
+      </div>
+      <div class="card">
+        <h3 id="quadTitle">Rank today vs rank change</h3>
+        <p class="desc">x: rank today (right = better) · y: places gained since the start of the period (up = climbed). Hover for details.</p>
+        <ul class="legend" id="legendQuad"></ul>
+        <div id="chartQuad"></div>
+        <div class="card-foot">
+          <span>Lines at rank 14 (EU middle) and zero change</span>
+          <details class="data"><summary>View data</summary></details>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= 3. EU STANDING ================= -->
+    <section class="chapter wrap" id="standing">
+      <div class="chapter-head">
+        <div class="chapter-num">03 · EU standing</div>
+        <div>
+          <h2>Overall, Romania sits in the bottom three, but it is not the slowest mover</h2>
+          <p class="intro">A country’s overall score is its average position across all 38 indicators (100 = best in the EU on everything, 0 = worst).
+            To check that the ranking doesn’t hinge on which indicators I picked, I re-ran it on 2,000 random resamples of the indicator set.
+            The whiskers show the resulting 90% range of each country’s rank.</p>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3>Overall score, latest</h3>
+          <p class="desc">Mean of 38 rank scores × 100. Whiskers: 90% bootstrap range of rank, shown in the tooltip.</p>
+          <div id="chartOverall"></div>
+          <div class="card-foot">
+            <span>Own calculation</span>
+            <details class="data"><summary>View data</summary></details>
+          </div>
+        </div>
+        <div class="card">
+          <h3>Score by domain, all countries</h3>
+          <p class="desc">Average rank score per domain (0–100), latest. Sorted by overall score.</p>
+          <div id="chartDomainHeat"></div>
+          <div class="scale" aria-hidden="true"><span>bottom of EU</span><span class="bar" id="heatScale"></span><span>top of EU</span></div>
+          <div class="card-foot">
+            <span>Own calculation</span>
+            <details class="data"><summary>View data</summary></details>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= 4. TRENDS ================= -->
+    <section class="chapter wrap" id="trends">
+      <div class="chapter-head">
+        <div class="chapter-num">04 · Trends</div>
+        <div>
+          <h2>Six indicators that tell the story</h2>
+          <p class="intro">Ranks show position; values show distance. Here are the selected country’s values against the EU-27 average for six indicators:
+            the economic catch-up, the social improvement, and the gaps that have not closed.</p>
+        </div>
+      </div>
+      <div class="mini-grid" id="trendGrid"></div>
+    </section>
+
+    <!-- ================= 5. PEOPLE ================= -->
+    <section class="chapter wrap" id="people">
+      <div class="chapter-head">
+        <div class="chapter-num">05 · People</div>
+        <div>
+          <h2>Fewer people, fewer births, and emigration that has turned around</h2>
+          <p class="intro">Romania has been losing population for decades. Since 2022 the balance of migration has turned positive, with more people arriving
+            than leaving, but deaths now exceed births by a wider margin and fertility has fallen sharply. These context series are not ranked:
+            there is no obvious “better” direction.</p>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3>Births minus deaths vs migration, per 1,000 people</h3>
+          <p class="desc">Natural change and net migration (incl. statistical adjustment), Romania.</p>
+          <ul class="legend" id="legendDemo"></ul>
+          <div id="chartDemo"></div>
+          <div class="card-foot">
+            <span>Source: Eurostat demo_gind</span>
+            <details class="data"><summary>View data</summary></details>
+          </div>
+        </div>
+        <div class="card">
+          <h3>Population and fertility, Romania</h3>
+          <p class="desc">Population on 1 January (millions) and total fertility rate (children per woman).</p>
+          <div class="grid-2" style="gap:12px">
+            <div><div class="mini"><div class="big" data-k="popNow"></div></div><div id="chartPop"></div></div>
+            <div><div class="mini"><div class="big" data-k="fertNow"></div></div><div id="chartFert"></div></div>
+          </div>
+          <div class="card-foot">
+            <span>Sources: Eurostat demo_pjan, tps00199</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= 6. METHOD ================= -->
+    <section class="chapter wrap" id="method">
+      <div class="chapter-head">
+        <div class="chapter-num">06 · Methodology</div>
+        <div>
+          <h2>How the benchmark works</h2>
+          <p class="intro">One catalogue file defines all 38 indicators. Changing it and re-running two commands rebuilds every ranking.</p>
+        </div>
+      </div>
+      <div class="pipeline" aria-label="Data pipeline">
+        <div class="step"><b>Catalogue</b><span>38 indicators · direction · filters</span></div><span class="arrow">→</span>
+        <div class="step"><b>Extract</b><span>Eurostat API · 40 datasets</span></div><span class="arrow">→</span>
+        <div class="step"><b>Rank</b><span>DuckDB window functions</span></div><span class="arrow">→</span>
+        <div class="step"><b>Test</b><span>coverage rule · breaks · bootstrap</span></div><span class="arrow">→</span>
+        <div class="step"><b>Publish</b><span>SVG/JS report</span></div>
+      </div>
+      <div class="card method">
+        <div>
+          <h3>Ranking rules</h3>
+          <ul>
+            <li>Rank 1 = best, using each indicator’s policy direction (e.g. lower is better for poverty, higher for employment). Directions follow the EU’s SDG monitoring framework.</li>
+            <li>Ranks are computed only in years when at least 24 of 27 countries report, so ranks are comparable over time.</li>
+            <li>Start = first such year from 2014 (2015, 2019 or 2021 for newer series). Latest = the country’s most recent ranked year.</li>
+            <li>Tiers: top third = rank 1–9, bottom third = 19–27. Momentum: climbing/falling = moved at least 3 places.</li>
+            <li>Overall score = mean of per-indicator scores, where score = 1 − (rank − 1)/(n − 1).</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Data quality</h3>
+          <ul>
+            <li><strong>Inverted code caught:</strong> Eurostat’s <code>I_IUX</code> in the internet-use table means “never used the internet”. The catalogue uses <code>I_IU3</code> (used in the last 3 months).</li>
+            <li><strong>Definition change:</strong> the e-government indicator changed in 2022 (<code>I_IUGOV12</code> → <code>I_IUGOV1</code>). The series is spliced and compared through ranks, which survive the break because all countries switched together.</li>
+            <li><strong>EU-wide survey breaks</strong> (labour force survey 2021) affect all countries at once, so ranks stay comparable.</li>
+            <li>One aggregate (greenhouse gases per person) has no EU-27 value in Eurostat and shows as n/a.</li>
+          </ul>
+          <h3>Limitations</h3>
+          <ul>
+            <li>The choice of indicators shapes any composite ranking. The bootstrap tests this, and Romania’s rank stays between 25 and 27.</li>
+            <li>Ranks show position, not size of gap: rank 27 can be close to 26 or far from it. The trend charts show values.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <span>Data: Eurostat (© European Union). Corruption Perceptions Index via Eurostat SDG 16.50 (© Transparency International).</span>
+      <span>Built by Ionut Daniel Pop · <a href="https://github.com/Ionutpop90/romania-by-the-numbers">Source code</a></span>
+    </div>
+  </footer>
+
+  <script type="module" src="assets/app.js"></script>
+</body>
+</html>

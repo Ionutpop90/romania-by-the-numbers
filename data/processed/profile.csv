@@ -1,0 +1,1027 @@
+domain,label,unit,better,indicator,geo,base_year,last_year,base_value,last_value,base_rank,last_rank,n_last,base_score,last_score,eu_base,eu_last,rank_change,tier,momentum,gap_last,gap_base
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,AT,2014,2025,58.63,62.82,7,16,27,0.7692307692307692,0.42307692307692313,46.03,57.65,-9,Middle third,Falling,5.170000000000002,12.600000000000001
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,AT,2014,2025,3.6,5.4,10,11,27,0.6538461538461539,0.6153846153846154,3.4,5.0,-1,Middle third,Holding,0.40000000000000036,0.20000000000000018
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,AT,2014,2025,81.01,95.3,10,10,27,0.6538461538461539,0.6538461538461539,76.07,93.79,0,Middle third,Holding,1.509999999999991,4.940000000000012
+Digital & innovation,European patent applications,per million people,higher,patents,AT,2014,2025,229.81,244.97,7,7,27,0.7692307692307692,0.7692307692307692,141.49,152.56,0,Top third,Holding,92.41,88.32
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,AT,2014,2024,3.11,3.34,3,2,27,0.9230769230769231,0.9615384615384616,2.09,2.26,1,Top third,Holding,1.08,1.02
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,AT,2019,2025,13.8,76.3,25,24,27,0.07692307692307687,0.11538461538461542,50.3,85.5,1,Bottom third,Holding,-9.200000000000003,-36.5
+Economy,"Employment rate, age 20–64",%,higher,employment,AT,2014,2025,74.2,77.6,6,17,27,0.8076923076923077,0.3846153846153846,67.5,76.1,-11,Middle third,Falling,1.5,6.700000000000003
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,AT,2014,2024,129.0,116.0,4,5,27,0.8846153846153846,0.8461538461538461,100.0,100.0,-1,Top third,Holding,16.0,29.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,AT,2014,2025,8.2,6.8,12,11,27,0.5769230769230769,0.6153846153846154,11.1,9.6,1,Middle third,Holding,2.8,2.9000000000000004
+Economy,Government budget balance,% of GDP,higher,gov_balance,AT,2014,2025,-1.9,-4.2,9,21,27,0.6923076923076923,0.23076923076923073,-2.4,-3.1,-12,Bottom third,Falling,-1.1,0.5
+Economy,Government debt,% of GDP,lower,gov_debt,AT,2014,2025,85.2,81.5,19,20,27,0.3076923076923077,0.2692307692307693,86.9,81.7,-1,Bottom third,Holding,0.20000000000000284,1.7000000000000028
+Economy,Young people not in work or education (15–29),%,lower,neet,AT,2014,2025,9.7,10.3,6,13,27,0.8076923076923077,0.5384615384615384,15.9,11.0,-7,Middle third,Falling,0.6999999999999993,6.200000000000001
+Economy,Unemployment rate,%,lower,unemployment,AT,2014,2025,6.0,5.7,4,13,27,0.8846153846153846,0.5384615384615384,11.0,6.0,-9,Middle third,Falling,0.2999999999999998,5.0
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,AT,2014,2025,14.3,16.1,7,11,27,0.7692307692307692,0.6153846153846154,10.1,13.7,-4,Middle third,Falling,2.400000000000002,4.200000000000001
+Education,At least basic digital skills,%,higher,digital_skills,AT,2021,2025,63.33,69.77,9,7,27,0.6923076923076923,0.7692307692307692,53.92,60.4,2,Top third,Holding,9.369999999999997,9.409999999999997
+Education,Early leavers from education (18–24),%,lower,early_leavers,AT,2014,2025,7.0,10.0,11,21,26,0.6153846153846154,0.19999999999999996,11.1,9.1,-10,Bottom third,Falling,-0.9000000000000004,4.1
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,AT,2015,2025,21.8,27.8,13,4,27,0.5384615384615384,0.8846153846153846,22.2,33.9,9,Top third,Climbing,6.099999999999998,0.3999999999999986
+Education,"University degree, age 25–34",%,higher,tertiary,AT,2014,2025,38.4,43.7,16,15,27,0.42307692307692313,0.46153846153846156,35.9,44.8,1,Middle third,Holding,-1.0999999999999943,2.5
+Environment & energy,Circular material use,%,higher,circularity,AT,2014,2024,9.9,15.2,9,7,27,0.6923076923076923,0.7692307692307692,11.1,12.2,2,Top third,Holding,3.0,-1.1999999999999993
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,AT,2014,2024,8.99,13.73,7,9,27,0.7692307692307692,0.6923076923076923,8.08,13.52,-2,Top third,Holding,0.21000000000000085,0.9100000000000001
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,AT,2014,2024,7.9,7.6,15,17,27,0.46153846153846156,0.3846153846153846,,,-2,Middle third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,AT,2014,2024,65.625,53.325,18,13,27,0.34615384615384615,0.5384615384615384,54.4,57.286,5,Middle third,Climbing,3.9609999999999985,-11.225000000000001
+Environment & energy,Municipal waste recycled,%,higher,recycling,AT,2014,2024,56.3,60.7,2,3,26,0.9615384615384616,0.92,43.4,49.4,-1,Top third,Holding,11.300000000000004,12.899999999999999
+Environment & energy,Renewable share of energy,%,higher,renewables,AT,2014,2025,33.55,44.2,4,5,27,0.8846153846153846,0.8461538461538461,17.416,26.2,-1,Top third,Holding,18.000000000000004,16.133999999999997
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,AT,2014,2025,72.0,69.0,9,9,27,0.6923076923076923,0.6923076923076923,64.0,62.0,0,Top third,Holding,7.0,8.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,AT,2014,2024,3.0,3.1,11,12,27,0.6153846153846154,0.5769230769230769,3.6,3.5,-1,Middle third,Holding,0.3999999999999999,0.6000000000000001
+Health,Life expectancy at birth,years,higher,life_exp,AT,2014,2024,81.4,82.1,9,12,27,0.6923076923076923,0.5769230769230769,80.6,81.5,-3,Middle third,Falling,0.5999999999999943,0.8000000000000114
+Health,Adult obesity,%,lower,obesity,AT,2014,2025,14.7,17.6,7,14,27,0.7692307692307692,0.5,15.4,16.3,-7,Middle third,Falling,-1.3000000000000007,0.7000000000000011
+Health,Preventable deaths,per 100k,lower,preventable_mort,AT,2014,2023,163.24,149.8,14,14,27,0.5,0.5,165.82,150.85,0,Middle third,Holding,1.049999999999983,2.579999999999984
+Health,Road traffic deaths,per 100k,lower,road_deaths,AT,2014,2024,5.0,3.8,9,11,27,0.6923076923076923,0.6153846153846154,5.5,4.4,-2,Middle third,Holding,0.6000000000000005,0.5
+Health,Treatable deaths,per 100k,lower,treatable_mort,AT,2014,2023,77.66,68.46,10,13,27,0.6538461538461539,0.5384615384615384,94.83,86.81,-3,Middle third,Falling,18.35000000000001,17.17
+Society,At risk of poverty or social exclusion,%,lower,arope,AT,2015,2025,16.9,18.6,3,11,27,0.9230769230769231,0.6153846153846154,24.0,20.9,-8,Middle third,Falling,2.299999999999997,7.100000000000001
+Society,Cannot keep home adequately warm,%,lower,cold_home,AT,2014,2025,3.2,4.0,7,6,27,0.7692307692307692,0.8076923076923077,10.4,8.8,1,Top third,Holding,4.800000000000001,7.2
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,AT,2014,2023,13.4,7.0,17,14,27,0.3846153846153846,0.5,13.6,10.0,3,Middle third,Climbing,3.0,0.1999999999999993
+Society,Housing cost overburden,%,lower,housing_cost_burden,AT,2014,2025,6.6,6.1,7,14,26,0.7692307692307692,0.48,11.5,7.7,-7,Middle third,Falling,1.6000000000000005,4.9
+Society,Severe housing deprivation,%,lower,housing_deprivation,AT,2014,2023,3.7,4.5,14,17,26,0.5,0.36,5.4,4.0,-3,Middle third,Falling,-0.5,1.7000000000000002
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,AT,2014,2025,4.13,4.25,9,10,27,0.6923076923076923,0.6538461538461539,5.22,4.62,-1,Middle third,Holding,0.3700000000000001,1.0899999999999999
+Society,Severe material & social deprivation,%,lower,severe_deprivation,AT,2015,2025,2.9,2.9,4,7,27,0.8846153846153846,0.7692307692307692,9.7,6.3,-3,Top third,Falling,3.4,6.799999999999999
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,BE,2014,2025,55.06,69.58,9,11,27,0.6923076923076923,0.6153846153846154,46.03,57.65,-2,Middle third,Holding,11.93,9.030000000000001
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,BE,2014,2025,4.2,5.9,7,7,27,0.7692307692307692,0.7692307692307692,3.4,5.0,0,Top third,Holding,0.9000000000000004,0.8000000000000003
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,BE,2014,2025,85.0,96.46,7,7,27,0.7692307692307692,0.7692307692307692,76.07,93.79,0,Top third,Holding,2.6699999999999875,8.930000000000007
+Digital & innovation,European patent applications,per million people,higher,patents,BE,2014,2025,171.92,214.42,8,9,27,0.7307692307692308,0.6923076923076923,141.49,152.56,-1,Top third,Holding,61.859999999999985,30.42999999999998
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,BE,2014,2024,2.36,3.25,7,3,27,0.7692307692307692,0.9230769230769231,2.09,2.26,4,Top third,Climbing,0.9900000000000002,0.27
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,BE,2019,2025,66.5,96.2,9,6,27,0.6923076923076923,0.8076923076923077,50.3,85.5,3,Top third,Climbing,10.700000000000003,16.200000000000003
+Economy,"Employment rate, age 20–64",%,higher,employment,BE,2014,2025,67.3,72.8,18,23,27,0.34615384615384615,0.15384615384615385,67.5,76.1,-5,Bottom third,Falling,-3.299999999999997,-0.20000000000000284
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,BE,2014,2024,121.0,116.0,8,5,27,0.7307692307692308,0.8461538461538461,100.0,100.0,3,Top third,Climbing,16.0,21.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,BE,2014,2025,8.7,7.1,13,14,27,0.5384615384615384,0.5,11.1,9.6,-1,Middle third,Holding,2.5,2.4000000000000004
+Economy,Government budget balance,% of GDP,higher,gov_balance,BE,2014,2025,-3.2,-5.2,16,25,27,0.42307692307692313,0.07692307692307687,-2.4,-3.1,-9,Bottom third,Falling,-2.1,-0.8000000000000003
+Economy,Government debt,% of GDP,lower,gov_debt,BE,2014,2025,106.6,107.9,23,24,27,0.15384615384615385,0.11538461538461542,86.9,81.7,-1,Bottom third,Holding,-26.200000000000003,-19.69999999999999
+Economy,Young people not in work or education (15–29),%,lower,neet,BE,2014,2025,13.3,9.8,13,12,27,0.5384615384615384,0.5769230769230769,15.9,11.0,1,Middle third,Holding,1.1999999999999993,2.5999999999999996
+Economy,Unemployment rate,%,lower,unemployment,BE,2014,2025,8.7,6.2,12,17,27,0.5769230769230769,0.3846153846153846,11.0,6.0,-5,Middle third,Falling,-0.20000000000000018,2.3000000000000007
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,BE,2014,2025,7.4,18.0,16,8,27,0.42307692307692313,0.7307692307692308,10.1,13.7,8,Top third,Climbing,4.300000000000001,-2.6999999999999993
+Education,At least basic digital skills,%,higher,digital_skills,BE,2021,2025,54.23,61.22,16,14,27,0.42307692307692313,0.5,53.92,60.4,2,Middle third,Holding,0.8200000000000003,0.30999999999999517
+Education,Early leavers from education (18–24),%,lower,early_leavers,BE,2014,2025,9.8,7.3,19,12,26,0.3076923076923077,0.56,11.1,9.1,7,Middle third,Climbing,1.7999999999999998,1.299999999999999
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,BE,2015,2025,20.1,28.4,9,6,27,0.6923076923076923,0.8076923076923077,22.2,33.9,3,Top third,Climbing,5.5,2.099999999999998
+Education,"University degree, age 25–34",%,higher,tertiary,BE,2014,2025,44.2,52.7,8,8,27,0.7307692307692308,0.7307692307692308,35.9,44.8,0,Top third,Holding,7.900000000000006,8.300000000000004
+Environment & energy,Circular material use,%,higher,circularity,BE,2014,2024,17.9,22.7,3,2,27,0.9230769230769231,0.9615384615384616,11.1,12.2,1,Top third,Holding,10.5,6.799999999999999
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,BE,2014,2024,6.15,9.73,22,24,27,0.1923076923076923,0.11538461538461542,8.08,13.52,-2,Bottom third,Holding,-3.789999999999999,-1.9299999999999997
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,BE,2014,2024,10.1,8.2,21,19,27,0.23076923076923073,0.3076923076923077,,,2,Bottom third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,BE,2014,2024,80.19,75.448,23,22,27,0.15384615384615385,0.1923076923076923,54.4,57.286,1,Bottom third,Holding,-18.161999999999992,-25.79
+Environment & energy,Municipal waste recycled,%,higher,recycling,BE,2014,2024,53.8,56.6,3,5,26,0.9230769230769231,0.84,43.4,49.4,-2,Top third,Holding,7.200000000000003,10.399999999999999
+Environment & energy,Renewable share of energy,%,higher,renewables,BE,2014,2025,8.038,14.9,24,27,27,0.11538461538461542,0.0,17.416,26.2,-3,Bottom third,Falling,-11.299999999999999,-9.378
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,BE,2014,2025,76.0,69.0,7,9,27,0.7692307692307692,0.6923076923076923,64.0,62.0,-2,Top third,Holding,7.0,12.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,BE,2014,2024,3.4,3.5,14,17,27,0.5,0.3846153846153846,3.6,3.5,-3,Middle third,Falling,0.0,0.20000000000000018
+Health,Life expectancy at birth,years,higher,life_exp,BE,2014,2024,81.1,82.4,12,10,27,0.5769230769230769,0.6538461538461539,80.6,81.5,2,Middle third,Holding,0.9000000000000057,0.5
+Health,Adult obesity,%,lower,obesity,BE,2014,2025,14.0,16.8,4,11,27,0.8846153846153846,0.6153846153846154,15.4,16.3,-7,Middle third,Falling,-0.5,1.4000000000000004
+Health,Preventable deaths,per 100k,lower,preventable_mort,BE,2014,2023,161.47,136.93,13,12,27,0.5384615384615384,0.5769230769230769,165.82,150.85,1,Middle third,Holding,13.919999999999987,4.349999999999994
+Health,Road traffic deaths,per 100k,lower,road_deaths,BE,2014,2024,6.6,4.0,20,12,27,0.2692307692307693,0.5769230769230769,5.5,4.4,8,Middle third,Climbing,0.40000000000000036,-1.0999999999999996
+Health,Treatable deaths,per 100k,lower,treatable_mort,BE,2014,2023,74.86,58.83,8,4,27,0.7307692307692308,0.8846153846153846,94.83,86.81,4,Top third,Climbing,27.980000000000004,19.97
+Society,At risk of poverty or social exclusion,%,lower,arope,BE,2015,2025,21.6,16.5,12,5,27,0.5769230769230769,0.8461538461538461,24.0,20.9,7,Top third,Climbing,4.399999999999999,2.3999999999999986
+Society,Cannot keep home adequately warm,%,lower,cold_home,BE,2014,2025,5.4,4.2,9,8,27,0.6923076923076923,0.7307692307692308,10.4,8.8,1,Top third,Holding,4.6000000000000005,5.0
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,BE,2014,2023,16.2,12.4,23,22,27,0.15384615384615385,0.1923076923076923,13.6,10.0,1,Bottom third,Holding,-2.4000000000000004,-2.5999999999999996
+Society,Housing cost overburden,%,lower,housing_cost_burden,BE,2014,2025,10.4,6.7,18,18,26,0.34615384615384615,0.31999999999999995,11.5,7.7,0,Middle third,Holding,1.0,1.0999999999999996
+Society,Severe housing deprivation,%,lower,housing_deprivation,BE,2014,2023,0.9,1.7,3,5,26,0.9230769230769231,0.84,5.4,4.0,-2,Top third,Holding,2.3,4.5
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,BE,2014,2025,3.81,3.25,4,1,27,0.8846153846153846,1.0,5.22,4.62,3,Top third,Climbing,1.37,1.4099999999999997
+Society,Severe material & social deprivation,%,lower,severe_deprivation,BE,2015,2025,7.2,4.9,12,16,27,0.5769230769230769,0.42307692307692313,9.7,6.3,-4,Middle third,Falling,1.3999999999999995,2.499999999999999
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,BG,2014,2025,21.02,26.56,26,26,27,0.038461538461538436,0.038461538461538436,46.03,57.65,0,Bottom third,Holding,-31.09,-25.01
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,BG,2014,2025,2.5,4.8,23,16,27,0.15384615384615385,0.42307692307692313,3.4,5.0,7,Middle third,Climbing,-0.20000000000000018,-0.8999999999999999
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,BG,2014,2025,55.49,86.85,26,26,27,0.038461538461538436,0.038461538461538436,76.07,93.79,0,Bottom third,Holding,-6.940000000000012,-20.57999999999999
+Digital & innovation,European patent applications,per million people,higher,patents,BG,2014,2025,4.81,11.18,23,24,27,0.15384615384615385,0.11538461538461542,141.49,152.56,-1,Bottom third,Holding,-141.38,-136.68
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,BG,2014,2024,0.79,0.77,22,24,27,0.1923076923076923,0.11538461538461542,2.09,2.26,-2,Bottom third,Holding,-1.4899999999999998,-1.2999999999999998
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,BG,2019,2025,65.2,93.5,10,10,27,0.6538461538461539,0.6538461538461539,50.3,85.5,0,Middle third,Holding,8.0,14.900000000000006
+Economy,"Employment rate, age 20–64",%,higher,employment,BG,2014,2025,64.4,77.0,22,18,27,0.1923076923076923,0.34615384615384615,67.5,76.1,4,Middle third,Climbing,0.9000000000000057,-3.0999999999999943
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,BG,2014,2024,48.0,66.0,27,27,27,0.0,0.0,100.0,100.0,0,Bottom third,Holding,-34.0,-52.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,BG,2014,2025,5.8,7.4,5,15,27,0.8461538461538461,0.46153846153846156,11.1,9.6,-10,Middle third,Falling,2.1999999999999993,5.3
+Economy,Government budget balance,% of GDP,higher,gov_balance,BG,2014,2025,-5.4,-3.5,24,20,27,0.11538461538461542,0.2692307692307693,-2.4,-3.1,4,Bottom third,Climbing,-0.3999999999999999,-3.0000000000000004
+Economy,Government debt,% of GDP,lower,gov_debt,BG,2014,2025,27.0,29.9,3,4,27,0.9230769230769231,0.8846153846153846,86.9,81.7,-1,Top third,Holding,51.800000000000004,59.900000000000006
+Economy,Young people not in work or education (15–29),%,lower,neet,BG,2014,2025,23.9,13.8,24,26,27,0.11538461538461542,0.038461538461538436,15.9,11.0,-2,Bottom third,Holding,-2.8000000000000007,-7.999999999999998
+Economy,Unemployment rate,%,lower,unemployment,BG,2014,2025,12.4,3.5,20,4,27,0.2692307692307693,0.8846153846153846,11.0,6.0,16,Top third,Climbing,2.5,-1.4000000000000004
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,BG,2014,2025,2.1,6.1,26,26,27,0.038461538461538436,0.038461538461538436,10.1,13.7,0,Bottom third,Holding,-7.6,-8.0
+Education,At least basic digital skills,%,higher,digital_skills,BG,2021,2025,31.18,38.26,26,26,27,0.038461538461538436,0.038461538461538436,53.92,60.4,0,Bottom third,Holding,-22.14,-22.740000000000002
+Education,Early leavers from education (18–24),%,lower,early_leavers,BG,2014,2025,12.9,8.6,22,15,26,0.1923076923076923,0.43999999999999995,11.1,9.1,7,Middle third,Climbing,0.5,-1.8000000000000007
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,BG,2015,2025,42.1,57.2,26,27,27,0.038461538461538436,0.0,22.2,33.9,-1,Bottom third,Holding,-23.300000000000004,-19.900000000000002
+Education,"University degree, age 25–34",%,higher,tertiary,BG,2014,2025,31.3,41.2,21,20,27,0.23076923076923073,0.2692307692307693,35.9,44.8,1,Bottom third,Holding,-3.5999999999999943,-4.599999999999998
+Environment & energy,Circular material use,%,higher,circularity,BG,2014,2024,2.7,5.0,22,22,27,0.1923076923076923,0.1923076923076923,11.1,12.2,0,Bottom third,Holding,-7.199999999999999,-8.399999999999999
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,BG,2014,2024,5.08,9.78,25,23,27,0.07692307692307687,0.15384615384615385,8.08,13.52,2,Bottom third,Holding,-3.74,-3.0
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,BG,2014,2024,7.1,5.5,14,13,27,0.5,0.5384615384615384,,,1,Middle third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,BG,2014,2024,35.171,41.936,8,9,27,0.7307692307692308,0.6923076923076923,54.4,57.286,-1,Top third,Holding,15.350000000000001,19.229
+Environment & energy,Municipal waste recycled,%,higher,recycling,BG,2014,2024,23.1,21.8,21,23,26,0.23076923076923073,0.12,43.4,49.4,-2,Bottom third,Holding,-27.599999999999998,-20.299999999999997
+Environment & energy,Renewable share of energy,%,higher,renewables,BG,2014,2025,18.05,22.7,12,16,27,0.5769230769230769,0.42307692307692313,17.416,26.2,-4,Middle third,Falling,-3.5,0.6340000000000003
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,BG,2014,2025,43.0,40.0,24,26,27,0.11538461538461542,0.038461538461538436,64.0,62.0,-2,Bottom third,Holding,-22.0,-21.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,BG,2014,2024,7.6,4.5,26,23,27,0.038461538461538436,0.15384615384615385,3.6,3.5,3,Bottom third,Climbing,-1.0,-3.9999999999999996
+Health,Life expectancy at birth,years,higher,life_exp,BG,2014,2024,74.4,75.8,26,27,27,0.038461538461538436,0.0,80.6,81.5,-1,Bottom third,Holding,-5.700000000000003,-6.199999999999989
+Health,Adult obesity,%,lower,obesity,BG,2014,2025,14.8,15.4,8,6,27,0.7307692307692308,0.8076923076923077,15.4,16.3,2,Top third,Holding,0.9000000000000004,0.5999999999999996
+Health,Preventable deaths,per 100k,lower,preventable_mort,BG,2014,2023,243.99,220.09,21,21,27,0.23076923076923073,0.23076923076923073,165.82,150.85,0,Bottom third,Holding,-69.24000000000001,-78.17000000000002
+Health,Road traffic deaths,per 100k,lower,road_deaths,BG,2014,2024,9.3,7.4,26,26,27,0.038461538461538436,0.038461538461538436,5.5,4.4,0,Bottom third,Holding,-3.0,-3.8000000000000007
+Health,Treatable deaths,per 100k,lower,treatable_mort,BG,2014,2023,200.79,185.28,24,25,27,0.11538461538461542,0.07692307692307687,94.83,86.81,-1,Bottom third,Holding,-98.47,-105.96
+Society,At risk of poverty or social exclusion,%,lower,arope,BG,2015,2025,43.3,29.0,26,27,27,0.038461538461538436,0.0,24.0,20.9,-1,Bottom third,Holding,-8.100000000000001,-19.299999999999997
+Society,Cannot keep home adequately warm,%,lower,cold_home,BG,2014,2025,40.5,16.1,27,25,27,0.0,0.07692307692307687,10.4,8.8,2,Bottom third,Holding,-7.300000000000001,-30.1
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,BG,2014,2023,26.8,15.6,27,25,27,0.0,0.07692307692307687,13.6,10.0,2,Bottom third,Holding,-5.6,-13.200000000000001
+Society,Housing cost overburden,%,lower,housing_cost_burden,BG,2014,2025,12.9,6.9,22,19,26,0.1923076923076923,0.28,11.5,7.7,3,Bottom third,Climbing,0.7999999999999998,-1.4000000000000004
+Society,Severe housing deprivation,%,lower,housing_deprivation,BG,2014,2023,12.9,6.0,24,22,26,0.11538461538461542,0.16000000000000003,5.4,4.0,2,Bottom third,Holding,-2.0,-7.5
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,BG,2014,2025,6.81,6.94,25,27,27,0.07692307692307687,0.0,5.22,4.62,-2,Bottom third,Holding,-2.3200000000000003,-1.5899999999999999
+Society,Severe material & social deprivation,%,lower,severe_deprivation,BG,2015,2025,36.8,15.0,27,26,27,0.0,0.038461538461538436,9.7,6.3,1,Bottom third,Holding,-8.7,-27.099999999999998
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,CY,2014,2025,41.45,66.02,19,14,27,0.3076923076923077,0.5,46.03,57.65,5,Middle third,Climbing,8.369999999999997,-4.579999999999998
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,CY,2014,2025,2.8,4.9,19,13,27,0.3076923076923077,0.5384615384615384,3.4,5.0,6,Middle third,Climbing,-0.09999999999999964,-0.6000000000000001
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,CY,2014,2025,69.33,93.79,20,16,27,0.2692307692307693,0.42307692307692313,76.07,93.79,4,Middle third,Climbing,0.0,-6.739999999999995
+Digital & innovation,European patent applications,per million people,higher,patents,CY,2014,2025,51.62,57.99,14,15,27,0.5,0.46153846153846156,141.49,152.56,-1,Middle third,Holding,-94.57,-89.87
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,CY,2014,2024,0.51,0.64,26,25,27,0.038461538461538436,0.07692307692307687,2.09,2.26,1,Bottom third,Holding,-1.6199999999999997,-1.5799999999999998
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,CY,2019,2025,10.1,95.5,26,8,27,0.038461538461538436,0.7307692307692308,50.3,85.5,18,Top third,Climbing,10.0,-40.199999999999996
+Economy,"Employment rate, age 20–64",%,higher,employment,CY,2014,2025,67.6,81.3,17,6,27,0.3846153846153846,0.8076923076923077,67.5,76.1,11,Top third,Climbing,5.200000000000003,0.09999999999999432
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,CY,2014,2024,80.0,95.0,16,13,27,0.42307692307692313,0.5384615384615384,100.0,100.0,3,Middle third,Climbing,-5.0,-20.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,CY,2014,2025,7.7,10.1,10,21,27,0.6538461538461539,0.23076923076923073,11.1,9.6,-11,Bottom third,Falling,-0.5,3.3999999999999995
+Economy,Government budget balance,% of GDP,higher,gov_balance,CY,2014,2025,-8.8,3.4,27,1,27,0.0,1.0,-2.4,-3.1,26,Top third,Climbing,6.5,-6.4
+Economy,Government debt,% of GDP,lower,gov_debt,CY,2014,2025,113.5,55.0,24,12,27,0.11538461538461542,0.5769230769230769,86.9,81.7,12,Middle third,Climbing,26.700000000000003,-26.599999999999994
+Economy,Young people not in work or education (15–29),%,lower,neet,CY,2014,2025,19.5,10.6,21,14,27,0.23076923076923073,0.5,15.9,11.0,7,Middle third,Climbing,0.40000000000000036,-3.5999999999999996
+Economy,Unemployment rate,%,lower,unemployment,CY,2014,2025,16.1,4.4,24,8,27,0.11538461538461542,0.7307692307692308,11.0,6.0,16,Top third,Climbing,1.5999999999999996,-5.100000000000001
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,CY,2014,2025,7.1,12.0,17,15,27,0.3846153846153846,0.46153846153846156,10.1,13.7,2,Middle third,Holding,-1.6999999999999993,-3.0
+Education,At least basic digital skills,%,higher,digital_skills,CY,2021,2025,50.21,55.75,19,18,27,0.3076923076923077,0.34615384615384615,53.92,60.4,1,Middle third,Holding,-4.649999999999999,-3.710000000000001
+Education,Early leavers from education (18–24),%,lower,early_leavers,CY,2014,2025,6.8,9.8,10,19,26,0.6538461538461539,0.28,11.1,9.1,-9,Bottom third,Falling,-0.7000000000000011,4.3
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,CY,2015,2025,42.6,55.6,27,26,27,0.0,0.038461538461538436,22.2,33.9,1,Bottom third,Holding,-21.700000000000003,-20.400000000000002
+Education,"University degree, age 25–34",%,higher,tertiary,CY,2014,2025,54.0,60.0,1,4,27,1.0,0.8846153846153846,35.9,44.8,-3,Top third,Falling,15.200000000000003,18.1
+Environment & energy,Circular material use,%,higher,circularity,CY,2014,2024,2.2,5.5,24,20,27,0.11538461538461542,0.2692307692307693,11.1,12.2,4,Bottom third,Climbing,-6.699999999999999,-8.899999999999999
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,CY,2014,2024,7.44,13.13,14,12,27,0.5,0.5769230769230769,8.08,13.52,2,Middle third,Holding,-0.3899999999999988,-0.6399999999999997
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,CY,2014,2024,9.5,8.9,19,24,27,0.3076923076923077,0.11538461538461542,,,-5,Bottom third,Falling,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,CY,2014,2024,93.086,87.706,25,25,27,0.07692307692307687,0.07692307692307687,54.4,57.286,0,Bottom third,Holding,-30.42,-38.686
+Environment & energy,Municipal waste recycled,%,higher,recycling,CY,2014,2024,14.8,15.8,24,26,26,0.11538461538461542,0.0,43.4,49.4,-2,Bottom third,Holding,-33.599999999999994,-28.599999999999998
+Environment & energy,Renewable share of energy,%,higher,renewables,CY,2014,2025,9.144,21.5,22,18,27,0.1923076923076923,0.34615384615384615,17.416,26.2,4,Middle third,Climbing,-4.699999999999999,-8.272
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,CY,2014,2025,63.0,55.0,12,17,27,0.5769230769230769,0.3846153846153846,64.0,62.0,-5,Middle third,Falling,-7.0,-1.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,CY,2014,2024,2.1,3.0,2,9,27,0.9615384615384616,0.6923076923076923,3.6,3.5,-7,Top third,Falling,0.5,1.5
+Health,Life expectancy at birth,years,higher,life_exp,CY,2014,2024,82.3,83.5,4,4,27,0.8846153846153846,0.8846153846153846,80.6,81.5,0,Top third,Holding,2.0,1.7000000000000028
+Health,Adult obesity,%,lower,obesity,CY,2014,2025,14.5,15.5,6,7,27,0.8076923076923077,0.7692307692307692,15.4,16.3,-1,Top third,Holding,0.8000000000000007,0.9000000000000004
+Health,Preventable deaths,per 100k,lower,preventable_mort,CY,2014,2023,108.54,89.7,1,1,27,1.0,1.0,165.82,150.85,0,Top third,Holding,61.14999999999999,57.27999999999999
+Health,Road traffic deaths,per 100k,lower,road_deaths,CY,2014,2024,5.2,4.2,11,13,27,0.6153846153846154,0.5384615384615384,5.5,4.4,-2,Middle third,Holding,0.20000000000000018,0.2999999999999998
+Health,Treatable deaths,per 100k,lower,treatable_mort,CY,2014,2023,73.46,62.94,7,8,27,0.7692307692307692,0.7307692307692308,94.83,86.81,-1,Top third,Holding,23.870000000000005,21.370000000000005
+Society,At risk of poverty or social exclusion,%,lower,arope,CY,2015,2025,22.8,17.1,15,7,27,0.46153846153846156,0.7692307692307692,24.0,20.9,8,Top third,Climbing,3.799999999999997,1.1999999999999993
+Society,Cannot keep home adequately warm,%,lower,cold_home,CY,2014,2025,27.5,11.3,24,20,27,0.11538461538461542,0.2692307692307693,10.4,8.8,4,Bottom third,Climbing,-2.5,-17.1
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,CY,2014,2023,11.9,9.6,11,18,27,0.6153846153846154,0.34615384615384615,13.6,10.0,-7,Middle third,Falling,0.40000000000000036,1.6999999999999993
+Society,Housing cost overburden,%,lower,housing_cost_burden,CY,2014,2025,4.0,2.4,2,1,26,0.9615384615384616,1.0,11.5,7.7,1,Top third,Holding,5.300000000000001,7.5
+Society,Severe housing deprivation,%,lower,housing_deprivation,CY,2014,2023,1.5,1.2,6,3,26,0.8076923076923077,0.92,5.4,4.0,3,Top third,Climbing,2.8,3.9000000000000004
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,CY,2014,2025,5.37,4.6,18,14,27,0.34615384615384615,0.5,5.22,4.62,4,Middle third,Climbing,0.020000000000000462,-0.15000000000000036
+Society,Severe material & social deprivation,%,lower,severe_deprivation,CY,2015,2025,7.9,2.2,15,4,27,0.46153846153846156,0.8846153846153846,9.7,6.3,11,Top third,Climbing,4.1,1.799999999999999
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,CZ,2014,2025,37.08,66.57,22,13,27,0.1923076923076923,0.5384615384615384,46.03,57.65,9,Middle third,Climbing,8.919999999999995,-8.950000000000003
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,CZ,2014,2025,3.7,4.7,9,19,27,0.6923076923076923,0.3076923076923077,3.4,5.0,-10,Bottom third,Falling,-0.2999999999999998,0.30000000000000027
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,CZ,2014,2025,79.71,94.52,12,15,27,0.5769230769230769,0.46153846153846156,76.07,93.79,-3,Middle third,Falling,0.7299999999999898,3.6400000000000006
+Digital & innovation,European patent applications,per million people,higher,patents,CZ,2014,2025,15.87,24.47,17,19,27,0.3846153846153846,0.3076923076923077,141.49,152.56,-2,Bottom third,Holding,-128.09,-125.62
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,CZ,2014,2024,1.94,1.82,10,11,27,0.6538461538461539,0.6153846153846154,2.09,2.26,-1,Middle third,Holding,-0.4399999999999997,-0.1499999999999999
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,CZ,2019,2025,29.3,54.7,24,27,27,0.11538461538461542,0.0,50.3,85.5,-3,Bottom third,Falling,-30.799999999999997,-20.999999999999996
+Economy,"Employment rate, age 20–64",%,higher,employment,CZ,2014,2025,73.5,82.9,7,3,27,0.7692307692307692,0.9230769230769231,67.5,76.1,4,Top third,Climbing,6.800000000000011,6.0
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,CZ,2014,2024,88.0,91.0,14,15,27,0.5,0.46153846153846156,100.0,100.0,-1,Middle third,Holding,-9.0,-12.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,CZ,2014,2025,17.5,10.7,23,22,27,0.15384615384615385,0.1923076923076923,11.1,9.6,1,Bottom third,Holding,-1.0999999999999996,-6.4
+Economy,Government budget balance,% of GDP,higher,gov_balance,CZ,2014,2025,-2.1,-2.1,11,11,27,0.6153846153846154,0.6153846153846154,-2.4,-3.1,0,Middle third,Holding,1.0,0.2999999999999998
+Economy,Government debt,% of GDP,lower,gov_debt,CZ,2014,2025,41.5,44.3,6,8,27,0.8076923076923077,0.7307692307692308,86.9,81.7,-2,Top third,Holding,37.400000000000006,45.400000000000006
+Economy,Young people not in work or education (15–29),%,lower,neet,CZ,2014,2025,12.1,8.0,10,4,27,0.6538461538461539,0.8846153846153846,15.9,11.0,6,Top third,Climbing,3.0,3.8000000000000007
+Economy,Unemployment rate,%,lower,unemployment,CZ,2014,2025,6.1,2.8,5,1,27,0.8461538461538461,1.0,11.0,6.0,4,Top third,Climbing,3.2,4.9
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,CZ,2014,2025,9.6,11.1,11,18,27,0.6153846153846154,0.34615384615384615,10.1,13.7,-7,Middle third,Falling,-2.5999999999999996,-0.5
+Education,At least basic digital skills,%,higher,digital_skills,CZ,2021,2025,59.69,70.45,12,5,27,0.5769230769230769,0.8461538461538461,53.92,60.4,7,Top third,Climbing,10.050000000000004,5.769999999999996
+Education,Early leavers from education (18–24),%,lower,early_leavers,CZ,2014,2025,5.5,6.1,4,7,26,0.8846153846153846,0.76,11.1,9.1,-3,Top third,Falling,3.0,5.6
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,CZ,2015,2025,21.7,29.0,12,8,27,0.5769230769230769,0.7307692307692308,22.2,33.9,4,Top third,Climbing,4.899999999999999,0.5
+Education,"University degree, age 25–34",%,higher,tertiary,CZ,2014,2025,29.9,36.0,23,24,27,0.15384615384615385,0.11538461538461542,35.9,44.8,-1,Bottom third,Holding,-8.799999999999997,-6.0
+Environment & energy,Circular material use,%,higher,circularity,CZ,2014,2024,6.8,14.8,13,8,27,0.5384615384615384,0.7307692307692308,11.1,12.2,5,Top third,Climbing,2.6000000000000014,-4.3
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,CZ,2014,2024,5.88,10.39,23,20,27,0.15384615384615385,0.2692307692307693,8.08,13.52,3,Bottom third,Climbing,-3.129999999999999,-2.2
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,CZ,2014,2024,11.0,8.4,22,20,27,0.1923076923076923,0.2692307692307693,,,2,Bottom third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,CZ,2014,2024,30.227,39.32,5,7,27,0.8461538461538461,0.7692307692307692,54.4,57.286,-2,Top third,Holding,17.966,24.173
+Environment & energy,Municipal waste recycled,%,higher,recycling,CZ,2014,2024,25.4,44.4,20,15,26,0.2692307692307693,0.43999999999999995,43.4,49.4,5,Middle third,Climbing,-5.0,-18.0
+Environment & energy,Renewable share of energy,%,higher,renewables,CZ,2014,2025,15.074,19.1,16,22,27,0.42307692307692313,0.1923076923076923,17.416,26.2,-6,Bottom third,Falling,-7.099999999999998,-2.3420000000000005
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,CZ,2014,2025,51.0,59.0,21,14,27,0.23076923076923073,0.5,64.0,62.0,7,Middle third,Climbing,-3.0,-13.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,CZ,2014,2024,2.4,2.3,5,6,27,0.8461538461538461,0.8076923076923077,3.6,3.5,-1,Top third,Holding,1.2000000000000002,1.2000000000000002
+Health,Life expectancy at birth,years,higher,life_exp,CZ,2014,2024,78.8,80.1,18,18,27,0.34615384615384615,0.34615384615384615,80.6,81.5,0,Middle third,Holding,-1.4000000000000057,-1.7999999999999972
+Health,Adult obesity,%,lower,obesity,CZ,2014,2025,19.3,21.1,23,21,27,0.15384615384615385,0.23076923076923073,15.4,16.3,2,Bottom third,Holding,-4.800000000000001,-3.9000000000000004
+Health,Preventable deaths,per 100k,lower,preventable_mort,CZ,2014,2023,204.71,173.86,18,18,27,0.34615384615384615,0.34615384615384615,165.82,150.85,0,Middle third,Holding,-23.01000000000002,-38.890000000000015
+Health,Road traffic deaths,per 100k,lower,road_deaths,CZ,2014,2024,6.5,4.5,19,15,27,0.3076923076923077,0.46153846153846156,5.5,4.4,4,Middle third,Climbing,-0.09999999999999964,-1.0
+Health,Treatable deaths,per 100k,lower,treatable_mort,CZ,2014,2023,131.86,107.19,19,18,27,0.3076923076923077,0.34615384615384615,94.83,86.81,1,Middle third,Holding,-20.379999999999995,-37.030000000000015
+Society,At risk of poverty or social exclusion,%,lower,arope,CZ,2015,2025,13.0,11.5,1,1,27,1.0,1.0,24.0,20.9,0,Top third,Holding,9.399999999999999,11.0
+Society,Cannot keep home adequately warm,%,lower,cold_home,CZ,2014,2025,6.1,4.1,12,7,27,0.5769230769230769,0.7692307692307692,10.4,8.8,5,Top third,Climbing,4.700000000000001,4.300000000000001
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,CZ,2014,2023,13.5,6.6,18,11,27,0.34615384615384615,0.6153846153846154,13.6,10.0,7,Middle third,Climbing,3.4000000000000004,0.09999999999999964
+Society,Housing cost overburden,%,lower,housing_cost_burden,CZ,2014,2025,10.5,8.2,19,22,26,0.3076923076923077,0.16000000000000003,11.5,7.7,-3,Bottom third,Falling,-0.4999999999999991,1.0
+Society,Severe housing deprivation,%,lower,housing_deprivation,CZ,2014,2023,3.5,2.6,13,10,26,0.5384615384615384,0.64,5.4,4.0,3,Middle third,Climbing,1.4,1.9000000000000004
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,CZ,2014,2025,3.5,3.34,1,3,27,1.0,0.9230769230769231,5.22,4.62,-2,Top third,Holding,1.2800000000000002,1.7199999999999998
+Society,Severe material & social deprivation,%,lower,severe_deprivation,CZ,2015,2025,4.5,2.6,8,5,27,0.7307692307692308,0.8461538461538461,9.7,6.3,3,Top third,Climbing,3.6999999999999997,5.199999999999999
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,DE,2014,2025,52.66,51.13,12,23,27,0.5769230769230769,0.15384615384615385,46.03,57.65,-11,Bottom third,Falling,-6.519999999999996,6.6299999999999955
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,DE,2014,2025,3.6,5.5,10,10,27,0.6538461538461539,0.6538461538461539,3.4,5.0,0,Middle third,Holding,0.5,0.20000000000000018
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,DE,2014,2025,86.19,94.58,6,13,27,0.8076923076923077,0.5384615384615384,76.07,93.79,-7,Middle third,Falling,0.789999999999992,10.120000000000005
+Digital & innovation,European patent applications,per million people,higher,patents,DE,2014,2025,316.53,292.86,6,6,27,0.8076923076923077,0.8076923076923077,141.49,152.56,0,Top third,Holding,140.3,175.03999999999996
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,DE,2014,2024,2.82,3.12,5,6,27,0.8461538461538461,0.8076923076923077,2.09,2.26,-1,Top third,Holding,0.8600000000000003,0.73
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,DE,2019,2025,34.4,79.9,22,21,27,0.1923076923076923,0.23076923076923073,50.3,85.5,1,Bottom third,Holding,-5.599999999999994,-15.899999999999999
+Economy,"Employment rate, age 20–64",%,higher,employment,DE,2014,2025,76.7,81.1,2,7,27,0.9615384615384616,0.7692307692307692,67.5,76.1,-5,Top third,Falling,5.0,9.200000000000003
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,DE,2014,2024,128.0,115.0,5,7,27,0.8461538461538461,0.7692307692307692,100.0,100.0,-2,Top third,Holding,15.0,28.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,DE,2014,2025,9.0,6.8,14,11,27,0.5,0.6153846153846154,11.1,9.6,3,Middle third,Climbing,2.8,2.0999999999999996
+Economy,Government budget balance,% of GDP,higher,gov_balance,DE,2014,2025,0.7,-2.7,4,16,27,0.8846153846153846,0.42307692307692313,-2.4,-3.1,-12,Middle third,Falling,0.3999999999999999,3.0999999999999996
+Economy,Government debt,% of GDP,lower,gov_debt,DE,2014,2025,74.5,63.5,15,17,27,0.46153846153846156,0.3846153846153846,86.9,81.7,-2,Middle third,Holding,18.200000000000003,12.400000000000006
+Economy,Young people not in work or education (15–29),%,lower,neet,DE,2014,2025,9.5,9.5,5,11,27,0.8461538461538461,0.6153846153846154,15.9,11.0,-6,Middle third,Falling,1.5,6.4
+Economy,Unemployment rate,%,lower,unemployment,DE,2014,2025,4.7,3.8,1,5,27,1.0,0.8461538461538461,11.0,6.0,-4,Top third,Falling,2.2,6.3
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,DE,2014,2025,8.0,9.3,14,23,27,0.5,0.15384615384615385,10.1,13.7,-9,Bottom third,Falling,-4.399999999999999,-2.0999999999999996
+Education,At least basic digital skills,%,higher,digital_skills,DE,2021,2025,48.92,59.55,22,15,27,0.1923076923076923,0.46153846153846156,53.92,60.4,7,Middle third,Climbing,-0.8500000000000014,-5.0
+Education,Early leavers from education (18–24),%,lower,early_leavers,DE,2014,2025,9.5,13.1,17,25,26,0.3846153846153846,0.040000000000000036,11.1,9.1,-8,Bottom third,Falling,-4.0,1.5999999999999996
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,DE,2015,2025,17.2,34.4,7,17,27,0.7692307692307692,0.3846153846153846,22.2,33.9,-10,Middle third,Falling,-0.5,5.0
+Education,"University degree, age 25–34",%,higher,tertiary,DE,2014,2025,28.4,40.9,25,21,27,0.07692307692307687,0.23076923076923073,35.9,44.8,4,Bottom third,Climbing,-3.8999999999999986,-7.5
+Environment & energy,Circular material use,%,higher,circularity,DE,2014,2024,11.2,14.8,7,8,27,0.7692307692307692,0.7307692307692308,11.1,12.2,-1,Top third,Holding,2.6000000000000014,0.09999999999999964
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,DE,2014,2024,8.73,15.34,9,7,27,0.6923076923076923,0.7692307692307692,8.08,13.52,2,Top third,Holding,1.8200000000000003,0.6500000000000004
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,DE,2014,2024,11.2,8.5,23,21,27,0.15384615384615385,0.23076923076923073,,,2,Bottom third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,DE,2014,2024,61.779,66.812,16,18,27,0.42307692307692313,0.34615384615384615,54.4,57.286,-2,Middle third,Holding,-9.525999999999996,-7.379000000000005
+Environment & energy,Municipal waste recycled,%,higher,recycling,DE,2014,2024,65.6,69.0,1,1,26,1.0,1.0,43.4,49.4,0,Top third,Holding,19.6,22.199999999999996
+Environment & energy,Renewable share of energy,%,higher,renewables,DE,2014,2025,14.381,23.9,18,14,27,0.34615384615384615,0.5,17.416,26.2,4,Middle third,Climbing,-2.3000000000000007,-3.035
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,DE,2014,2025,79.0,77.0,6,6,27,0.8076923076923077,0.8076923076923077,64.0,62.0,0,Top third,Holding,15.0,15.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,DE,2014,2024,3.2,3.3,12,14,27,0.5769230769230769,0.5,3.6,3.5,-2,Middle third,Holding,0.20000000000000018,0.3999999999999999
+Health,Life expectancy at birth,years,higher,life_exp,DE,2014,2024,80.9,81.2,15,17,27,0.46153846153846156,0.3846153846153846,80.6,81.5,-2,Middle third,Holding,-0.29999999999999716,0.30000000000001137
+Health,Adult obesity,%,lower,obesity,DE,2014,2025,16.9,20.8,15,19,27,0.46153846153846156,0.3076923076923077,15.4,16.3,-4,Bottom third,Falling,-4.5,-1.4999999999999982
+Health,Preventable deaths,per 100k,lower,preventable_mort,DE,2014,2023,155.92,157.05,12,16,27,0.5769230769230769,0.42307692307692313,165.82,150.85,-4,Middle third,Falling,-6.200000000000017,9.900000000000006
+Health,Road traffic deaths,per 100k,lower,road_deaths,DE,2014,2024,4.2,3.3,7,9,27,0.7692307692307692,0.6923076923076923,5.5,4.4,-2,Top third,Holding,1.1000000000000005,1.2999999999999998
+Health,Treatable deaths,per 100k,lower,treatable_mort,DE,2014,2023,87.42,83.32,13,16,27,0.5384615384615384,0.42307692307692313,94.83,86.81,-3,Middle third,Falling,3.490000000000009,7.409999999999997
+Society,At risk of poverty or social exclusion,%,lower,arope,DE,2015,2025,20.0,21.2,11,19,27,0.6153846153846154,0.3076923076923077,24.0,20.9,-8,Bottom third,Falling,-0.3000000000000007,4.0
+Society,Cannot keep home adequately warm,%,lower,cold_home,DE,2014,2025,4.9,5.7,8,14,27,0.7307692307692308,0.5,10.4,8.8,-6,Middle third,Falling,3.1000000000000005,5.5
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,DE,2014,2023,13.1,10.7,16,20,27,0.42307692307692313,0.2692307692307693,13.6,10.0,-4,Bottom third,Falling,-0.6999999999999993,0.5
+Society,Housing cost overburden,%,lower,housing_cost_burden,DE,2014,2025,15.9,11.2,25,25,26,0.07692307692307687,0.040000000000000036,11.5,7.7,0,Bottom third,Holding,-3.499999999999999,-4.4
+Society,Severe housing deprivation,%,lower,housing_deprivation,DE,2014,2023,1.9,1.9,9,7,26,0.6923076923076923,0.76,5.4,4.0,2,Top third,Holding,2.1,3.5000000000000004
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,DE,2014,2025,5.12,4.68,17,16,27,0.3846153846153846,0.42307692307692313,5.22,4.62,1,Middle third,Holding,-0.05999999999999961,0.09999999999999964
+Society,Severe material & social deprivation,%,lower,severe_deprivation,DE,2015,2025,5.7,5.6,10,20,27,0.6538461538461539,0.2692307692307693,9.7,6.3,-10,Bottom third,Falling,0.7000000000000002,3.999999999999999
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,DK,2014,2025,84.44,91.01,1,2,27,1.0,0.9615384615384616,46.03,57.65,-1,Top third,Holding,33.36000000000001,38.41
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,DK,2014,2025,4.6,5.7,6,8,27,0.8076923076923077,0.7307692307692308,3.4,5.0,-2,Top third,Holding,0.7000000000000002,1.1999999999999997
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,DK,2014,2025,95.99,99.71,1,2,27,1.0,0.9615384615384616,76.07,93.79,-1,Top third,Holding,5.9199999999999875,19.92
+Digital & innovation,European patent applications,per million people,higher,patents,DK,2014,2025,351.38,445.87,5,4,27,0.8461538461538461,0.8846153846153846,141.49,152.56,1,Top third,Holding,293.31,209.89
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,DK,2014,2024,2.92,3.15,4,5,27,0.8846153846153846,0.8461538461538461,2.09,2.26,-1,Top third,Holding,0.8900000000000001,0.8300000000000001
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,DK,2019,2025,93.0,97.7,2,3,27,0.9615384615384616,0.9230769230769231,50.3,85.5,-1,Top third,Holding,12.200000000000003,42.7
+Economy,"Employment rate, age 20–64",%,higher,employment,DK,2014,2025,74.7,79.8,5,11,27,0.8461538461538461,0.6153846153846154,67.5,76.1,-6,Middle third,Falling,3.700000000000003,7.200000000000003
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,DK,2014,2024,128.0,128.0,5,4,27,0.8461538461538461,0.8846153846153846,100.0,100.0,1,Top third,Holding,28.0,28.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,DK,2014,2025,7.4,6.2,9,10,27,0.6923076923076923,0.6538461538461539,11.1,9.6,-1,Middle third,Holding,3.3999999999999995,3.6999999999999993
+Economy,Government budget balance,% of GDP,higher,gov_balance,DK,2014,2025,1.4,2.9,1,2,27,1.0,0.9615384615384616,-2.4,-3.1,-1,Top third,Holding,6.0,3.8
+Economy,Government debt,% of GDP,lower,gov_debt,DK,2014,2025,48.7,27.9,9,3,27,0.6923076923076923,0.9230769230769231,86.9,81.7,6,Top third,Climbing,53.800000000000004,38.2
+Economy,Young people not in work or education (15–29),%,lower,neet,DK,2014,2025,8.0,8.9,3,9,27,0.9230769230769231,0.6923076923076923,15.9,11.0,-6,Top third,Falling,2.0999999999999996,7.9
+Economy,Unemployment rate,%,lower,unemployment,DK,2014,2025,6.9,6.4,6,18,27,0.8076923076923077,0.34615384615384615,11.0,6.0,-12,Middle third,Falling,-0.40000000000000036,4.1
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,DK,2014,2025,31.9,31.0,1,2,27,1.0,0.9615384615384616,10.1,13.7,-1,Top third,Holding,17.3,21.799999999999997
+Education,At least basic digital skills,%,higher,digital_skills,DK,2021,2025,68.65,81.45,4,3,27,0.8846153846153846,0.9230769230769231,53.92,60.4,1,Top third,Holding,21.050000000000004,14.730000000000004
+Education,Early leavers from education (18–24),%,lower,early_leavers,DK,2014,2025,8.1,10.0,12,21,26,0.5769230769230769,0.19999999999999996,11.1,9.1,-9,Bottom third,Falling,-0.9000000000000004,3.0
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,DK,2015,2025,13.6,28.3,2,5,27,0.9615384615384616,0.8461538461538461,22.2,33.9,-3,Top third,Falling,5.599999999999998,8.6
+Education,"University degree, age 25–34",%,higher,tertiary,DK,2014,2025,41.6,52.5,10,9,27,0.6538461538461539,0.6923076923076923,35.9,44.8,1,Top third,Holding,7.700000000000003,5.700000000000003
+Environment & energy,Circular material use,%,higher,circularity,DK,2014,2024,9.0,9.4,10,14,27,0.6538461538461539,0.5,11.1,12.2,-4,Middle third,Falling,-2.799999999999999,-2.0999999999999996
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,DK,2014,2024,10.71,17.49,2,4,27,0.9615384615384616,0.8846153846153846,8.08,13.52,-2,Top third,Holding,3.969999999999999,2.630000000000001
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,DK,2014,2024,9.5,6.1,19,14,27,0.3076923076923077,0.5,,,5,Middle third,Climbing,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,DK,2014,2024,12.225,38.229,2,6,27,0.9615384615384616,0.8076923076923077,54.4,57.286,-4,Top third,Falling,19.057000000000002,42.175
+Environment & energy,Municipal waste recycled,%,higher,recycling,DK,2014,2024,45.4,46.2,7,12,26,0.7692307692307692,0.56,43.4,49.4,-5,Middle third,Falling,-3.1999999999999957,2.0
+Environment & energy,Renewable share of energy,%,higher,renewables,DK,2014,2025,29.31,48.2,6,3,27,0.8076923076923077,0.9230769230769231,17.416,26.2,3,Top third,Climbing,22.000000000000004,11.893999999999998
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,DK,2014,2025,92.0,89.0,1,1,27,1.0,1.0,64.0,62.0,0,Top third,Holding,27.0,28.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,DK,2014,2024,4.0,4.3,20,22,27,0.2692307692307693,0.1923076923076923,3.6,3.5,-2,Bottom third,Holding,-0.7999999999999998,-0.3999999999999999
+Health,Life expectancy at birth,years,higher,life_exp,DK,2014,2024,80.6,82.0,17,14,27,0.3846153846153846,0.5,80.6,81.5,3,Middle third,Climbing,0.5,0.0
+Health,Adult obesity,%,lower,obesity,DK,2014,2025,14.9,20.5,9,18,27,0.6923076923076923,0.34615384615384615,15.4,16.3,-9,Middle third,Falling,-4.199999999999999,0.5
+Health,Preventable deaths,per 100k,lower,preventable_mort,DK,2014,2023,173.19,139.22,16,13,27,0.42307692307692313,0.5384615384615384,165.82,150.85,3,Middle third,Climbing,11.629999999999995,-7.3700000000000045
+Health,Road traffic deaths,per 100k,lower,road_deaths,DK,2014,2024,3.2,2.4,4,3,27,0.8846153846153846,0.9230769230769231,5.5,4.4,1,Top third,Holding,2.0000000000000004,2.3
+Health,Treatable deaths,per 100k,lower,treatable_mort,DK,2014,2023,78.03,66.11,11,9,27,0.6153846153846154,0.6923076923076923,94.83,86.81,2,Top third,Holding,20.700000000000003,16.799999999999997
+Society,At risk of poverty or social exclusion,%,lower,arope,DK,2015,2025,18.6,17.9,10,9,27,0.6538461538461539,0.6923076923076923,24.0,20.9,1,Top third,Holding,3.0,5.399999999999999
+Society,Cannot keep home adequately warm,%,lower,cold_home,DK,2014,2025,2.9,4.5,6,11,27,0.8076923076923077,0.6153846153846154,10.4,8.8,-5,Middle third,Falling,4.300000000000001,7.5
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,DK,2014,2023,9.1,6.3,6,9,27,0.8076923076923077,0.6923076923076923,13.6,10.0,-3,Top third,Falling,3.7,4.5
+Society,Housing cost overburden,%,lower,housing_cost_burden,DK,2014,2024,15.6,14.6,24,26,27,0.11538461538461542,0.038461538461538436,11.5,8.2,-2,Bottom third,Holding,-6.4,-4.1
+Society,Severe housing deprivation,%,lower,housing_deprivation,DK,2014,2023,2.3,1.8,11,6,26,0.6153846153846154,0.8,5.4,4.0,5,Top third,Climbing,2.2,3.1000000000000005
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,DK,2014,2025,4.12,4.12,8,9,27,0.7307692307692308,0.6923076923076923,5.22,4.62,-1,Top third,Holding,0.5,1.0999999999999996
+Society,Severe material & social deprivation,%,lower,severe_deprivation,DK,2015,2025,3.2,4.5,5,14,27,0.8461538461538461,0.5,9.7,6.3,-9,Middle third,Falling,1.7999999999999998,6.499999999999999
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,EE,2014,2025,50.7,83.08,14,5,27,0.5,0.8461538461538461,46.03,57.65,9,Top third,Climbing,25.43,4.670000000000002
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,EE,2014,2025,3.9,6.8,8,5,27,0.7307692307692308,0.8461538461538461,3.4,5.0,3,Top third,Climbing,1.7999999999999998,0.5
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,EE,2014,2025,84.24,94.86,8,12,27,0.7307692307692308,0.5769230769230769,76.07,93.79,-4,Middle third,Falling,1.0699999999999932,8.170000000000002
+Digital & innovation,European patent applications,per million people,higher,patents,EE,2014,2025,28.91,59.85,16,14,27,0.42307692307692313,0.5,141.49,152.56,2,Middle third,Holding,-92.71000000000001,-112.58000000000001
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,EE,2014,2024,1.41,1.98,12,10,27,0.5769230769230769,0.6538461538461539,2.09,2.26,2,Middle third,Holding,-0.2799999999999998,-0.6799999999999999
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,EE,2019,2025,57.5,81.1,16,20,27,0.42307692307692313,0.2692307692307693,50.3,85.5,-4,Bottom third,Falling,-4.400000000000006,7.200000000000003
+Economy,"Employment rate, age 20–64",%,higher,employment,EE,2014,2025,75.0,81.7,4,5,27,0.8846153846153846,0.8461538461538461,67.5,76.1,-1,Top third,Holding,5.6000000000000085,7.5
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,EE,2014,2024,78.0,79.0,17,19,27,0.3846153846153846,0.3076923076923077,100.0,100.0,-2,Bottom third,Holding,-21.0,-22.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,EE,2014,2025,6.5,0.5,7,2,27,0.7692307692307692,0.9615384615384616,11.1,9.6,5,Top third,Climbing,9.1,4.6
+Economy,Government budget balance,% of GDP,higher,gov_balance,EE,2014,2025,0.9,-2.0,3,9,27,0.9230769230769231,0.6923076923076923,-2.4,-3.1,-6,Top third,Falling,1.1,3.3
+Economy,Government debt,% of GDP,lower,gov_debt,EE,2014,2025,11.6,24.1,1,1,27,1.0,1.0,86.9,81.7,0,Top third,Holding,57.6,75.30000000000001
+Economy,Young people not in work or education (15–29),%,lower,neet,EE,2014,2025,13.2,11.2,12,20,27,0.5769230769230769,0.2692307692307693,15.9,11.0,-8,Bottom third,Falling,-0.1999999999999993,2.700000000000001
+Economy,Unemployment rate,%,lower,unemployment,EE,2014,2025,7.3,7.5,7,22,27,0.7692307692307692,0.1923076923076923,11.0,6.0,-15,Bottom third,Falling,-1.5,3.7
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,EE,2014,2025,11.6,23.8,9,5,27,0.6923076923076923,0.8461538461538461,10.1,13.7,4,Top third,Climbing,10.100000000000001,1.5
+Education,At least basic digital skills,%,higher,digital_skills,EE,2021,2025,56.37,62.52,13,12,27,0.5384615384615384,0.5769230769230769,53.92,60.4,1,Middle third,Holding,2.1200000000000045,2.4499999999999957
+Education,Early leavers from education (18–24),%,lower,early_leavers,EE,2014,2025,12.0,10.2,21,23,26,0.23076923076923073,0.12,11.1,9.1,-2,Bottom third,Holding,-1.0999999999999996,-0.9000000000000004
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,EE,2015,2025,11.2,17.2,1,1,27,1.0,1.0,22.2,33.9,0,Top third,Holding,16.7,11.0
+Education,"University degree, age 25–34",%,higher,tertiary,EE,2014,2025,40.6,44.3,12,14,27,0.5769230769230769,0.5,35.9,44.8,-2,Middle third,Holding,-0.5,4.700000000000003
+Environment & energy,Circular material use,%,higher,circularity,EE,2014,2024,11.3,20.5,6,4,27,0.8076923076923077,0.8846153846153846,11.1,12.2,2,Top third,Holding,8.3,0.20000000000000107
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,EE,2014,2024,4.7,9.62,27,25,27,0.0,0.07692307692307687,8.08,13.52,2,Bottom third,Holding,-3.9000000000000004,-3.38
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,EE,2014,2024,15.9,8.9,26,24,27,0.038461538461538436,0.11538461538461542,,,2,Bottom third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,EE,2014,2024,11.562,4.622,1,1,27,1.0,1.0,54.4,57.286,0,Top third,Holding,52.664,42.838
+Environment & energy,Municipal waste recycled,%,higher,recycling,EE,2014,2024,31.1,36.4,13,19,26,0.5384615384615384,0.28,43.4,49.4,-6,Bottom third,Falling,-13.0,-12.299999999999997
+Environment & energy,Renewable share of energy,%,higher,renewables,EE,2014,2025,26.13,42.3,8,6,27,0.7307692307692308,0.8076923076923077,17.416,26.2,2,Top third,Holding,16.099999999999998,8.713999999999999
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,EE,2014,2025,69.0,76.0,10,7,27,0.6538461538461539,0.7692307692307692,64.0,62.0,3,Top third,Climbing,14.0,5.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,EE,2014,2024,2.7,1.4,6,1,27,0.8076923076923077,1.0,3.6,3.5,5,Top third,Climbing,2.1,0.8999999999999999
+Health,Life expectancy at birth,years,higher,life_exp,EE,2014,2024,77.1,79.4,21,19,27,0.23076923076923073,0.3076923076923077,80.6,81.5,2,Bottom third,Holding,-2.0999999999999943,-3.5
+Health,Adult obesity,%,lower,obesity,EE,2014,2025,20.4,22.0,24,23,27,0.11538461538461542,0.15384615384615385,15.4,16.3,1,Bottom third,Holding,-5.699999999999999,-4.999999999999998
+Health,Preventable deaths,per 100k,lower,preventable_mort,EE,2014,2023,280.01,241.28,23,23,27,0.15384615384615385,0.15384615384615385,165.82,150.85,0,Bottom third,Holding,-90.43,-114.19
+Health,Road traffic deaths,per 100k,lower,road_deaths,EE,2014,2024,5.9,5.0,15,18,27,0.46153846153846156,0.34615384615384615,5.5,4.4,-3,Middle third,Falling,-0.5999999999999996,-0.40000000000000036
+Health,Treatable deaths,per 100k,lower,treatable_mort,EE,2014,2023,152.33,115.79,21,19,27,0.23076923076923073,0.3076923076923077,94.83,86.81,2,Bottom third,Holding,-28.980000000000004,-57.500000000000014
+Society,At risk of poverty or social exclusion,%,lower,arope,EE,2015,2025,23.6,21.8,16,20,27,0.42307692307692313,0.2692307692307693,24.0,20.9,-4,Bottom third,Falling,-0.9000000000000021,0.3999999999999986
+Society,Cannot keep home adequately warm,%,lower,cold_home,EE,2014,2025,1.7,3.1,4,2,27,0.8846153846153846,0.9615384615384616,10.4,8.8,2,Top third,Holding,5.700000000000001,8.700000000000001
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,EE,2014,2023,12.3,4.3,14,5,27,0.5,0.8461538461538461,13.6,10.0,9,Top third,Climbing,5.7,1.299999999999999
+Society,Housing cost overburden,%,lower,housing_cost_burden,EE,2014,2025,8.3,8.8,11,23,26,0.6153846153846154,0.12,11.5,7.7,-12,Bottom third,Falling,-1.1000000000000005,3.1999999999999993
+Society,Severe housing deprivation,%,lower,housing_deprivation,EE,2014,2023,3.9,2.9,15,12,26,0.46153846153846156,0.56,5.4,4.0,3,Middle third,Climbing,1.1,1.5000000000000004
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,EE,2014,2025,6.48,5.07,23,21,27,0.15384615384615385,0.23076923076923073,5.22,4.62,2,Bottom third,Holding,-0.4500000000000002,-1.2600000000000007
+Society,Severe material & social deprivation,%,lower,severe_deprivation,EE,2015,2025,3.5,3.5,7,10,27,0.7692307692307692,0.6538461538461539,9.7,6.3,-3,Middle third,Falling,2.8,6.199999999999999
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,EL,2014,2025,45.12,61.09,17,19,27,0.3846153846153846,0.3076923076923077,46.03,57.65,-2,Bottom third,Holding,3.440000000000005,-0.9100000000000037
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,EL,2014,2025,1.7,2.5,25,27,27,0.07692307692307687,0.0,3.4,5.0,-2,Bottom third,Holding,-2.5,-1.7
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,EL,2014,2025,63.21,89.15,24,25,27,0.11538461538461542,0.07692307692307687,76.07,93.79,-1,Bottom third,Holding,-4.640000000000001,-12.859999999999992
+Digital & innovation,European patent applications,per million people,higher,patents,EL,2014,2025,8.73,11.86,21,23,27,0.23076923076923073,0.15384615384615385,141.49,152.56,-2,Bottom third,Holding,-140.7,-132.76000000000002
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,EL,2014,2024,0.85,1.53,21,14,27,0.23076923076923073,0.5,2.09,2.26,7,Middle third,Climbing,-0.7299999999999998,-1.2399999999999998
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,EL,2019,2025,7.0,59.8,27,26,27,0.0,0.038461538461538436,50.3,85.5,1,Bottom third,Holding,-25.700000000000003,-43.3
+Economy,"Employment rate, age 20–64",%,higher,employment,EL,2014,2025,53.1,71.0,27,25,27,0.0,0.07692307692307687,67.5,76.1,2,Bottom third,Holding,-5.099999999999994,-14.399999999999999
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,EL,2014,2024,71.0,70.0,21,26,27,0.23076923076923073,0.038461538461538436,100.0,100.0,-5,Bottom third,Falling,-30.0,-29.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,EL,2014,2025,18.8,17.4,25,25,27,0.07692307692307687,0.07692307692307687,11.1,9.6,0,Bottom third,Holding,-7.799999999999999,-7.700000000000001
+Economy,Government budget balance,% of GDP,higher,gov_balance,EL,2014,2025,-3.8,1.7,20,4,27,0.2692307692307693,0.8846153846153846,-2.4,-3.1,16,Top third,Climbing,4.8,-1.4
+Economy,Government debt,% of GDP,lower,gov_debt,EL,2014,2025,182.7,146.1,27,27,27,0.0,0.0,86.9,81.7,0,Bottom third,Holding,-64.39999999999999,-95.79999999999998
+Economy,Young people not in work or education (15–29),%,lower,neet,EL,2014,2025,26.3,13.5,26,25,27,0.038461538461538436,0.07692307692307687,15.9,11.0,1,Bottom third,Holding,-2.5,-10.4
+Economy,Unemployment rate,%,lower,unemployment,EL,2014,2025,26.6,8.9,27,25,27,0.0,0.07692307692307687,11.0,6.0,2,Bottom third,Holding,-2.9000000000000004,-15.600000000000001
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,EL,2014,2025,3.2,5.2,23,27,27,0.15384615384615385,0.0,10.1,13.7,-4,Bottom third,Falling,-8.5,-6.8999999999999995
+Education,At least basic digital skills,%,higher,digital_skills,EL,2021,2025,52.48,50.96,17,22,27,0.3846153846153846,0.1923076923076923,53.92,60.4,-5,Bottom third,Falling,-9.439999999999998,-1.4400000000000048
+Education,Early leavers from education (18–24),%,lower,early_leavers,EL,2014,2025,9.0,3.0,16,2,26,0.42307692307692313,0.96,11.1,9.1,14,Top third,Climbing,6.1,2.0999999999999996
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,EL,2015,2025,35.8,49.6,24,24,27,0.11538461538461542,0.11538461538461542,22.2,33.9,0,Bottom third,Holding,-15.700000000000003,-13.599999999999998
+Education,"University degree, age 25–34",%,higher,tertiary,EL,2014,2025,38.7,42.8,15,16,27,0.46153846153846156,0.42307692307692313,35.9,44.8,-1,Middle third,Holding,-2.0,2.8000000000000043
+Environment & energy,Circular material use,%,higher,circularity,EL,2014,2024,1.3,5.2,27,21,27,0.0,0.23076923076923073,11.1,12.2,6,Bottom third,Climbing,-6.999999999999999,-9.799999999999999
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,EL,2014,2024,7.99,11.81,12,18,27,0.5769230769230769,0.34615384615384615,8.08,13.52,-6,Middle third,Falling,-1.709999999999999,-0.08999999999999986
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,EL,2014,2024,9.0,6.6,18,15,27,0.34615384615384615,0.46153846153846156,,,3,Middle third,Climbing,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,EL,2014,2024,65.455,77.714,17,23,27,0.3846153846153846,0.15384615384615385,54.4,57.286,-6,Bottom third,Falling,-20.427999999999997,-11.055
+Environment & energy,Municipal waste recycled,%,higher,recycling,EL,2014,2024,15.4,17.5,23,24,26,0.15384615384615385,0.07999999999999996,43.4,49.4,-1,Bottom third,Holding,-31.9,-28.0
+Environment & energy,Renewable share of energy,%,higher,renewables,EL,2014,2025,15.683,26.9,15,10,27,0.46153846153846156,0.6538461538461539,17.416,26.2,5,Middle third,Climbing,0.6999999999999993,-1.7330000000000005
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,EL,2014,2025,43.0,50.0,24,21,27,0.11538461538461542,0.23076923076923073,64.0,62.0,3,Bottom third,Climbing,-12.0,-21.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,EL,2014,2024,3.7,3.7,17,19,27,0.3846153846153846,0.3076923076923077,3.6,3.5,-2,Bottom third,Holding,-0.20000000000000018,-0.10000000000000009
+Health,Life expectancy at birth,years,higher,life_exp,EL,2014,2024,81.0,81.9,14,15,27,0.5,0.46153846153846156,80.6,81.5,-1,Middle third,Holding,0.4000000000000057,0.4000000000000057
+Health,Adult obesity,%,lower,obesity,EL,2014,2025,17.3,12.8,17,2,27,0.3846153846153846,0.9615384615384616,15.4,16.3,15,Top third,Climbing,3.5,-1.9000000000000004
+Health,Preventable deaths,per 100k,lower,preventable_mort,EL,2014,2023,142.35,136.91,8,11,27,0.7307692307692308,0.6153846153846154,165.82,150.85,-3,Middle third,Falling,13.939999999999998,23.47
+Health,Road traffic deaths,per 100k,lower,road_deaths,EL,2014,2024,7.3,6.4,21,25,27,0.23076923076923073,0.07692307692307687,5.5,4.4,-4,Bottom third,Falling,-2.0,-1.7999999999999998
+Health,Treatable deaths,per 100k,lower,treatable_mort,EL,2014,2023,94.51,84.11,17,17,27,0.3846153846153846,0.3846153846153846,94.83,86.81,0,Middle third,Holding,2.700000000000003,0.3199999999999932
+Society,At risk of poverty or social exclusion,%,lower,arope,EL,2015,2025,32.4,27.5,25,26,27,0.07692307692307687,0.038461538461538436,24.0,20.9,-1,Bottom third,Holding,-6.600000000000001,-8.399999999999999
+Society,Cannot keep home adequately warm,%,lower,cold_home,EL,2014,2025,32.9,18.1,26,27,27,0.038461538461538436,0.0,10.4,8.8,-1,Bottom third,Holding,-9.3,-22.5
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,EL,2014,2023,16.1,20.9,22,27,27,0.1923076923076923,0.0,13.6,10.0,-5,Bottom third,Falling,-10.899999999999999,-2.5000000000000018
+Society,Housing cost overburden,%,lower,housing_cost_burden,EL,2014,2025,44.9,26.4,27,26,26,0.0,0.0,11.5,7.7,1,Bottom third,Holding,-18.7,-33.4
+Society,Severe housing deprivation,%,lower,housing_deprivation,EL,2014,2023,6.0,6.9,18,24,26,0.34615384615384615,0.07999999999999996,5.4,4.0,-6,Bottom third,Falling,-2.9000000000000004,-0.5999999999999996
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,EL,2014,2025,6.46,5.17,22,23,27,0.1923076923076923,0.15384615384615385,5.22,4.62,-1,Bottom third,Holding,-0.5499999999999998,-1.2400000000000002
+Society,Severe material & social deprivation,%,lower,severe_deprivation,EL,2015,2025,17.6,14.9,24,25,27,0.11538461538461542,0.07692307692307687,9.7,6.3,-1,Bottom third,Holding,-8.600000000000001,-7.900000000000002
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,ES,2014,2025,49.0,62.63,15,18,27,0.46153846153846156,0.34615384615384615,46.03,57.65,-3,Middle third,Falling,4.980000000000004,2.969999999999999
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,ES,2014,2025,3.2,4.8,16,16,27,0.42307692307692313,0.42307692307692313,3.4,5.0,0,Middle third,Holding,-0.20000000000000018,-0.19999999999999973
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,ES,2014,2025,76.19,96.34,14,8,27,0.5,0.7307692307692308,76.07,93.79,6,Top third,Climbing,2.549999999999997,0.12000000000000455
+Digital & innovation,European patent applications,per million people,higher,patents,ES,2014,2025,31.67,45.9,15,16,27,0.46153846153846156,0.42307692307692313,141.49,152.56,-1,Middle third,Holding,-106.66,-109.82000000000001
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,ES,2014,2024,1.23,1.5,16,15,27,0.42307692307692313,0.46153846153846156,2.09,2.26,1,Middle third,Holding,-0.7599999999999998,-0.8599999999999999
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,ES,2019,2025,89.0,96.0,4,7,27,0.8846153846153846,0.7692307692307692,50.3,85.5,-3,Top third,Falling,10.5,38.7
+Economy,"Employment rate, age 20–64",%,higher,employment,ES,2014,2025,59.9,72.4,23,24,27,0.15384615384615385,0.11538461538461542,67.5,76.1,-1,Bottom third,Holding,-3.6999999999999886,-7.600000000000001
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,ES,2014,2024,90.0,92.0,13,14,27,0.5384615384615384,0.5,100.0,100.0,-1,Middle third,Holding,-8.0,-10.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,ES,2014,2025,10.2,9.5,18,20,27,0.34615384615384615,0.2692307692307693,11.1,9.6,-2,Bottom third,Holding,0.09999999999999964,0.9000000000000004
+Economy,Government budget balance,% of GDP,higher,gov_balance,ES,2014,2025,-6.0,-2.4,25,13,27,0.07692307692307687,0.5384615384615384,-2.4,-3.1,12,Middle third,Climbing,0.7000000000000002,-3.6
+Economy,Government debt,% of GDP,lower,gov_debt,ES,2014,2025,104.4,100.7,22,23,27,0.1923076923076923,0.15384615384615385,86.9,81.7,-1,Bottom third,Holding,-19.0,-17.5
+Economy,Young people not in work or education (15–29),%,lower,neet,ES,2014,2025,20.7,11.5,22,21,27,0.1923076923076923,0.23076923076923073,15.9,11.0,1,Bottom third,Holding,-0.5,-4.799999999999999
+Economy,Unemployment rate,%,lower,unemployment,ES,2014,2025,24.5,10.5,26,27,27,0.038461538461538436,0.0,11.0,6.0,-1,Bottom third,Holding,-4.5,-13.5
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,ES,2014,2025,10.1,15.8,10,12,27,0.6538461538461539,0.5769230769230769,10.1,13.7,-2,Middle third,Holding,2.1000000000000014,0.0
+Education,At least basic digital skills,%,higher,digital_skills,ES,2021,2025,64.16,66.5,6,9,27,0.8076923076923077,0.6923076923076923,53.92,60.4,-3,Top third,Falling,6.100000000000001,10.239999999999995
+Education,Early leavers from education (18–24),%,lower,early_leavers,ES,2014,2025,21.9,12.8,27,24,26,0.0,0.07999999999999996,11.1,9.1,3,Bottom third,Climbing,-3.700000000000001,-10.799999999999999
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,ES,2015,2025,22.2,33.4,14,14,27,0.5,0.5,22.2,33.9,0,Middle third,Holding,0.5,0.0
+Education,"University degree, age 25–34",%,higher,tertiary,ES,2014,2025,41.5,52.5,11,9,27,0.6153846153846154,0.6923076923076923,35.9,44.8,2,Top third,Holding,7.700000000000003,5.600000000000001
+Environment & energy,Circular material use,%,higher,circularity,ES,2014,2024,7.8,7.4,12,16,27,0.5769230769230769,0.42307692307692313,11.1,12.2,-4,Middle third,Falling,-4.799999999999999,-3.3
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,ES,2014,2024,8.92,13.87,8,8,27,0.7307692307692308,0.7307692307692308,8.08,13.52,0,Top third,Holding,0.34999999999999964,0.8399999999999999
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,ES,2014,2024,5.8,4.4,7,5,27,0.7692307692307692,0.8461538461538461,,,2,Top third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,ES,2014,2024,72.557,68.871,20,19,27,0.2692307692307693,0.3076923076923077,54.4,57.286,1,Bottom third,Holding,-11.584999999999994,-18.157000000000004
+Environment & energy,Municipal waste recycled,%,higher,recycling,ES,2014,2024,30.8,42.5,14,17,26,0.5,0.36,43.4,49.4,-3,Middle third,Falling,-6.899999999999999,-12.599999999999998
+Environment & energy,Renewable share of energy,%,higher,renewables,ES,2014,2025,15.879,26.0,14,11,27,0.5,0.6153846153846154,17.416,26.2,3,Middle third,Climbing,-0.1999999999999993,-1.5370000000000008
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,ES,2014,2025,60.0,55.0,15,17,27,0.46153846153846156,0.3846153846153846,64.0,62.0,-2,Middle third,Holding,-7.0,-4.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,ES,2014,2024,2.8,3.0,7,9,27,0.7692307692307692,0.6923076923076923,3.6,3.5,-2,Top third,Holding,0.5,0.8000000000000003
+Health,Life expectancy at birth,years,higher,life_exp,ES,2014,2024,82.9,84.0,1,1,27,1.0,1.0,80.6,81.5,0,Top third,Holding,2.5,2.3000000000000114
+Health,Adult obesity,%,lower,obesity,ES,2014,2025,16.7,14.9,14,4,27,0.5,0.8846153846153846,15.4,16.3,10,Top third,Climbing,1.4000000000000004,-1.299999999999999
+Health,Preventable deaths,per 100k,lower,preventable_mort,ES,2014,2023,120.14,110.36,3,6,27,0.9230769230769231,0.8076923076923077,165.82,150.85,-3,Top third,Falling,40.489999999999995,45.67999999999999
+Health,Road traffic deaths,per 100k,lower,road_deaths,ES,2014,2024,3.6,3.7,5,10,27,0.8461538461538461,0.6538461538461539,5.5,4.4,-5,Middle third,Falling,0.7000000000000002,1.9
+Health,Treatable deaths,per 100k,lower,treatable_mort,ES,2014,2023,68.46,60.18,3,6,27,0.9230769230769231,0.8076923076923077,94.83,86.81,-3,Top third,Falling,26.630000000000003,26.370000000000005
+Society,At risk of poverty or social exclusion,%,lower,arope,ES,2015,2025,28.7,25.7,21,23,27,0.23076923076923073,0.15384615384615385,24.0,20.9,-2,Bottom third,Holding,-4.800000000000001,-4.699999999999999
+Society,Cannot keep home adequately warm,%,lower,cold_home,ES,2014,2025,11.1,15.9,17,24,27,0.3846153846153846,0.11538461538461542,10.4,8.8,-7,Bottom third,Falling,-7.1,-0.6999999999999993
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,ES,2014,2023,11.9,13.6,11,23,27,0.6153846153846154,0.15384615384615385,13.6,10.0,-12,Bottom third,Falling,-3.5999999999999996,1.6999999999999993
+Society,Housing cost overburden,%,lower,housing_cost_burden,ES,2014,2025,10.9,7.2,20,20,26,0.2692307692307693,0.24,11.5,7.7,0,Bottom third,Holding,0.5,0.5999999999999996
+Society,Severe housing deprivation,%,lower,housing_deprivation,ES,2014,2023,1.7,2.9,8,12,26,0.7307692307692308,0.56,5.4,4.0,-4,Middle third,Falling,1.1,3.7
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,ES,2014,2025,6.81,5.24,25,24,27,0.07692307692307687,0.11538461538461542,5.22,4.62,1,Bottom third,Holding,-0.6200000000000001,-1.5899999999999999
+Society,Severe material & social deprivation,%,lower,severe_deprivation,ES,2015,2025,7.4,8.1,13,23,27,0.5384615384615384,0.15384615384615385,9.7,6.3,-10,Bottom third,Falling,-1.7999999999999998,2.299999999999999
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,FI,2014,2025,80.18,91.35,3,1,27,0.9230769230769231,1.0,46.03,57.65,2,Top third,Holding,33.699999999999996,34.150000000000006
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,FI,2014,2025,6.3,7.8,1,3,27,1.0,0.9230769230769231,3.4,5.0,-2,Top third,Holding,2.8,2.9
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,FI,2014,2025,92.38,98.08,5,6,27,0.8461538461538461,0.8076923076923077,76.07,93.79,-1,Top third,Holding,4.289999999999992,16.310000000000002
+Digital & innovation,European patent applications,per million people,higher,patents,FI,2014,2025,399.53,613.38,3,1,27,0.9230769230769231,1.0,141.49,152.56,2,Top third,Holding,460.82,258.03999999999996
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,FI,2014,2024,3.16,3.22,1,4,27,1.0,0.8846153846153846,2.09,2.26,-3,Top third,Falling,0.9600000000000004,1.0700000000000003
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,FI,2019,2025,61.8,84.6,12,15,27,0.5769230769230769,0.46153846153846156,50.3,85.5,-3,Middle third,Falling,-0.9000000000000057,11.5
+Economy,"Employment rate, age 20–64",%,higher,employment,FI,2014,2025,72.2,76.3,8,19,27,0.7307692307692308,0.3076923076923077,67.5,76.1,-11,Bottom third,Falling,0.20000000000000284,4.700000000000003
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,FI,2014,2024,111.0,103.0,9,10,27,0.6923076923076923,0.6538461538461539,100.0,100.0,-1,Middle third,Holding,3.0,11.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,FI,2014,2025,2.0,1.3,1,3,27,1.0,0.9230769230769231,11.1,9.6,-2,Top third,Holding,8.299999999999999,9.1
+Economy,Government budget balance,% of GDP,higher,gov_balance,FI,2014,2025,-3.0,-3.4,15,19,27,0.46153846153846156,0.3076923076923077,-2.4,-3.1,-4,Bottom third,Falling,-0.2999999999999998,-0.6000000000000001
+Economy,Government debt,% of GDP,lower,gov_debt,FI,2014,2025,64.8,88.5,13,21,27,0.5384615384615384,0.23076923076923073,86.9,81.7,-8,Bottom third,Falling,-6.799999999999997,22.10000000000001
+Economy,Young people not in work or education (15–29),%,lower,neet,FI,2014,2025,11.2,11.0,8,17,27,0.7307692307692308,0.3846153846153846,15.9,11.0,-9,Middle third,Falling,0.0,4.700000000000001
+Economy,Unemployment rate,%,lower,unemployment,FI,2014,2025,8.7,9.7,12,26,27,0.5769230769230769,0.038461538461538436,11.0,6.0,-14,Bottom third,Falling,-3.6999999999999993,2.3000000000000007
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,FI,2014,2025,25.1,28.1,3,3,27,0.9230769230769231,0.9230769230769231,10.1,13.7,0,Top third,Holding,14.400000000000002,15.000000000000002
+Education,At least basic digital skills,%,higher,digital_skills,FI,2021,2025,79.18,80.98,1,4,27,1.0,0.8846153846153846,53.92,60.4,-3,Top third,Falling,20.580000000000005,25.260000000000005
+Education,Early leavers from education (18–24),%,lower,early_leavers,FI,2014,2025,9.5,9.9,17,20,26,0.3846153846153846,0.24,11.1,9.1,-3,Bottom third,Falling,-0.8000000000000007,1.5999999999999996
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,FI,2015,2025,13.6,31.0,2,10,27,0.9615384615384616,0.6538461538461539,22.2,33.9,-8,Middle third,Falling,2.8999999999999986,8.6
+Education,"University degree, age 25–34",%,higher,tertiary,FI,2014,2025,40.3,38.2,13,22,27,0.5384615384615384,0.1923076923076923,35.9,44.8,-9,Bottom third,Falling,-6.599999999999994,4.399999999999999
+Environment & energy,Circular material use,%,higher,circularity,FI,2014,2024,5.6,2.0,16,25,27,0.42307692307692313,0.07692307692307687,11.1,12.2,-9,Bottom third,Falling,-10.2,-5.5
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,FI,2014,2024,4.72,7.03,26,27,27,0.038461538461538436,0.0,8.08,13.52,-1,Bottom third,Holding,-6.489999999999999,-3.3600000000000003
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,FI,2014,2024,6.0,8.7,9,22,27,0.6923076923076923,0.1923076923076923,,,-13,Bottom third,Falling,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,FI,2014,2024,49.89,32.973,13,5,27,0.5384615384615384,0.8461538461538461,54.4,57.286,8,Top third,Climbing,24.313000000000002,4.509999999999998
+Environment & energy,Municipal waste recycled,%,higher,recycling,FI,2014,2024,32.5,47.9,12,11,26,0.5769230769230769,0.6,43.4,49.4,1,Middle third,Holding,-1.5,-10.899999999999999
+Environment & energy,Renewable share of energy,%,higher,renewables,FI,2014,2025,38.633,53.0,2,2,27,0.9615384615384616,0.9615384615384616,17.416,26.2,0,Top third,Holding,26.8,21.217000000000002
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,FI,2014,2025,89.0,88.0,2,2,27,0.9615384615384616,0.9615384615384616,64.0,62.0,0,Top third,Holding,26.0,25.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,FI,2014,2024,2.2,2.1,3,5,27,0.9230769230769231,0.8461538461538461,3.6,3.5,-2,Top third,Holding,1.4,1.4
+Health,Life expectancy at birth,years,higher,life_exp,FI,2014,2024,81.1,82.2,12,11,27,0.5769230769230769,0.6153846153846154,80.6,81.5,1,Middle third,Holding,0.7000000000000028,0.5
+Health,Adult obesity,%,lower,obesity,FI,2014,2025,18.3,23.2,19,25,27,0.3076923076923077,0.07692307692307687,15.4,16.3,-6,Bottom third,Falling,-6.899999999999999,-2.9000000000000004
+Health,Preventable deaths,per 100k,lower,preventable_mort,FI,2014,2023,168.87,154.89,15,15,27,0.46153846153846156,0.46153846153846156,165.82,150.85,0,Middle third,Holding,-4.039999999999992,-3.0500000000000114
+Health,Road traffic deaths,per 100k,lower,road_deaths,FI,2014,2024,4.2,3.2,7,6,27,0.7692307692307692,0.8076923076923077,5.5,4.4,1,Top third,Holding,1.2000000000000002,1.2999999999999998
+Health,Treatable deaths,per 100k,lower,treatable_mort,FI,2014,2023,77.36,68.18,9,12,27,0.6923076923076923,0.5769230769230769,94.83,86.81,-3,Middle third,Falling,18.629999999999995,17.47
+Society,At risk of poverty or social exclusion,%,lower,arope,FI,2015,2025,16.9,17.2,3,8,27,0.9230769230769231,0.7307692307692308,24.0,20.9,-5,Top third,Falling,3.6999999999999993,7.100000000000001
+Society,Cannot keep home adequately warm,%,lower,cold_home,FI,2014,2025,1.5,2.6,3,1,27,0.9230769230769231,1.0,10.4,8.8,2,Top third,Holding,6.200000000000001,8.9
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,FI,2014,2023,7.0,11.5,4,21,27,0.8846153846153846,0.23076923076923073,13.6,10.0,-17,Bottom third,Falling,-1.5,6.6
+Society,Housing cost overburden,%,lower,housing_cost_burden,FI,2014,2025,5.1,4.7,3,6,26,0.9230769230769231,0.8,11.5,7.7,-3,Top third,Falling,3.0,6.4
+Society,Severe housing deprivation,%,lower,housing_deprivation,FI,2014,2023,0.7,1.0,2,2,26,0.9615384615384616,0.96,5.4,4.0,0,Top third,Holding,3.0,4.7
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,FI,2014,2025,3.62,3.93,2,8,27,0.9615384615384616,0.7307692307692308,5.22,4.62,-6,Top third,Falling,0.69,1.5999999999999996
+Society,Severe material & social deprivation,%,lower,severe_deprivation,FI,2015,2025,1.0,3.3,1,8,27,1.0,0.7307692307692308,9.7,6.3,-7,Top third,Falling,3.0,8.7
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,FR,2014,2025,63.77,68.53,6,12,27,0.8076923076923077,0.5769230769230769,46.03,57.65,-6,Middle third,Falling,10.880000000000003,17.740000000000002
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,FR,2014,2025,3.2,4.9,16,13,27,0.42307692307692313,0.5384615384615384,3.4,5.0,3,Middle third,Climbing,-0.09999999999999964,-0.19999999999999973
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,FR,2014,2025,83.75,94.98,9,11,27,0.6923076923076923,0.6153846153846154,76.07,93.79,-2,Middle third,Holding,1.1899999999999977,7.680000000000007
+Digital & innovation,European patent applications,per million people,higher,patents,FR,2014,2025,160.07,158.7,9,10,27,0.6923076923076923,0.6538461538461539,141.49,152.56,-1,Middle third,Holding,6.139999999999986,18.579999999999984
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,FR,2014,2024,2.22,2.18,8,8,27,0.7307692307692308,0.7307692307692308,2.09,2.26,0,Top third,Holding,-0.07999999999999963,0.13000000000000034
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,FR,2019,2025,43.8,91.7,18,11,27,0.34615384615384615,0.6153846153846154,50.3,85.5,7,Middle third,Climbing,6.200000000000003,-6.5
+Economy,"Employment rate, age 20–64",%,higher,employment,FR,2014,2025,69.9,75.4,12,20,27,0.5769230769230769,0.2692307692307693,67.5,76.1,-8,Bottom third,Falling,-0.6999999999999886,2.4000000000000057
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,FR,2014,2024,108.0,99.0,10,11,27,0.6538461538461539,0.6153846153846154,100.0,100.0,-1,Middle third,Holding,-1.0,8.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,FR,2014,2025,6.2,5.7,6,9,27,0.8076923076923077,0.6923076923076923,11.1,9.6,-3,Top third,Falling,3.8999999999999995,4.8999999999999995
+Economy,Government budget balance,% of GDP,higher,gov_balance,FR,2014,2025,-4.6,-5.1,22,24,27,0.1923076923076923,0.11538461538461542,-2.4,-3.1,-2,Bottom third,Holding,-1.9999999999999996,-2.1999999999999997
+Economy,Government debt,% of GDP,lower,gov_debt,FR,2014,2025,96.2,115.6,20,25,27,0.2692307692307693,0.07692307692307687,86.9,81.7,-5,Bottom third,Falling,-33.89999999999999,-9.299999999999997
+Economy,Young people not in work or education (15–29),%,lower,neet,FR,2014,2025,13.6,12.9,14,23,27,0.5,0.15384615384615385,15.9,11.0,-9,Bottom third,Falling,-1.9000000000000004,2.3000000000000007
+Economy,Unemployment rate,%,lower,unemployment,FR,2014,2025,10.3,7.7,16,23,27,0.42307692307692313,0.15384615384615385,11.0,6.0,-7,Bottom third,Falling,-1.7000000000000002,0.6999999999999993
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,FR,2014,2025,18.4,15.5,4,13,27,0.8846153846153846,0.5384615384615384,10.1,13.7,-9,Middle third,Falling,1.8000000000000007,8.299999999999999
+Education,At least basic digital skills,%,higher,digital_skills,FR,2021,2025,61.96,65.74,10,10,27,0.6538461538461539,0.6538461538461539,53.92,60.4,0,Middle third,Holding,5.339999999999996,8.04
+Education,Early leavers from education (18–24),%,lower,early_leavers,FR,2014,2025,8.8,7.2,15,11,26,0.46153846153846156,0.6,11.1,9.1,4,Middle third,Climbing,1.8999999999999995,2.299999999999999
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,FR,2015,2025,23.5,35.7,16,20,27,0.42307692307692313,0.2692307692307693,22.2,33.9,-4,Bottom third,Falling,-1.8000000000000043,-1.3000000000000007
+Education,"University degree, age 25–34",%,higher,tertiary,FR,2014,2025,44.3,55.8,6,6,27,0.8076923076923077,0.8076923076923077,35.9,44.8,0,Top third,Holding,11.0,8.399999999999999
+Environment & energy,Circular material use,%,higher,circularity,FR,2014,2024,18.1,17.8,2,6,27,0.9615384615384616,0.8076923076923077,11.1,12.2,-4,Top third,Falling,5.600000000000001,7.000000000000002
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,FR,2014,2024,7.41,12.28,15,14,27,0.46153846153846156,0.5,8.08,13.52,1,Middle third,Holding,-1.2400000000000002,-0.6699999999999999
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,FR,2014,2024,6.2,4.7,10,6,27,0.6538461538461539,0.8076923076923077,,,4,Top third,Climbing,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,FR,2014,2024,46.215,41.672,12,8,27,0.5769230769230769,0.7307692307692308,54.4,57.286,4,Top third,Climbing,15.614000000000004,8.184999999999995
+Environment & energy,Municipal waste recycled,%,higher,recycling,FR,2014,2024,39.7,45.5,10,14,26,0.6538461538461539,0.48,43.4,49.4,-4,Middle third,Falling,-3.8999999999999986,-3.6999999999999957
+Environment & energy,Renewable share of energy,%,higher,renewables,FR,2014,2025,14.362,23.9,19,14,27,0.3076923076923077,0.5,17.416,26.2,5,Middle third,Climbing,-2.3000000000000007,-3.0540000000000003
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,FR,2014,2025,69.0,66.0,10,11,27,0.6538461538461539,0.6153846153846154,64.0,62.0,-1,Middle third,Holding,4.0,5.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,FR,2014,2024,3.5,4.1,15,21,27,0.46153846153846156,0.23076923076923073,3.6,3.5,-6,Bottom third,Falling,-0.5999999999999996,0.10000000000000009
+Health,Life expectancy at birth,years,higher,life_exp,FR,2014,2024,82.4,83.0,3,7,27,0.9230769230769231,0.7692307692307692,80.6,81.5,-4,Top third,Falling,1.5,1.8000000000000114
+Health,Adult obesity,%,lower,obesity,FR,2014,2025,15.3,16.3,10,8,27,0.6538461538461539,0.7307692307692308,15.4,16.3,2,Top third,Holding,0.0,0.09999999999999964
+Health,Preventable deaths,per 100k,lower,preventable_mort,FR,2014,2023,135.44,127.21,7,10,27,0.7692307692307692,0.6538461538461539,165.82,150.85,-3,Middle third,Falling,23.64,30.379999999999995
+Health,Road traffic deaths,per 100k,lower,road_deaths,FR,2014,2024,5.1,4.6,10,16,27,0.6538461538461539,0.42307692307692313,5.5,4.4,-6,Middle third,Falling,-0.1999999999999993,0.40000000000000036
+Health,Treatable deaths,per 100k,lower,treatable_mort,FR,2014,2023,62.9,58.76,1,3,27,1.0,0.9230769230769231,94.83,86.81,-2,Top third,Holding,28.050000000000004,31.93
+Society,At risk of poverty or social exclusion,%,lower,arope,FR,2015,2025,18.4,20.8,8,18,27,0.7307692307692308,0.34615384615384615,24.0,20.9,-10,Middle third,Falling,0.09999999999999787,5.600000000000001
+Society,Cannot keep home adequately warm,%,lower,cold_home,FR,2014,2025,5.9,11.5,11,21,27,0.6153846153846154,0.23076923076923073,10.4,8.8,-10,Bottom third,Falling,-2.6999999999999993,4.5
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,FR,2014,2023,15.3,14.7,21,24,27,0.23076923076923073,0.11538461538461542,13.6,10.0,-3,Bottom third,Falling,-4.699999999999999,-1.700000000000001
+Society,Housing cost overburden,%,lower,housing_cost_burden,FR,2014,2025,5.1,6.4,3,16,26,0.9230769230769231,0.4,11.5,7.7,-13,Middle third,Falling,1.2999999999999998,6.4
+Society,Severe housing deprivation,%,lower,housing_deprivation,FR,2014,2023,2.3,4.6,11,18,26,0.6153846153846154,0.31999999999999995,5.4,4.0,-7,Middle third,Falling,-0.5999999999999996,3.1000000000000005
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,FR,2014,2025,4.27,4.74,11,18,27,0.6153846153846154,0.34615384615384615,5.22,4.62,-7,Middle third,Falling,-0.1200000000000001,0.9500000000000002
+Society,Severe material & social deprivation,%,lower,severe_deprivation,FR,2015,2025,6.8,7.0,11,21,27,0.6153846153846154,0.23076923076923073,9.7,6.3,-10,Bottom third,Falling,-0.7000000000000002,2.8999999999999995
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,HR,2014,2025,31.94,55.37,23,21,27,0.15384615384615385,0.23076923076923073,46.03,57.65,2,Bottom third,Holding,-2.280000000000001,-14.09
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,HR,2014,2025,2.8,4.9,19,13,27,0.3076923076923077,0.5384615384615384,3.4,5.0,6,Middle third,Climbing,-0.09999999999999964,-0.6000000000000001
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,HR,2014,2025,68.57,85.9,21,27,27,0.23076923076923073,0.0,76.07,93.79,-6,Bottom third,Falling,-7.890000000000001,-7.5
+Digital & innovation,European patent applications,per million people,higher,patents,HR,2014,2025,2.86,10.32,26,26,27,0.038461538461538436,0.038461538461538436,141.49,152.56,0,Bottom third,Holding,-142.24,-138.63
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,HR,2014,2024,0.77,1.41,23,16,27,0.15384615384615385,0.42307692307692313,2.09,2.26,7,Middle third,Climbing,-0.8499999999999999,-1.3199999999999998
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,HR,2019,2025,43.2,82.7,19,19,27,0.3076923076923077,0.3076923076923077,50.3,85.5,0,Bottom third,Holding,-2.799999999999997,-7.099999999999994
+Economy,"Employment rate, age 20–64",%,higher,employment,HR,2014,2025,59.1,74.4,25,21,27,0.07692307692307687,0.23076923076923073,67.5,76.1,4,Bottom third,Climbing,-1.6999999999999886,-8.399999999999999
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,HR,2014,2024,60.0,77.0,25,22,27,0.07692307692307687,0.1923076923076923,100.0,100.0,3,Bottom third,Climbing,-23.0,-40.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,HR,2014,2025,10.0,5.0,17,7,27,0.3846153846153846,0.7692307692307692,11.1,9.6,10,Top third,Climbing,4.6,1.0999999999999996
+Economy,Government budget balance,% of GDP,higher,gov_balance,HR,2014,2025,-5.1,-3.0,23,17,27,0.15384615384615385,0.3846153846153846,-2.4,-3.1,6,Middle third,Climbing,0.10000000000000009,-2.6999999999999997
+Economy,Government debt,% of GDP,lower,gov_debt,HR,2014,2025,83.2,56.3,18,13,27,0.34615384615384615,0.5384615384615384,86.9,81.7,5,Middle third,Climbing,25.400000000000006,3.700000000000003
+Economy,Young people not in work or education (15–29),%,lower,neet,HR,2014,2025,21.7,10.8,23,16,27,0.15384615384615385,0.42307692307692313,15.9,11.0,7,Middle third,Climbing,0.1999999999999993,-5.799999999999999
+Economy,Unemployment rate,%,lower,unemployment,HR,2014,2025,17.3,4.9,25,11,27,0.07692307692307687,0.6153846153846154,11.0,6.0,14,Middle third,Climbing,1.0999999999999996,-6.300000000000001
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,HR,2014,2025,2.8,6.5,25,25,27,0.07692307692307687,0.07692307692307687,10.1,13.7,0,Bottom third,Holding,-7.199999999999999,-7.3
+Education,At least basic digital skills,%,higher,digital_skills,HR,2021,2025,63.37,63.38,8,11,27,0.7307692307692308,0.6153846153846154,53.92,60.4,-3,Middle third,Falling,2.980000000000004,9.449999999999996
+Education,Early leavers from education (18–24),%,lower,early_leavers,HR,2014,2025,2.8,2.1,1,1,26,1.0,1.0,11.1,9.1,0,Top third,Holding,7.0,8.3
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,HR,2015,2025,32.0,36.1,23,21,27,0.15384615384615385,0.23076923076923073,22.2,33.9,2,Bottom third,Holding,-2.200000000000003,-9.8
+Education,"University degree, age 25–34",%,higher,tertiary,HR,2014,2025,32.3,42.0,18,19,27,0.34615384615384615,0.3076923076923077,35.9,44.8,-1,Bottom third,Holding,-2.799999999999997,-3.6000000000000014
+Environment & energy,Circular material use,%,higher,circularity,HR,2014,2024,4.8,5.9,19,19,27,0.3076923076923077,0.3076923076923077,11.1,12.2,0,Bottom third,Holding,-6.299999999999999,-6.3
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,HR,2014,2024,8.38,13.31,10,10,27,0.6538461538461539,0.6538461538461539,8.08,13.52,0,Middle third,Holding,-0.20999999999999908,0.3000000000000007
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,HR,2014,2024,4.3,5.4,4,12,27,0.8846153846153846,0.5769230769230769,,,-8,Middle third,Falling,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,HR,2014,2024,44.206,59.929,10,15,27,0.6538461538461539,0.46153846153846156,54.4,57.286,-5,Middle third,Falling,-2.6430000000000007,10.193999999999996
+Environment & energy,Municipal waste recycled,%,higher,recycling,HR,2014,2024,16.4,36.7,22,18,26,0.1923076923076923,0.31999999999999995,43.4,49.4,4,Middle third,Climbing,-12.699999999999996,-27.0
+Environment & energy,Renewable share of energy,%,higher,renewables,HR,2014,2025,27.817,28.5,7,9,27,0.7692307692307692,0.6923076923076923,17.416,26.2,-2,Top third,Holding,2.3000000000000007,10.401
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,HR,2014,2025,48.0,47.0,23,24,27,0.15384615384615385,0.11538461538461542,64.0,62.0,-1,Bottom third,Holding,-15.0,-16.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,HR,2014,2024,5.0,3.2,23,13,27,0.15384615384615385,0.5384615384615384,3.6,3.5,10,Middle third,Climbing,0.2999999999999998,-1.4
+Health,Life expectancy at birth,years,higher,life_exp,HR,2014,2024,77.8,78.9,19,20,27,0.3076923076923077,0.2692307692307693,80.6,81.5,-1,Bottom third,Holding,-2.5999999999999943,-2.799999999999997
+Health,Adult obesity,%,lower,obesity,HR,2014,2025,18.7,16.5,20,10,27,0.2692307692307693,0.6538461538461539,15.4,16.3,10,Middle third,Climbing,-0.1999999999999993,-3.299999999999999
+Health,Preventable deaths,per 100k,lower,preventable_mort,HR,2014,2023,238.32,225.22,20,22,27,0.2692307692307693,0.1923076923076923,165.82,150.85,-2,Bottom third,Holding,-74.37,-72.5
+Health,Road traffic deaths,per 100k,lower,road_deaths,HR,2014,2024,7.3,6.2,21,24,27,0.23076923076923073,0.11538461538461542,5.5,4.4,-3,Bottom third,Falling,-1.7999999999999998,-1.7999999999999998
+Health,Treatable deaths,per 100k,lower,treatable_mort,HR,2014,2023,144.91,126.14,20,20,27,0.2692307692307693,0.2692307692307693,94.83,86.81,0,Bottom third,Holding,-39.33,-50.08
+Society,At risk of poverty or social exclusion,%,lower,arope,HR,2015,2025,24.4,20.7,17,17,27,0.3846153846153846,0.3846153846153846,24.0,20.9,0,Middle third,Holding,0.1999999999999993,-0.3999999999999986
+Society,Cannot keep home adequately warm,%,lower,cold_home,HR,2014,2025,9.7,4.2,16,8,27,0.42307692307692313,0.7307692307692308,10.4,8.8,8,Top third,Climbing,4.6000000000000005,0.7000000000000011
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,HR,2014,2023,2.5,1.4,1,1,27,1.0,1.0,13.6,10.0,0,Top third,Holding,8.6,11.1
+Society,Housing cost overburden,%,lower,housing_cost_burden,HR,2014,2025,7.5,3.2,10,2,26,0.6538461538461539,0.96,11.5,7.7,8,Top third,Climbing,4.5,4.0
+Society,Severe housing deprivation,%,lower,housing_deprivation,HR,2014,2023,7.8,2.8,20,11,26,0.2692307692307693,0.6,5.4,4.0,9,Middle third,Climbing,1.2000000000000002,-2.3999999999999995
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,HR,2014,2025,4.91,4.78,15,19,27,0.46153846153846156,0.3076923076923077,5.22,4.62,-4,Bottom third,Falling,-0.16000000000000014,0.3099999999999996
+Society,Severe material & social deprivation,%,lower,severe_deprivation,HR,2015,2025,8.4,2.0,17,2,27,0.3846153846153846,0.9615384615384616,9.7,6.3,15,Top third,Climbing,4.3,1.299999999999999
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,HU,2014,2025,48.72,74.82,16,7,27,0.42307692307692313,0.7692307692307692,46.03,57.65,9,Top third,Climbing,17.169999999999995,2.6899999999999977
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,HU,2014,2025,3.5,4.6,13,20,27,0.5384615384615384,0.2692307692307693,3.4,5.0,-7,Bottom third,Falling,-0.40000000000000036,0.10000000000000009
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,HU,2014,2025,75.65,92.8,16,18,27,0.42307692307692313,0.34615384615384615,76.07,93.79,-2,Middle third,Holding,-0.9900000000000091,-0.4199999999999875
+Digital & innovation,European patent applications,per million people,higher,patents,HU,2014,2025,11.6,13.52,19,22,27,0.3076923076923077,0.1923076923076923,141.49,152.56,-3,Bottom third,Falling,-139.04,-129.89000000000001
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,HU,2014,2024,1.34,1.31,13,19,27,0.5384615384615384,0.3076923076923077,2.09,2.26,-6,Bottom third,Falling,-0.9499999999999997,-0.7499999999999998
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,HU,2019,2025,42.6,87.4,20,14,27,0.2692307692307693,0.5,50.3,85.5,6,Middle third,Climbing,1.9000000000000057,-7.699999999999996
+Economy,"Employment rate, age 20–64",%,higher,employment,HU,2014,2025,68.7,81.1,13,7,27,0.5384615384615384,0.7692307692307692,67.5,76.1,6,Top third,Climbing,5.0,1.2000000000000028
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,HU,2014,2024,69.0,77.0,22,22,27,0.1923076923076923,0.1923076923076923,100.0,100.0,0,Bottom third,Holding,-23.0,-31.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,HU,2014,2025,9.4,8.1,15,17,27,0.46153846153846156,0.3846153846153846,11.1,9.6,-2,Middle third,Holding,1.5,1.6999999999999993
+Economy,Government budget balance,% of GDP,higher,gov_balance,HU,2014,2025,-2.8,-4.7,13,23,27,0.5384615384615384,0.15384615384615385,-2.4,-3.1,-10,Bottom third,Falling,-1.6,-0.3999999999999999
+Economy,Government debt,% of GDP,lower,gov_debt,HU,2014,2025,76.5,74.6,16,19,27,0.42307692307692313,0.3076923076923077,86.9,81.7,-3,Bottom third,Falling,7.1000000000000085,10.400000000000006
+Economy,Young people not in work or education (15–29),%,lower,neet,HU,2014,2025,14.7,10.6,16,14,27,0.42307692307692313,0.5,15.9,11.0,2,Middle third,Holding,0.40000000000000036,1.200000000000001
+Economy,Unemployment rate,%,lower,unemployment,HU,2014,2025,7.5,4.4,8,8,27,0.7307692307692308,0.7307692307692308,11.0,6.0,0,Top third,Holding,1.5999999999999996,3.5
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,HU,2014,2025,3.3,10.6,22,20,27,0.1923076923076923,0.2692307692307693,10.1,13.7,2,Bottom third,Holding,-3.0999999999999996,-6.8
+Education,At least basic digital skills,%,higher,digital_skills,HU,2021,2025,49.09,57.32,21,17,27,0.23076923076923073,0.3846153846153846,53.92,60.4,4,Middle third,Climbing,-3.0799999999999983,-4.829999999999998
+Education,Early leavers from education (18–24),%,lower,early_leavers,HU,2014,2025,11.4,9.3,20,18,26,0.2692307692307693,0.31999999999999995,11.1,9.1,2,Middle third,Holding,-0.20000000000000107,-0.3000000000000007
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,HU,2015,2025,28.0,33.6,21,15,27,0.23076923076923073,0.46153846153846156,22.2,33.9,6,Middle third,Climbing,0.29999999999999716,-5.800000000000001
+Education,"University degree, age 25–34",%,higher,tertiary,HU,2014,2025,32.1,32.6,19,25,27,0.3076923076923077,0.07692307692307687,35.9,44.8,-6,Bottom third,Falling,-12.199999999999996,-3.799999999999997
+Environment & energy,Circular material use,%,higher,circularity,HU,2014,2024,5.3,7.3,17,17,27,0.3846153846153846,0.3846153846153846,11.1,12.2,0,Middle third,Holding,-4.8999999999999995,-5.8
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,HU,2014,2024,7.63,11.93,13,17,27,0.5384615384615384,0.3846153846153846,8.08,13.52,-4,Middle third,Falling,-1.5899999999999999,-0.4500000000000002
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,HU,2014,2024,5.5,5.0,6,8,27,0.8076923076923077,0.7307692307692308,,,-2,Top third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,HU,2014,2024,59.845,48.943,14,12,27,0.5,0.5769230769230769,54.4,57.286,2,Middle third,Holding,8.343000000000004,-5.445
+Environment & energy,Municipal waste recycled,%,higher,recycling,HU,2014,2024,30.5,33.6,15,20,26,0.46153846153846156,0.24,43.4,49.4,-5,Bottom third,Falling,-15.799999999999997,-12.899999999999999
+Environment & energy,Renewable share of energy,%,higher,renewables,HU,2014,2025,14.618,19.6,17,21,27,0.3846153846153846,0.23076923076923073,17.416,26.2,-4,Bottom third,Falling,-6.599999999999998,-2.798
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,HU,2014,2025,54.0,40.0,20,26,27,0.2692307692307693,0.038461538461538436,64.0,62.0,-6,Bottom third,Falling,-22.0,-10.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,HU,2014,2024,4.5,3.8,22,20,27,0.1923076923076923,0.2692307692307693,3.6,3.5,2,Bottom third,Holding,-0.2999999999999998,-0.8999999999999999
+Health,Life expectancy at birth,years,higher,life_exp,HU,2014,2024,75.8,76.8,23,24,27,0.15384615384615385,0.11538461538461542,80.6,81.5,-1,Bottom third,Holding,-4.700000000000003,-4.799999999999997
+Health,Adult obesity,%,lower,obesity,HU,2014,2025,21.2,20.9,25,20,27,0.07692307692307687,0.2692307692307693,15.4,16.3,5,Bottom third,Climbing,-4.599999999999998,-5.799999999999999
+Health,Preventable deaths,per 100k,lower,preventable_mort,HU,2014,2023,330.09,300.35,25,26,27,0.07692307692307687,0.038461538461538436,165.82,150.85,-1,Bottom third,Holding,-149.50000000000003,-164.26999999999998
+Health,Road traffic deaths,per 100k,lower,road_deaths,HU,2014,2024,6.4,5.2,18,20,27,0.34615384615384615,0.2692307692307693,5.5,4.4,-2,Bottom third,Holding,-0.7999999999999998,-0.9000000000000004
+Health,Treatable deaths,per 100k,lower,treatable_mort,HU,2014,2023,182.65,172.31,23,24,27,0.15384615384615385,0.11538461538461542,94.83,86.81,-1,Bottom third,Holding,-85.5,-87.82000000000001
+Society,At risk of poverty or social exclusion,%,lower,arope,HU,2015,2025,30.6,19.5,24,16,27,0.11538461538461542,0.42307692307692313,24.0,20.9,8,Middle third,Climbing,1.3999999999999986,-6.600000000000001
+Society,Cannot keep home adequately warm,%,lower,cold_home,HU,2014,2025,11.6,5.8,18,15,27,0.34615384615384615,0.46153846153846156,10.4,8.8,3,Middle third,Climbing,3.000000000000001,-1.1999999999999993
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,HU,2014,2023,13.9,6.1,19,8,27,0.3076923076923077,0.7307692307692308,13.6,10.0,11,Top third,Climbing,3.9000000000000004,-0.3000000000000007
+Society,Housing cost overburden,%,lower,housing_cost_burden,HU,2014,2025,12.8,5.3,21,9,26,0.23076923076923073,0.6799999999999999,11.5,7.7,12,Top third,Climbing,2.4000000000000004,-1.3000000000000007
+Society,Severe housing deprivation,%,lower,housing_deprivation,HU,2014,2023,17.3,5.3,26,20,26,0.038461538461538436,0.24,5.4,4.0,6,Bottom third,Climbing,-1.2999999999999998,-11.9
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,HU,2014,2025,4.33,4.68,12,16,27,0.5769230769230769,0.42307692307692313,5.22,4.62,-4,Middle third,Falling,-0.05999999999999961,0.8899999999999997
+Society,Severe material & social deprivation,%,lower,severe_deprivation,HU,2015,2025,24.1,8.5,25,24,27,0.07692307692307687,0.11538461538461542,9.7,6.3,1,Bottom third,Holding,-2.2,-14.400000000000002
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,IE,2014,2025,51.45,74.49,13,8,27,0.5384615384615384,0.7307692307692308,46.03,57.65,5,Top third,Climbing,16.839999999999996,5.420000000000002
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,IE,2014,2025,4.8,6.2,4,6,27,0.8846153846153846,0.8076923076923077,3.4,5.0,-2,Top third,Holding,1.2000000000000002,1.4
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,IE,2014,2025,79.69,99.78,13,1,27,0.5384615384615384,1.0,76.07,93.79,12,Top third,Climbing,5.989999999999995,3.6200000000000045
+Digital & innovation,European patent applications,per million people,higher,patents,IE,2014,2025,133.55,216.72,11,8,27,0.6153846153846154,0.7307692307692308,141.49,152.56,3,Top third,Climbing,64.16,-7.939999999999998
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,IE,2014,2024,1.48,1.59,11,13,27,0.6153846153846154,0.5384615384615384,2.09,2.26,-2,Middle third,Holding,-0.6699999999999997,-0.6099999999999999
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,IE,2019,2025,35.4,89.0,21,13,27,0.23076923076923073,0.5384615384615384,50.3,85.5,8,Middle third,Climbing,3.5,-14.899999999999999
+Economy,"Employment rate, age 20–64",%,higher,employment,IE,2014,2025,68.1,80.2,14,9,27,0.5,0.6923076923076923,67.5,76.1,5,Top third,Climbing,4.1000000000000085,0.5999999999999943
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,IE,2014,2024,141.0,211.0,2,2,27,0.9615384615384616,0.9615384615384616,100.0,100.0,0,Top third,Holding,111.0,41.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,IE,2014,2025,11.8,9.0,20,19,27,0.2692307692307693,0.3076923076923077,11.1,9.6,1,Bottom third,Holding,0.5999999999999996,-0.7000000000000011
+Economy,Government budget balance,% of GDP,higher,gov_balance,IE,2014,2025,-3.5,1.8,18,3,27,0.34615384615384615,0.9230769230769231,-2.4,-3.1,15,Top third,Climbing,4.9,-1.1
+Economy,Government debt,% of GDP,lower,gov_debt,IE,2014,2025,101.4,32.9,21,5,27,0.23076923076923073,0.8461538461538461,86.9,81.7,16,Top third,Climbing,48.800000000000004,-14.5
+Economy,Young people not in work or education (15–29),%,lower,neet,IE,2014,2025,17.8,8.1,20,6,27,0.2692307692307693,0.8076923076923077,15.9,11.0,14,Top third,Climbing,2.9000000000000004,-1.9000000000000004
+Economy,Unemployment rate,%,lower,unemployment,IE,2014,2025,11.9,4.7,19,10,27,0.3076923076923077,0.6538461538461539,11.0,6.0,9,Middle third,Climbing,1.2999999999999998,-0.9000000000000004
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,IE,2014,2025,7.0,14.6,18,14,27,0.34615384615384615,0.5,10.1,13.7,4,Middle third,Climbing,0.9000000000000004,-3.0999999999999996
+Education,At least basic digital skills,%,higher,digital_skills,IE,2021,2025,70.49,82.82,3,2,27,0.9230769230769231,0.9615384615384616,53.92,60.4,1,Top third,Holding,22.419999999999995,16.569999999999993
+Education,Early leavers from education (18–24),%,lower,early_leavers,IE,2014,2025,6.7,3.6,7,3,26,0.7692307692307692,0.92,11.1,9.1,4,Top third,Climbing,5.5,4.3999999999999995
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,IE,2015,2025,15.0,24.2,4,2,27,0.8846153846153846,0.9615384615384616,22.2,33.9,2,Top third,Holding,9.7,7.199999999999999
+Education,"University degree, age 25–34",%,higher,tertiary,IE,2014,2025,53.4,66.8,2,1,27,0.9615384615384616,1.0,35.9,44.8,1,Top third,Holding,22.0,17.5
+Environment & energy,Circular material use,%,higher,circularity,IE,2014,2024,2.2,2.0,24,25,27,0.11538461538461542,0.07692307692307687,11.1,12.2,-1,Bottom third,Holding,-10.2,-8.899999999999999
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,IE,2014,2024,12.97,32.33,1,1,27,1.0,1.0,8.08,13.52,0,Top third,Holding,18.81,4.890000000000001
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,IE,2014,2024,13.1,10.5,25,27,27,0.07692307692307687,0.0,,,-2,Bottom third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,IE,2014,2024,86.012,79.533,24,24,27,0.11538461538461542,0.11538461538461542,54.4,57.286,0,Bottom third,Holding,-22.247,-31.612000000000002
+Environment & energy,Municipal waste recycled,%,higher,recycling,IE,2014,2024,39.8,43.1,9,16,26,0.6923076923076923,0.4,43.4,49.4,-7,Middle third,Falling,-6.299999999999997,-3.6000000000000014
+Environment & energy,Renewable share of energy,%,higher,renewables,IE,2014,2025,8.516,17.2,23,25,27,0.15384615384615385,0.07692307692307687,17.416,26.2,-2,Bottom third,Holding,-9.0,-8.9
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,IE,2014,2025,74.0,76.0,8,7,27,0.7307692307692308,0.7692307692307692,64.0,62.0,1,Top third,Holding,14.0,10.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,IE,2014,2024,3.3,3.3,13,14,27,0.5384615384615384,0.5,3.6,3.5,-1,Middle third,Holding,0.20000000000000018,0.30000000000000027
+Health,Life expectancy at birth,years,higher,life_exp,IE,2014,2024,81.3,83.1,10,6,27,0.6538461538461539,0.8076923076923077,80.6,81.5,4,Top third,Climbing,1.5999999999999943,0.7000000000000028
+Health,Adult obesity,%,lower,obesity,IE,2014,2025,18.7,22.1,20,24,27,0.2692307692307693,0.11538461538461542,15.4,16.3,-4,Bottom third,Falling,-5.800000000000001,-3.299999999999999
+Health,Preventable deaths,per 100k,lower,preventable_mort,IE,2014,2023,147.23,126.33,11,9,27,0.6153846153846154,0.6923076923076923,165.82,150.85,2,Top third,Holding,24.519999999999996,18.590000000000003
+Health,Road traffic deaths,per 100k,lower,road_deaths,IE,2014,2024,4.1,3.2,6,6,27,0.8076923076923077,0.8076923076923077,5.5,4.4,0,Top third,Holding,1.2000000000000002,1.4000000000000004
+Health,Treatable deaths,per 100k,lower,treatable_mort,IE,2014,2023,83.73,67.62,12,11,27,0.5769230769230769,0.6153846153846154,94.83,86.81,1,Middle third,Holding,19.189999999999998,11.099999999999994
+Society,At risk of poverty or social exclusion,%,lower,arope,IE,2015,2025,25.4,18.8,18,14,27,0.34615384615384615,0.5,24.0,20.9,4,Middle third,Climbing,2.099999999999998,-1.3999999999999986
+Society,Cannot keep home adequately warm,%,lower,cold_home,IE,2014,2025,8.9,4.5,14,11,27,0.5,0.6153846153846154,10.4,8.8,3,Middle third,Climbing,4.300000000000001,1.5
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,IE,2014,2023,10.9,9.6,9,18,27,0.6923076923076923,0.34615384615384615,13.6,10.0,-9,Middle third,Falling,0.40000000000000036,2.6999999999999993
+Society,Housing cost overburden,%,lower,housing_cost_burden,IE,2014,2025,6.4,5.3,5,9,26,0.8461538461538461,0.6799999999999999,11.5,7.7,-4,Top third,Falling,2.4000000000000004,5.1
+Society,Severe housing deprivation,%,lower,housing_deprivation,IE,2014,2020,1.3,1.3,4,4,26,0.8846153846153846,0.88,5.4,4.0,0,Top third,Holding,2.7,4.1000000000000005
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,IE,2014,2025,4.9,3.89,14,7,27,0.5,0.7692307692307692,5.22,4.62,7,Top third,Climbing,0.73,0.3199999999999994
+Society,Severe material & social deprivation,%,lower,severe_deprivation,IE,2015,2025,9.4,5.2,19,17,27,0.3076923076923077,0.3846153846153846,9.7,6.3,2,Middle third,Holding,1.0999999999999996,0.29999999999999893
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,IT,2014,2025,22.98,43.51,25,25,27,0.07692307692307687,0.07692307692307687,46.03,57.65,0,Bottom third,Holding,-14.14,-23.05
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,IT,2014,2025,3.3,3.8,15,25,27,0.46153846153846156,0.07692307692307687,3.4,5.0,-10,Bottom third,Falling,-1.2000000000000002,-0.10000000000000009
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,IT,2014,2025,61.96,90.32,25,21,27,0.07692307692307687,0.23076923076923073,76.07,93.79,4,Bottom third,Climbing,-3.470000000000013,-14.109999999999992
+Digital & innovation,European patent applications,per million people,higher,patents,IT,2014,2025,60.5,80.87,13,12,27,0.5384615384615384,0.5769230769230769,141.49,152.56,1,Middle third,Holding,-71.69,-80.99000000000001
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,IT,2014,2024,1.33,1.41,14,16,27,0.5,0.42307692307692313,2.09,2.26,-2,Middle third,Holding,-0.8499999999999999,-0.7599999999999998
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,IT,2019,2025,30.0,77.6,23,23,27,0.15384615384615385,0.15384615384615385,50.3,85.5,0,Bottom third,Holding,-7.900000000000006,-20.299999999999997
+Economy,"Employment rate, age 20–64",%,higher,employment,IT,2014,2025,59.5,67.6,24,27,27,0.11538461538461542,0.0,67.5,76.1,-3,Bottom third,Falling,-8.5,-8.0
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,IT,2014,2024,98.0,98.0,11,12,27,0.6153846153846154,0.5769230769230769,100.0,100.0,-1,Middle third,Holding,-2.0,-2.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,IT,2014,2025,18.9,19.1,26,27,27,0.038461538461538436,0.0,11.1,9.6,-1,Bottom third,Holding,-9.500000000000002,-7.799999999999999
+Economy,Government budget balance,% of GDP,higher,gov_balance,IT,2014,2025,-2.8,-3.1,13,18,27,0.5384615384615384,0.34615384615384615,-2.4,-3.1,-5,Middle third,Falling,0.0,-0.3999999999999999
+Economy,Government debt,% of GDP,lower,gov_debt,IT,2014,2025,134.8,137.1,26,26,27,0.038461538461538436,0.038461538461538436,86.9,81.7,0,Bottom third,Holding,-55.39999999999999,-47.900000000000006
+Economy,Young people not in work or education (15–29),%,lower,neet,IT,2014,2025,26.3,13.3,26,24,27,0.038461538461538436,0.11538461538461542,15.9,11.0,2,Bottom third,Holding,-2.3000000000000007,-10.4
+Economy,Unemployment rate,%,lower,unemployment,IT,2014,2025,12.9,6.1,21,15,27,0.23076923076923073,0.46153846153846156,11.0,6.0,6,Middle third,Climbing,-0.09999999999999964,-1.9000000000000004
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,IT,2014,2025,8.1,10.8,13,19,27,0.5384615384615384,0.3076923076923077,10.1,13.7,-6,Bottom third,Falling,-2.8999999999999986,-2.0
+Education,At least basic digital skills,%,higher,digital_skills,IT,2021,2025,45.6,54.27,24,19,27,0.11538461538461542,0.3076923076923077,53.92,60.4,5,Bottom third,Climbing,-6.1299999999999955,-8.32
+Education,Early leavers from education (18–24),%,lower,early_leavers,IT,2014,2025,15.0,8.2,23,14,26,0.15384615384615385,0.48,11.1,9.1,9,Middle third,Climbing,0.9000000000000004,-3.9000000000000004
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,IT,2015,2025,23.3,31.3,15,11,27,0.46153846153846156,0.6153846153846154,22.2,33.9,4,Middle third,Climbing,2.599999999999998,-1.1000000000000014
+Education,"University degree, age 25–34",%,higher,tertiary,IT,2014,2025,24.2,31.1,27,26,27,0.0,0.038461538461538436,35.9,44.8,1,Bottom third,Holding,-13.699999999999996,-11.7
+Environment & energy,Circular material use,%,higher,circularity,IT,2014,2024,15.7,21.6,4,3,27,0.8846153846153846,0.9230769230769231,11.1,12.2,1,Top third,Holding,9.400000000000002,4.6
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,IT,2014,2024,10.45,16.18,3,5,27,0.9230769230769231,0.8461538461538461,8.08,13.52,-2,Top third,Holding,2.66,2.369999999999999
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,IT,2014,2024,6.4,5.1,11,9,27,0.6153846153846154,0.6923076923076923,,,2,Top third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,IT,2014,2024,75.811,73.884,22,21,27,0.1923076923076923,0.23076923076923073,54.4,57.286,1,Bottom third,Holding,-16.598,-21.41100000000001
+Environment & energy,Municipal waste recycled,%,higher,recycling,IT,2014,2024,41.6,52.3,8,9,26,0.7307692307692308,0.6799999999999999,43.4,49.4,-1,Top third,Holding,2.8999999999999986,-1.7999999999999972
+Environment & energy,Renewable share of energy,%,higher,renewables,IT,2014,2025,17.082,20.5,13,19,27,0.5384615384615384,0.3076923076923077,17.416,26.2,-6,Bottom third,Falling,-5.699999999999999,-0.33399999999999963
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,IT,2014,2025,43.0,53.0,24,19,27,0.11538461538461542,0.3076923076923077,64.0,62.0,5,Bottom third,Climbing,-9.0,-21.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,IT,2014,2024,2.8,2.5,7,7,27,0.7692307692307692,0.7692307692307692,3.6,3.5,0,Top third,Holding,1.0,0.8000000000000003
+Health,Life expectancy at birth,years,higher,life_exp,IT,2014,2024,82.8,83.7,2,3,27,0.9615384615384616,0.9230769230769231,80.6,81.5,-1,Top third,Holding,2.200000000000003,2.200000000000003
+Health,Adult obesity,%,lower,obesity,IT,2014,2025,10.8,7.0,2,1,27,0.9615384615384616,1.0,15.4,16.3,1,Top third,Holding,9.3,4.6
+Health,Preventable deaths,per 100k,lower,preventable_mort,IT,2014,2023,112.86,98.44,2,2,27,0.9615384615384616,0.9615384615384616,165.82,150.85,0,Top third,Holding,52.41,52.959999999999994
+Health,Road traffic deaths,per 100k,lower,road_deaths,IT,2014,2024,5.6,5.1,14,19,27,0.5,0.3076923076923077,5.5,4.4,-5,Bottom third,Falling,-0.6999999999999993,-0.09999999999999964
+Health,Treatable deaths,per 100k,lower,treatable_mort,IT,2014,2023,69.02,61.85,5,7,27,0.8461538461538461,0.7692307692307692,94.83,86.81,-2,Top third,Holding,24.96,25.810000000000002
+Society,At risk of poverty or social exclusion,%,lower,arope,IT,2015,2025,28.4,22.6,20,21,27,0.2692307692307693,0.23076923076923073,24.0,20.9,-1,Bottom third,Holding,-1.7000000000000028,-4.399999999999999
+Society,Cannot keep home adequately warm,%,lower,cold_home,IT,2014,2025,18.0,8.6,21,19,27,0.23076923076923073,0.3076923076923077,10.4,8.8,2,Bottom third,Holding,0.20000000000000107,-7.6
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,IT,2014,2023,18.0,6.4,25,10,27,0.07692307692307687,0.6538461538461539,13.6,10.0,15,Middle third,Climbing,3.5999999999999996,-4.4
+Society,Housing cost overburden,%,lower,housing_cost_burden,IT,2014,2025,8.5,5.0,12,7,26,0.5769230769230769,0.76,11.5,7.7,5,Top third,Climbing,2.7,3.0
+Society,Severe housing deprivation,%,lower,housing_deprivation,IT,2014,2023,9.5,5.8,22,21,26,0.1923076923076923,0.19999999999999996,5.4,4.0,1,Bottom third,Holding,-1.7999999999999998,-4.1
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,IT,2014,2025,5.78,5.13,19,22,27,0.3076923076923077,0.1923076923076923,5.22,4.62,-3,Bottom third,Falling,-0.5099999999999998,-0.5600000000000005
+Society,Severe material & social deprivation,%,lower,severe_deprivation,IT,2015,2025,12.1,5.2,21,17,27,0.23076923076923073,0.3846153846153846,9.7,6.3,4,Middle third,Climbing,1.0999999999999996,-2.4000000000000004
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,LT,2014,2025,41.47,70.84,18,10,27,0.34615384615384615,0.6538461538461539,46.03,57.65,8,Middle third,Climbing,13.190000000000005,-4.560000000000002
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,LT,2014,2025,1.7,5.7,25,8,27,0.07692307692307687,0.7307692307692308,3.4,5.0,17,Top third,Climbing,0.7000000000000002,-1.7
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,LT,2014,2025,72.13,89.3,18,24,27,0.34615384615384615,0.11538461538461542,76.07,93.79,-6,Bottom third,Falling,-4.490000000000009,-3.9399999999999977
+Digital & innovation,European patent applications,per million people,higher,patents,LT,2014,2025,8.18,32.17,22,18,27,0.1923076923076923,0.34615384615384615,141.49,152.56,4,Middle third,Climbing,-120.39,-133.31
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,LT,2014,2024,1.03,1.12,18,20,27,0.34615384615384615,0.2692307692307693,2.09,2.26,-2,Bottom third,Holding,-1.1399999999999997,-1.0599999999999998
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,LT,2019,2025,61.0,79.0,13,22,27,0.5384615384615384,0.1923076923076923,50.3,85.5,-9,Bottom third,Falling,-6.5,10.700000000000003
+Economy,"Employment rate, age 20–64",%,higher,employment,LT,2014,2025,71.8,80.0,10,10,27,0.6538461538461539,0.6538461538461539,67.5,76.1,0,Middle third,Holding,3.9000000000000057,4.299999999999997
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,LT,2014,2024,75.0,88.0,20,17,27,0.2692307692307693,0.3846153846153846,100.0,100.0,3,Middle third,Climbing,-12.0,-25.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,LT,2014,2025,2.5,-0.6,2,1,27,0.9615384615384616,1.0,11.1,9.6,1,Top third,Holding,10.2,8.6
+Economy,Government budget balance,% of GDP,higher,gov_balance,LT,2014,2025,-1.8,-1.8,8,8,27,0.7307692307692308,0.7307692307692308,-2.4,-3.1,0,Top third,Holding,1.3,0.5999999999999999
+Economy,Government debt,% of GDP,lower,gov_debt,LT,2014,2025,40.7,39.5,5,7,27,0.8461538461538461,0.7692307692307692,86.9,81.7,-2,Top third,Holding,42.2,46.2
+Economy,Young people not in work or education (15–29),%,lower,neet,LT,2014,2025,12.9,12.4,11,22,27,0.6153846153846154,0.1923076923076923,15.9,11.0,-11,Bottom third,Falling,-1.4000000000000004,3.0
+Economy,Unemployment rate,%,lower,unemployment,LT,2014,2025,10.7,6.9,17,20,27,0.3846153846153846,0.2692307692307693,11.0,6.0,-3,Bottom third,Falling,-0.9000000000000004,0.3000000000000007
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,LT,2014,2025,5.1,10.4,20,21,27,0.2692307692307693,0.23076923076923073,10.1,13.7,-1,Bottom third,Holding,-3.299999999999999,-5.0
+Education,At least basic digital skills,%,higher,digital_skills,LT,2021,2025,48.84,53.8,23,20,27,0.15384615384615385,0.2692307692307693,53.92,60.4,3,Bottom third,Climbing,-6.600000000000001,-5.079999999999998
+Education,Early leavers from education (18–24),%,lower,early_leavers,LT,2014,2025,5.9,5.9,5,6,26,0.8461538461538461,0.8,11.1,9.1,-1,Top third,Holding,3.1999999999999993,5.199999999999999
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,LT,2015,2025,25.4,28.7,18,7,27,0.34615384615384615,0.7692307692307692,22.2,33.9,11,Top third,Climbing,5.199999999999999,-3.1999999999999993
+Education,"University degree, age 25–34",%,higher,tertiary,LT,2014,2025,52.6,60.8,4,3,27,0.8846153846153846,0.9230769230769231,35.9,44.8,1,Top third,Holding,16.0,16.700000000000003
+Environment & energy,Circular material use,%,higher,circularity,LT,2014,2024,3.7,4.2,21,23,27,0.23076923076923073,0.15384615384615385,11.1,12.2,-2,Bottom third,Holding,-7.999999999999999,-7.3999999999999995
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,LT,2014,2024,8.34,13.16,11,11,27,0.6153846153846154,0.6153846153846154,8.08,13.52,0,Middle third,Holding,-0.35999999999999943,0.2599999999999998
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,LT,2014,2024,4.0,3.6,3,3,27,0.9230769230769231,0.9230769230769231,,,0,Top third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,LT,2014,2024,74.935,66.014,21,17,27,0.23076923076923073,0.3846153846153846,54.4,57.286,4,Middle third,Climbing,-8.727999999999994,-20.535000000000004
+Environment & energy,Municipal waste recycled,%,higher,recycling,LT,2014,2024,30.5,52.5,15,8,26,0.46153846153846156,0.72,43.4,49.4,7,Top third,Climbing,3.1000000000000014,-12.899999999999999
+Environment & energy,Renewable share of energy,%,higher,renewables,LT,2014,2025,23.592,38.5,10,7,27,0.6538461538461539,0.7692307692307692,17.416,26.2,3,Top third,Climbing,12.3,6.175999999999998
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,LT,2014,2025,58.0,65.0,16,12,27,0.42307692307692313,0.5769230769230769,64.0,62.0,4,Middle third,Climbing,3.0,-6.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,LT,2014,2024,3.9,2.9,19,8,27,0.3076923076923077,0.7307692307692308,3.6,3.5,11,Top third,Climbing,0.6000000000000001,-0.2999999999999998
+Health,Life expectancy at birth,years,higher,life_exp,LT,2014,2024,74.5,77.5,25,23,27,0.07692307692307687,0.15384615384615385,80.6,81.5,2,Bottom third,Holding,-4.0,-6.099999999999994
+Health,Adult obesity,%,lower,obesity,LT,2014,2025,17.3,21.5,17,22,27,0.3846153846153846,0.1923076923076923,15.4,16.3,-5,Bottom third,Falling,-5.199999999999999,-1.9000000000000004
+Health,Preventable deaths,per 100k,lower,preventable_mort,LT,2014,2023,344.49,264.83,26,25,27,0.038461538461538436,0.07692307692307687,165.82,150.85,1,Bottom third,Holding,-113.97999999999999,-178.67000000000002
+Health,Road traffic deaths,per 100k,lower,road_deaths,LT,2014,2024,9.1,4.3,24,14,27,0.11538461538461542,0.5,5.5,4.4,10,Middle third,Climbing,0.10000000000000053,-3.5999999999999996
+Health,Treatable deaths,per 100k,lower,treatable_mort,LT,2014,2023,201.96,163.31,25,23,27,0.07692307692307687,0.15384615384615385,94.83,86.81,2,Bottom third,Holding,-76.5,-107.13000000000001
+Society,At risk of poverty or social exclusion,%,lower,arope,LT,2015,2025,29.4,26.3,22,24,27,0.1923076923076923,0.11538461538461542,24.0,20.9,-2,Bottom third,Holding,-5.400000000000002,-5.399999999999999
+Society,Cannot keep home adequately warm,%,lower,cold_home,LT,2014,2025,26.5,16.7,23,26,27,0.15384615384615385,0.038461538461538436,10.4,8.8,-3,Bottom third,Falling,-7.899999999999999,-16.1
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,LT,2014,2023,4.8,2.7,2,2,27,0.9615384615384616,0.9615384615384616,13.6,10.0,0,Top third,Holding,7.3,8.8
+Society,Housing cost overburden,%,lower,housing_cost_burden,LT,2014,2025,7.1,5.7,9,11,26,0.6923076923076923,0.6,11.5,7.7,-2,Middle third,Holding,2.0,4.4
+Society,Severe housing deprivation,%,lower,housing_deprivation,LT,2014,2023,10.1,4.0,23,15,26,0.15384615384615385,0.43999999999999995,5.4,4.0,8,Middle third,Climbing,0.0,-4.699999999999999
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,LT,2014,2025,6.1,6.54,20,25,27,0.2692307692307693,0.07692307692307687,5.22,4.62,-5,Bottom third,Falling,-1.92,-0.8799999999999999
+Society,Severe material & social deprivation,%,lower,severe_deprivation,LT,2015,2025,14.6,5.5,22,19,27,0.1923076923076923,0.3076923076923077,9.7,6.3,3,Bottom third,Climbing,0.7999999999999998,-4.9
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,LU,2014,2025,66.78,75.46,5,6,27,0.8461538461538461,0.8076923076923077,46.03,57.65,-1,Top third,Holding,17.809999999999995,20.75
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,LU,2014,2025,5.1,8.7,3,2,27,0.9230769230769231,0.9615384615384616,3.4,5.0,1,Top third,Holding,3.6999999999999993,1.6999999999999997
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,LU,2014,2025,94.67,99.13,2,4,27,0.9615384615384616,0.8846153846153846,76.07,93.79,-2,Top third,Holding,5.339999999999989,18.60000000000001
+Digital & innovation,European patent applications,per million people,higher,patents,LU,2014,2025,816.08,548.41,1,2,27,1.0,0.9615384615384616,141.49,152.56,-1,Top third,Holding,395.84999999999997,674.59
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,LU,2014,2024,1.22,1.04,17,21,27,0.3846153846153846,0.23076923076923073,2.09,2.26,-4,Bottom third,Falling,-1.2199999999999998,-0.8699999999999999
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,LU,2019,2025,90.7,95.5,3,8,27,0.9230769230769231,0.7307692307692308,50.3,85.5,-5,Top third,Falling,10.0,40.400000000000006
+Economy,"Employment rate, age 20–64",%,higher,employment,LU,2014,2025,72.1,73.9,9,22,27,0.6923076923076923,0.1923076923076923,67.5,76.1,-13,Bottom third,Falling,-2.1999999999999886,4.599999999999994
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,LU,2014,2024,280.0,242.0,1,1,27,1.0,1.0,100.0,100.0,0,Top third,Holding,142.0,180.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,LU,2014,2025,12.9,6.8,21,11,27,0.23076923076923073,0.6153846153846154,11.1,9.6,10,Middle third,Climbing,2.8,-1.8000000000000007
+Economy,Government budget balance,% of GDP,higher,gov_balance,LU,2014,2025,1.3,-2.0,2,9,27,0.9615384615384616,0.6923076923076923,-2.4,-3.1,-7,Top third,Falling,1.1,3.7
+Economy,Government debt,% of GDP,lower,gov_debt,LU,2014,2025,21.9,26.5,2,2,27,0.9615384615384616,0.9615384615384616,86.9,81.7,0,Top third,Holding,55.2,65.0
+Economy,Young people not in work or education (15–29),%,lower,neet,LU,2014,2025,6.5,8.7,1,8,27,1.0,0.7307692307692308,15.9,11.0,-7,Top third,Falling,2.3000000000000007,9.4
+Economy,Unemployment rate,%,lower,unemployment,LU,2014,2025,5.9,6.5,3,19,27,0.9230769230769231,0.3076923076923077,11.0,6.0,-16,Bottom third,Falling,-0.5,5.1
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,LU,2014,2025,14.5,17.4,6,9,27,0.8076923076923077,0.6923076923076923,10.1,13.7,-3,Top third,Falling,3.6999999999999993,4.4
+Education,At least basic digital skills,%,higher,digital_skills,LU,2021,2025,63.79,62.4,7,13,27,0.7692307692307692,0.5384615384615384,53.92,60.4,-6,Middle third,Falling,2.0,9.869999999999997
+Education,Early leavers from education (18–24),%,lower,early_leavers,LU,2014,2024,6.1,7.8,6,12,27,0.8076923076923077,0.5769230769230769,11.1,9.6,-6,Middle third,Falling,1.7999999999999998,5.0
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,LU,2015,2025,25.8,37.0,19,22,27,0.3076923076923077,0.1923076923076923,22.2,33.9,-3,Bottom third,Falling,-3.1000000000000014,-3.6000000000000014
+Education,"University degree, age 25–34",%,higher,tertiary,LU,2014,2025,52.9,65.2,3,2,27,0.9230769230769231,0.9615384615384616,35.9,44.8,1,Top third,Holding,20.400000000000006,17.0
+Environment & energy,Circular material use,%,higher,circularity,LU,2014,2024,11.1,10.7,8,11,27,0.7307692307692308,0.6153846153846154,11.1,12.2,-3,Middle third,Falling,-1.5,0.0
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,LU,2014,2024,9.95,18.12,4,3,27,0.8846153846153846,0.9230769230769231,8.08,13.52,1,Top third,Holding,4.600000000000001,1.8699999999999992
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,LU,2014,2024,18.6,10.1,27,26,27,0.0,0.038461538461538436,,,1,Bottom third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,LU,2014,2024,96.626,91.034,26,26,27,0.038461538461538436,0.038461538461538436,54.4,57.286,0,Bottom third,Holding,-33.748000000000005,-42.226000000000006
+Environment & energy,Municipal waste recycled,%,higher,recycling,LU,2014,2024,47.7,56.5,6,6,26,0.8076923076923077,0.8,43.4,49.4,0,Top third,Holding,7.100000000000001,4.300000000000004
+Environment & energy,Renewable share of energy,%,higher,renewables,LU,2014,2025,4.471,20.2,27,20,27,0.0,0.2692307692307693,17.416,26.2,7,Bottom third,Climbing,-6.0,-12.945
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,LU,2014,2025,82.0,78.0,5,4,27,0.8461538461538461,0.8846153846153846,64.0,62.0,1,Top third,Holding,16.0,18.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,LU,2014,2024,2.8,5.3,7,25,27,0.7692307692307692,0.07692307692307687,3.6,3.5,-18,Bottom third,Falling,-1.7999999999999998,0.8000000000000003
+Health,Life expectancy at birth,years,higher,life_exp,LU,2014,2024,81.8,83.2,6,5,27,0.8076923076923077,0.8461538461538461,80.6,81.5,1,Top third,Holding,1.7000000000000028,1.2000000000000028
+Health,Adult obesity,%,lower,obesity,LU,2014,2025,15.6,16.3,11,8,27,0.6153846153846154,0.7307692307692308,15.4,16.3,3,Top third,Climbing,0.0,-0.1999999999999993
+Health,Preventable deaths,per 100k,lower,preventable_mort,LU,2014,2023,146.27,105.92,10,5,27,0.6538461538461539,0.8461538461538461,165.82,150.85,5,Top third,Climbing,44.92999999999999,19.549999999999983
+Health,Road traffic deaths,per 100k,lower,road_deaths,LU,2014,2024,6.3,2.7,17,4,27,0.3846153846153846,0.8846153846153846,5.5,4.4,13,Top third,Climbing,1.7000000000000002,-0.7999999999999998
+Health,Treatable deaths,per 100k,lower,treatable_mort,LU,2014,2023,67.02,51.71,2,1,27,0.9615384615384616,1.0,94.83,86.81,1,Top third,Holding,35.1,27.810000000000002
+Society,At risk of poverty or social exclusion,%,lower,arope,LU,2015,2025,18.4,18.2,8,10,27,0.7307692307692308,0.6538461538461539,24.0,20.9,-2,Middle third,Holding,2.6999999999999993,5.600000000000001
+Society,Cannot keep home adequately warm,%,lower,cold_home,LU,2014,2025,0.6,3.5,1,4,27,1.0,0.8846153846153846,10.4,8.8,-3,Top third,Falling,5.300000000000001,9.8
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,LU,2014,2023,16.8,7.4,24,15,27,0.11538461538461542,0.46153846153846156,13.6,10.0,9,Middle third,Climbing,2.5999999999999996,-3.200000000000001
+Society,Housing cost overburden,%,lower,housing_cost_burden,LU,2014,2025,6.8,8.1,8,21,26,0.7307692307692308,0.19999999999999996,11.5,7.7,-13,Bottom third,Falling,-0.39999999999999947,4.7
+Society,Severe housing deprivation,%,lower,housing_deprivation,LU,2014,2023,1.6,2.2,7,8,26,0.7692307692307692,0.72,5.4,4.0,-1,Top third,Holding,1.7999999999999998,3.8000000000000003
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,LU,2014,2025,4.42,4.6,13,14,27,0.5384615384615384,0.5,5.22,4.62,-1,Middle third,Holding,0.020000000000000462,0.7999999999999998
+Society,Severe material & social deprivation,%,lower,severe_deprivation,LU,2015,2025,2.5,3.4,3,9,27,0.9230769230769231,0.6923076923076923,9.7,6.3,-6,Top third,Falling,2.9,7.199999999999999
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,LV,2014,2025,53.54,71.62,10,9,27,0.6538461538461539,0.6923076923076923,46.03,57.65,1,Top third,Holding,13.970000000000006,7.509999999999998
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,LV,2014,2025,2.5,4.5,23,21,27,0.15384615384615385,0.23076923076923073,3.4,5.0,2,Bottom third,Holding,-0.5,-0.8999999999999999
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,LV,2014,2025,75.83,94.53,15,14,27,0.46153846153846156,0.5,76.07,93.79,1,Middle third,Holding,0.7399999999999949,-0.23999999999999488
+Digital & innovation,European patent applications,per million people,higher,patents,LV,2014,2025,4.02,20.42,25,20,27,0.07692307692307687,0.2692307692307693,141.49,152.56,5,Bottom third,Climbing,-132.14,-137.47
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,LV,2014,2024,0.71,0.94,24,23,27,0.11538461538461542,0.15384615384615385,2.09,2.26,1,Bottom third,Holding,-1.3199999999999998,-1.38
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,LV,2019,2025,58.3,66.7,15,25,27,0.46153846153846156,0.07692307692307687,50.3,85.5,-10,Bottom third,Falling,-18.799999999999997,8.0
+Economy,"Employment rate, age 20–64",%,higher,employment,LV,2014,2025,70.6,78.2,11,15,27,0.6153846153846154,0.46153846153846156,67.5,76.1,-4,Middle third,Falling,2.1000000000000085,3.0999999999999943
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,LV,2014,2024,61.0,71.0,24,25,27,0.11538461538461542,0.07692307692307687,100.0,100.0,-1,Bottom third,Holding,-29.0,-39.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,LV,2014,2025,4.5,1.9,3,4,27,0.9230769230769231,0.8846153846153846,11.1,9.6,-1,Top third,Holding,7.699999999999999,6.6
+Economy,Government budget balance,% of GDP,higher,gov_balance,LV,2014,2025,-1.7,-2.5,7,14,27,0.7692307692307692,0.5,-2.4,-3.1,-7,Middle third,Falling,0.6000000000000001,0.7
+Economy,Government debt,% of GDP,lower,gov_debt,LV,2014,2025,43.1,46.9,7,11,27,0.7692307692307692,0.6153846153846154,86.9,81.7,-4,Middle third,Falling,34.800000000000004,43.800000000000004
+Economy,Young people not in work or education (15–29),%,lower,neet,LV,2014,2025,15.2,11.0,17,17,27,0.3846153846153846,0.3846153846153846,15.9,11.0,0,Middle third,Holding,0.0,0.7000000000000011
+Economy,Unemployment rate,%,lower,unemployment,LV,2014,2025,10.9,6.9,18,20,27,0.34615384615384615,0.2692307692307693,11.0,6.0,-2,Bottom third,Holding,-0.9000000000000004,0.09999999999999964
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,LV,2014,2025,5.6,11.4,19,17,27,0.3076923076923077,0.3846153846153846,10.1,13.7,2,Middle third,Holding,-2.299999999999999,-4.5
+Education,At least basic digital skills,%,higher,digital_skills,LV,2021,2025,50.8,48.43,18,24,27,0.34615384615384615,0.11538461538461542,53.92,60.4,-6,Bottom third,Falling,-11.969999999999999,-3.1200000000000045
+Education,Early leavers from education (18–24),%,lower,early_leavers,LV,2014,2025,8.5,8.8,13,17,26,0.5384615384615384,0.36,11.1,9.1,-4,Middle third,Falling,0.29999999999999893,2.5999999999999996
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,LV,2015,2025,21.4,32.8,11,13,27,0.6153846153846154,0.5384615384615384,22.2,33.9,-2,Middle third,Holding,1.1000000000000014,0.8000000000000007
+Education,"University degree, age 25–34",%,higher,tertiary,LV,2014,2025,39.4,44.7,14,13,27,0.5,0.5384615384615384,35.9,44.8,1,Middle third,Holding,-0.09999999999999432,3.5
+Environment & energy,Circular material use,%,higher,circularity,LV,2014,2024,5.3,6.8,17,18,27,0.3846153846153846,0.34615384615384615,11.1,12.2,-1,Middle third,Holding,-5.3999999999999995,-5.8
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,LV,2014,2024,7.01,11.68,17,19,27,0.3846153846153846,0.3076923076923077,8.08,13.52,-2,Bottom third,Holding,-1.8399999999999999,-1.0700000000000003
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,LV,2014,2024,5.4,6.7,5,16,27,0.8461538461538461,0.42307692307692313,,,-11,Middle third,Falling,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,LV,2014,2024,40.592,29.26,9,3,27,0.6923076923076923,0.9230769230769231,54.4,57.286,6,Top third,Climbing,28.026,13.808
+Environment & energy,Municipal waste recycled,%,higher,recycling,LV,2014,2024,27.0,52.7,18,7,26,0.34615384615384615,0.76,43.4,49.4,11,Top third,Climbing,3.3000000000000043,-16.4
+Environment & energy,Renewable share of energy,%,higher,renewables,LV,2014,2025,38.629,46.3,3,4,27,0.9230769230769231,0.8846153846153846,17.416,26.2,-1,Top third,Holding,20.099999999999998,21.212999999999997
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,LV,2014,2025,55.0,60.0,18,13,27,0.34615384615384615,0.5384615384615384,64.0,62.0,5,Middle third,Climbing,-2.0,-9.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,LV,2014,2024,3.8,1.5,18,2,27,0.34615384615384615,0.9615384615384616,3.6,3.5,16,Top third,Climbing,2.0,-0.19999999999999973
+Health,Life expectancy at birth,years,higher,life_exp,LV,2014,2024,74.3,76.4,27,26,27,0.0,0.038461538461538436,80.6,81.5,1,Bottom third,Holding,-5.099999999999994,-6.299999999999997
+Health,Adult obesity,%,lower,obesity,LV,2014,2025,21.3,24.6,26,26,27,0.038461538461538436,0.038461538461538436,15.4,16.3,0,Bottom third,Holding,-8.3,-5.9
+Health,Preventable deaths,per 100k,lower,preventable_mort,LV,2014,2023,348.74,309.01,27,27,27,0.0,0.0,165.82,150.85,0,Bottom third,Holding,-158.16,-182.92000000000002
+Health,Road traffic deaths,per 100k,lower,road_deaths,LV,2014,2024,10.6,6.0,27,23,27,0.0,0.15384615384615385,5.5,4.4,4,Bottom third,Climbing,-1.5999999999999996,-5.1
+Health,Treatable deaths,per 100k,lower,treatable_mort,LV,2014,2023,209.33,189.45,27,26,27,0.0,0.038461538461538436,94.83,86.81,1,Bottom third,Holding,-102.63999999999999,-114.50000000000001
+Society,At risk of poverty or social exclusion,%,lower,arope,LV,2015,2025,30.0,24.7,23,22,27,0.15384615384615385,0.1923076923076923,24.0,20.9,1,Bottom third,Holding,-3.8000000000000007,-6.0
+Society,Cannot keep home adequately warm,%,lower,cold_home,LV,2014,2025,16.8,4.3,20,10,27,0.2692307692307693,0.6538461538461539,10.4,8.8,10,Middle third,Climbing,4.500000000000001,-6.4
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,LV,2014,2023,13.0,5.4,15,6,27,0.46153846153846156,0.8076923076923077,13.6,10.0,9,Top third,Climbing,4.6,0.5999999999999996
+Society,Housing cost overburden,%,lower,housing_cost_burden,LV,2014,2025,9.6,5.7,16,11,26,0.42307692307692313,0.6,11.5,7.7,5,Middle third,Climbing,2.0,1.9000000000000004
+Society,Severe housing deprivation,%,lower,housing_deprivation,LV,2014,2023,16.6,11.6,25,26,26,0.07692307692307687,0.0,5.4,4.0,-1,Bottom third,Holding,-7.6,-11.200000000000001
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,LV,2014,2025,6.48,6.68,23,26,27,0.15384615384615385,0.038461538461538436,5.22,4.62,-3,Bottom third,Falling,-2.0599999999999996,-1.2600000000000007
+Society,Severe material & social deprivation,%,lower,severe_deprivation,LV,2015,2025,15.4,4.8,23,15,27,0.15384615384615385,0.46153846153846156,9.7,6.3,8,Middle third,Climbing,1.5,-5.700000000000001
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,MT,2014,2025,40.7,64.8,21,15,27,0.23076923076923073,0.46153846153846156,46.03,57.65,6,Middle third,Climbing,7.149999999999999,-5.329999999999998
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,MT,2014,2025,3.6,4.8,10,16,27,0.6538461538461539,0.42307692307692313,3.4,5.0,-6,Middle third,Falling,-0.20000000000000018,0.20000000000000018
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,MT,2014,2025,73.63,96.01,17,9,27,0.3846153846153846,0.6923076923076923,76.07,93.79,8,Top third,Climbing,2.219999999999999,-2.4399999999999977
+Digital & innovation,European patent applications,per million people,higher,patents,MT,2014,2025,143.03,125.38,10,11,27,0.6538461538461539,0.6153846153846154,141.49,152.56,-1,Middle third,Holding,-27.180000000000007,1.539999999999992
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,MT,2014,2024,0.68,0.61,25,26,27,0.07692307692307687,0.038461538461538436,2.09,2.26,-1,Bottom third,Holding,-1.65,-1.4099999999999997
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,MT,2019,2025,100.0,100.0,1,1,27,1.0,1.0,50.3,85.5,0,Top third,Holding,14.5,49.7
+Economy,"Employment rate, age 20–64",%,higher,employment,MT,2014,2025,67.9,83.6,15,1,27,0.46153846153846156,1.0,67.5,76.1,14,Top third,Climbing,7.5,0.4000000000000057
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,MT,2014,2024,94.0,109.0,12,9,27,0.5769230769230769,0.6923076923076923,100.0,100.0,3,Top third,Climbing,9.0,-6.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,MT,2014,2025,26.8,12.4,27,24,27,0.0,0.11538461538461542,11.1,9.6,3,Bottom third,Climbing,-2.8000000000000007,-15.700000000000001
+Economy,Government budget balance,% of GDP,higher,gov_balance,MT,2014,2025,-1.5,-2.2,6,12,27,0.8076923076923077,0.5769230769230769,-2.4,-3.1,-6,Middle third,Falling,0.8999999999999999,0.8999999999999999
+Economy,Government debt,% of GDP,lower,gov_debt,MT,2014,2025,60.7,46.4,12,10,27,0.5769230769230769,0.6538461538461539,86.9,81.7,2,Middle third,Holding,35.300000000000004,26.200000000000003
+Economy,Young people not in work or education (15–29),%,lower,neet,MT,2014,2025,11.6,8.5,9,7,27,0.6923076923076923,0.7692307692307692,15.9,11.0,2,Top third,Holding,2.5,4.300000000000001
+Economy,Unemployment rate,%,lower,unemployment,MT,2014,2025,5.7,3.1,2,2,27,0.9615384615384616,0.9615384615384616,11.0,6.0,0,Top third,Holding,2.9,5.3
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,MT,2014,2025,7.7,19.7,15,7,27,0.46153846153846156,0.7692307692307692,10.1,13.7,8,Top third,Climbing,6.0,-2.3999999999999995
+Education,At least basic digital skills,%,higher,digital_skills,MT,2021,2025,61.23,66.8,11,8,27,0.6153846153846154,0.7307692307692308,53.92,60.4,3,Top third,Climbing,6.399999999999999,7.309999999999995
+Education,Early leavers from education (18–24),%,lower,early_leavers,MT,2014,2025,17.0,8.6,24,15,26,0.11538461538461542,0.43999999999999995,11.1,9.1,9,Middle third,Climbing,0.5,-5.9
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,MT,2015,2025,29.1,44.0,22,23,27,0.1923076923076923,0.15384615384615385,22.2,33.9,-1,Bottom third,Holding,-10.100000000000001,-6.900000000000002
+Education,"University degree, age 25–34",%,higher,tertiary,MT,2014,2025,31.3,47.7,21,11,27,0.23076923076923073,0.6153846153846154,35.9,44.8,10,Middle third,Climbing,2.9000000000000057,-4.599999999999998
+Environment & energy,Circular material use,%,higher,circularity,MT,2014,2024,6.4,18.6,14,5,27,0.5,0.8461538461538461,11.1,12.2,9,Top third,Climbing,6.400000000000002,-4.699999999999999
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,MT,2014,2024,5.17,8.15,24,26,27,0.11538461538461542,0.038461538461538436,8.08,13.52,-2,Bottom third,Holding,-5.369999999999999,-2.91
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,MT,2014,2024,6.6,3.8,12,4,27,0.5769230769230769,0.8846153846153846,,,8,Top third,Climbing,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,MT,2014,2024,97.657,98.388,27,27,27,0.0,0.0,54.4,57.286,0,Bottom third,Holding,-41.102000000000004,-43.257
+Environment & energy,Municipal waste recycled,%,higher,recycling,MT,2014,2024,11.7,16.9,26,25,26,0.038461538461538436,0.040000000000000036,43.4,49.4,1,Bottom third,Holding,-32.5,-31.7
+Environment & energy,Renewable share of energy,%,higher,renewables,MT,2014,2025,4.744,18.8,26,23,27,0.038461538461538436,0.15384615384615385,17.416,26.2,3,Bottom third,Climbing,-7.399999999999999,-12.672
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,MT,2014,2025,55.0,49.0,18,22,27,0.34615384615384615,0.1923076923076923,64.0,62.0,-4,Bottom third,Falling,-13.0,-9.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,MT,2014,2024,5.0,5.0,23,24,27,0.15384615384615385,0.11538461538461542,3.6,3.5,-1,Bottom third,Holding,-1.5,-1.4
+Health,Life expectancy at birth,years,higher,life_exp,MT,2014,2024,81.8,83.0,6,7,27,0.8076923076923077,0.7692307692307692,80.6,81.5,-1,Top third,Holding,1.5,1.2000000000000028
+Health,Adult obesity,%,lower,obesity,MT,2014,2025,26.0,26.6,27,27,27,0.0,0.0,15.4,16.3,0,Bottom third,Holding,-10.3,-10.6
+Health,Preventable deaths,per 100k,lower,preventable_mort,MT,2014,2023,121.73,103.93,4,3,27,0.8846153846153846,0.9230769230769231,165.82,150.85,1,Top third,Holding,46.91999999999999,44.08999999999999
+Health,Road traffic deaths,per 100k,lower,road_deaths,MT,2014,2024,2.3,2.1,1,2,27,1.0,0.9615384615384616,5.5,4.4,-1,Top third,Holding,2.3000000000000003,3.2
+Health,Treatable deaths,per 100k,lower,treatable_mort,MT,2014,2023,93.87,74.33,16,15,27,0.42307692307692313,0.46153846153846156,94.83,86.81,1,Middle third,Holding,12.480000000000004,0.9599999999999937
+Society,At risk of poverty or social exclusion,%,lower,arope,MT,2015,2025,22.2,19.4,13,15,27,0.5384615384615384,0.46153846153846156,24.0,20.9,-2,Middle third,Holding,1.5,1.8000000000000007
+Society,Cannot keep home adequately warm,%,lower,cold_home,MT,2014,2025,22.3,7.6,22,17,27,0.1923076923076923,0.3846153846153846,10.4,8.8,5,Middle third,Climbing,1.200000000000001,-11.9
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,MT,2014,2023,12.2,7.4,13,15,27,0.5384615384615384,0.46153846153846156,13.6,10.0,-2,Middle third,Holding,2.5999999999999996,1.4000000000000004
+Society,Housing cost overburden,%,lower,housing_cost_burden,MT,2014,2025,1.6,6.0,1,13,26,1.0,0.52,11.5,7.7,-12,Middle third,Falling,1.7000000000000002,9.9
+Society,Severe housing deprivation,%,lower,housing_deprivation,MT,2014,2023,1.3,0.5,4,1,26,0.8846153846153846,1.0,5.4,4.0,3,Top third,Climbing,3.5,4.1000000000000005
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,MT,2014,2025,4.05,4.49,7,12,27,0.7692307692307692,0.5769230769230769,5.22,4.62,-5,Middle third,Falling,0.1299999999999999,1.17
+Society,Severe material & social deprivation,%,lower,severe_deprivation,MT,2015,2025,8.2,4.1,16,12,27,0.42307692307692313,0.5769230769230769,9.7,6.3,4,Middle third,Climbing,2.2,1.5
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,NL,2014,2025,75.34,84.94,4,3,27,0.8846153846153846,0.9230769230769231,46.03,57.65,1,Top third,Holding,27.29,29.310000000000002
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,NL,2014,2025,4.8,7.2,4,4,27,0.8846153846153846,0.8846153846153846,3.4,5.0,0,Top third,Holding,2.2,1.4
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,NL,2014,2025,93.17,99.71,3,2,27,0.9230769230769231,0.9615384615384616,76.07,93.79,1,Top third,Holding,5.9199999999999875,17.10000000000001
+Digital & innovation,European patent applications,per million people,higher,patents,NL,2014,2025,407.59,388.27,2,5,27,0.9615384615384616,0.8461538461538461,141.49,152.56,-3,Top third,Falling,235.70999999999998,266.09999999999997
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,NL,2014,2024,2.15,2.37,9,7,27,0.6923076923076923,0.7692307692307692,2.09,2.26,2,Top third,Holding,0.11000000000000032,0.06000000000000005
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,NL,2019,2025,88.6,98.8,5,2,27,0.8461538461538461,0.9615384615384616,50.3,85.5,3,Top third,Climbing,13.299999999999997,38.3
+Economy,"Employment rate, age 20–64",%,higher,employment,NL,2014,2025,76.3,83.4,3,2,27,0.9230769230769231,0.9615384615384616,67.5,76.1,1,Top third,Holding,7.300000000000011,8.799999999999997
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,NL,2014,2024,133.0,136.0,3,3,27,0.9230769230769231,0.9230769230769231,100.0,100.0,0,Top third,Holding,36.0,33.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,NL,2014,2025,10.9,7.6,19,16,27,0.3076923076923077,0.42307692307692313,11.1,9.6,3,Middle third,Climbing,2.0,0.1999999999999993
+Economy,Government budget balance,% of GDP,higher,gov_balance,NL,2014,2025,-2.2,-1.6,12,7,27,0.5769230769230769,0.7692307692307692,-2.4,-3.1,5,Top third,Climbing,1.5,0.19999999999999973
+Economy,Government debt,% of GDP,lower,gov_debt,NL,2014,2025,67.2,44.4,14,9,27,0.5,0.6923076923076923,86.9,81.7,5,Top third,Climbing,37.300000000000004,19.700000000000003
+Economy,Young people not in work or education (15–29),%,lower,neet,NL,2014,2025,8.2,5.3,4,1,27,0.8846153846153846,1.0,15.9,11.0,3,Top third,Climbing,5.7,7.700000000000001
+Economy,Unemployment rate,%,lower,unemployment,NL,2014,2025,8.4,3.9,10,6,27,0.6538461538461539,0.8076923076923077,11.0,6.0,4,Top third,Climbing,2.1,2.5999999999999996
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,NL,2014,2025,18.3,25.9,5,4,27,0.8461538461538461,0.8846153846153846,10.1,13.7,1,Top third,Holding,12.2,8.200000000000001
+Education,At least basic digital skills,%,higher,digital_skills,NL,2021,2025,78.94,83.61,2,1,27,0.9615384615384616,1.0,53.92,60.4,1,Top third,Holding,23.21,25.019999999999996
+Education,Early leavers from education (18–24),%,lower,early_leavers,NL,2014,2025,8.7,7.4,14,13,26,0.5,0.52,11.1,9.1,1,Middle third,Holding,1.6999999999999993,2.4000000000000004
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,NL,2015,2025,16.7,29.7,6,9,27,0.8076923076923077,0.6923076923076923,22.2,33.9,-3,Top third,Falling,4.199999999999999,5.5
+Education,"University degree, age 25–34",%,higher,tertiary,NL,2014,2025,44.3,56.1,6,5,27,0.8076923076923077,0.8461538461538461,35.9,44.8,1,Top third,Holding,11.300000000000004,8.399999999999999
+Environment & energy,Circular material use,%,higher,circularity,NL,2014,2024,25.7,32.7,1,1,27,1.0,1.0,11.1,12.2,0,Top third,Holding,20.500000000000004,14.6
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,NL,2014,2024,6.84,12.44,19,13,27,0.3076923076923077,0.5384615384615384,8.08,13.52,6,Middle third,Climbing,-1.08,-1.2400000000000002
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,NL,2014,2024,11.4,8.0,24,18,27,0.11538461538461542,0.34615384615384615,,,6,Middle third,Climbing,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,NL,2014,2024,30.948,70.564,6,20,27,0.8076923076923077,0.2692307692307693,54.4,57.286,-14,Bottom third,Falling,-13.277999999999992,23.451999999999998
+Environment & energy,Municipal waste recycled,%,higher,recycling,NL,2014,2024,50.9,58.0,4,4,26,0.8846153846153846,0.88,43.4,49.4,0,Top third,Holding,8.600000000000001,7.5
+Environment & energy,Renewable share of energy,%,higher,renewables,NL,2014,2025,5.415,22.7,25,16,27,0.07692307692307687,0.42307692307692313,17.416,26.2,9,Middle third,Climbing,-3.5,-12.001000000000001
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,NL,2014,2025,83.0,78.0,4,4,27,0.8846153846153846,0.8846153846153846,64.0,62.0,0,Top third,Holding,16.0,19.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,NL,2014,2024,3.6,3.3,16,14,27,0.42307692307692313,0.5,3.6,3.5,2,Middle third,Holding,0.20000000000000018,0.0
+Health,Life expectancy at birth,years,higher,life_exp,NL,2014,2024,81.6,81.9,8,15,27,0.7307692307692308,0.46153846153846156,80.6,81.5,-7,Middle third,Falling,0.4000000000000057,1.0
+Health,Adult obesity,%,lower,obesity,NL,2014,2025,13.3,15.0,3,5,27,0.9230769230769231,0.8461538461538461,15.4,16.3,-2,Top third,Holding,1.3000000000000007,2.0999999999999996
+Health,Preventable deaths,per 100k,lower,preventable_mort,NL,2014,2023,132.29,123.09,6,7,27,0.8076923076923077,0.7692307692307692,165.82,150.85,-1,Top third,Holding,27.75999999999999,33.53
+Health,Road traffic deaths,per 100k,lower,road_deaths,NL,2014,2024,2.8,3.1,2,5,27,0.9615384615384616,0.8461538461538461,5.5,4.4,-3,Top third,Falling,1.3000000000000003,2.7
+Health,Treatable deaths,per 100k,lower,treatable_mort,NL,2014,2023,68.58,59.97,4,5,27,0.8846153846153846,0.8461538461538461,94.83,86.81,-1,Top third,Holding,26.840000000000003,26.25
+Society,At risk of poverty or social exclusion,%,lower,arope,NL,2015,2025,16.4,15.8,2,4,27,0.9615384615384616,0.8846153846153846,24.0,20.9,-2,Top third,Holding,5.099999999999998,7.600000000000001
+Society,Cannot keep home adequately warm,%,lower,cold_home,NL,2014,2025,2.6,6.6,5,16,27,0.8461538461538461,0.42307692307692313,10.4,8.8,-11,Middle third,Falling,2.200000000000001,7.800000000000001
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,NL,2014,2023,18.5,16.7,26,26,27,0.038461538461538436,0.038461538461538436,13.6,10.0,0,Bottom third,Holding,-6.699999999999999,-4.9
+Society,Housing cost overburden,%,lower,housing_cost_burden,NL,2014,2025,15.4,6.5,23,17,26,0.15384615384615385,0.36,11.5,7.7,6,Middle third,Climbing,1.2000000000000002,-3.9000000000000004
+Society,Severe housing deprivation,%,lower,housing_deprivation,NL,2014,2023,0.6,1.3,1,4,26,1.0,0.88,5.4,4.0,-3,Top third,Falling,2.7,4.800000000000001
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,NL,2014,2025,3.83,3.76,5,6,27,0.8461538461538461,0.8076923076923077,5.22,4.62,-1,Top third,Holding,0.8600000000000003,1.3899999999999997
+Society,Severe material & social deprivation,%,lower,severe_deprivation,NL,2015,2025,3.2,2.6,5,5,27,0.8461538461538461,0.8461538461538461,9.7,6.3,0,Top third,Holding,3.6999999999999997,6.499999999999999
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,PL,2014,2025,26.87,45.87,24,24,27,0.11538461538461542,0.11538461538461542,46.03,57.65,0,Bottom third,Holding,-11.780000000000001,-19.16
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,PL,2014,2025,2.6,4.5,22,21,27,0.1923076923076923,0.23076923076923073,3.4,5.0,1,Bottom third,Holding,-0.5,-0.7999999999999998
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,PL,2014,2025,66.6,89.65,22,22,27,0.1923076923076923,0.1923076923076923,76.07,93.79,0,Bottom third,Holding,-4.140000000000001,-9.469999999999999
+Digital & innovation,European patent applications,per million people,higher,patents,PL,2014,2025,12.69,17.01,18,21,27,0.34615384615384615,0.23076923076923073,141.49,152.56,-3,Bottom third,Falling,-135.55,-128.8
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,PL,2014,2024,0.95,1.4,19,18,27,0.3076923076923077,0.34615384615384615,2.09,2.26,1,Middle third,Holding,-0.8599999999999999,-1.14
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,PL,2019,2025,60.3,84.1,14,16,27,0.5,0.42307692307692313,50.3,85.5,-2,Middle third,Holding,-1.4000000000000057,10.0
+Economy,"Employment rate, age 20–64",%,higher,employment,PL,2014,2025,64.9,78.8,21,13,27,0.23076923076923073,0.5384615384615384,67.5,76.1,8,Middle third,Climbing,2.700000000000003,-2.5999999999999943
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,PL,2014,2024,68.0,79.0,23,19,27,0.15384615384615385,0.3076923076923077,100.0,100.0,4,Bottom third,Climbing,-21.0,-32.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,PL,2014,2025,13.6,11.3,22,23,27,0.1923076923076923,0.15384615384615385,11.1,9.6,-1,Bottom third,Holding,-1.700000000000001,-2.5
+Economy,Government budget balance,% of GDP,higher,gov_balance,PL,2014,2025,-3.7,-7.3,19,26,27,0.3076923076923077,0.038461538461538436,-2.4,-3.1,-7,Bottom third,Falling,-4.199999999999999,-1.3000000000000003
+Economy,Government debt,% of GDP,lower,gov_debt,PL,2014,2025,51.1,59.7,10,15,27,0.6538461538461539,0.46153846153846156,86.9,81.7,-5,Middle third,Falling,22.0,35.800000000000004
+Economy,Young people not in work or education (15–29),%,lower,neet,PL,2014,2025,15.7,9.2,18,10,27,0.34615384615384615,0.6538461538461539,15.9,11.0,8,Middle third,Climbing,1.8000000000000007,0.20000000000000107
+Economy,Unemployment rate,%,lower,unemployment,PL,2014,2025,9.2,3.1,14,2,27,0.5,0.9615384615384616,11.0,6.0,12,Top third,Climbing,2.9,1.8000000000000007
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,PL,2014,2025,4.0,8.8,21,24,27,0.23076923076923073,0.11538461538461542,10.1,13.7,-3,Bottom third,Falling,-4.899999999999999,-6.1
+Education,At least basic digital skills,%,higher,digital_skills,PL,2021,2025,42.93,50.42,25,23,27,0.07692307692307687,0.15384615384615385,53.92,60.4,2,Bottom third,Holding,-9.979999999999997,-10.990000000000002
+Education,Early leavers from education (18–24),%,lower,early_leavers,PL,2014,2025,5.4,4.0,3,4,26,0.9230769230769231,0.88,11.1,9.1,-1,Top third,Holding,5.1,5.699999999999999
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,PL,2015,2025,17.2,25.7,7,3,27,0.7692307692307692,0.9230769230769231,22.2,33.9,4,Top third,Climbing,8.2,5.0
+Education,"University degree, age 25–34",%,higher,tertiary,PL,2014,2025,42.6,45.2,9,12,27,0.6923076923076923,0.5769230769230769,35.9,44.8,-3,Middle third,Falling,0.4000000000000057,6.700000000000003
+Environment & energy,Circular material use,%,higher,circularity,PL,2014,2024,13.0,7.7,5,15,27,0.8461538461538461,0.46153846153846156,11.1,12.2,-10,Middle third,Falling,-4.499999999999999,1.9000000000000004
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,PL,2014,2024,7.31,11.96,16,16,27,0.42307692307692313,0.42307692307692313,8.08,13.52,0,Middle third,Holding,-1.5599999999999987,-0.7700000000000005
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,PL,2014,2024,8.8,8.7,17,22,27,0.3846153846153846,0.1923076923076923,,,-5,Bottom third,Falling,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,PL,2014,2024,29.395,45.669,4,10,27,0.8846153846153846,0.6538461538461539,54.4,57.286,-6,Middle third,Falling,11.617000000000004,25.005
+Environment & energy,Municipal waste recycled,%,higher,recycling,PL,2014,2024,26.5,31.1,19,22,26,0.3076923076923077,0.16000000000000003,43.4,49.4,-3,Bottom third,Falling,-18.299999999999997,-16.9
+Environment & energy,Renewable share of energy,%,higher,renewables,PL,2014,2025,11.605,18.7,21,24,27,0.23076923076923073,0.11538461538461542,17.416,26.2,-3,Bottom third,Falling,-7.5,-5.811
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,PL,2014,2025,61.0,53.0,14,19,27,0.5,0.3076923076923077,64.0,62.0,-5,Bottom third,Falling,-9.0,-3.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,PL,2014,2024,4.2,3.6,21,18,27,0.23076923076923073,0.34615384615384615,3.6,3.5,3,Middle third,Climbing,-0.10000000000000009,-0.6000000000000001
+Health,Life expectancy at birth,years,higher,life_exp,PL,2014,2024,77.5,78.5,20,21,27,0.2692307692307693,0.23076923076923073,80.6,81.5,-1,Bottom third,Holding,-3.0,-3.0999999999999943
+Health,Adult obesity,%,lower,obesity,PL,2014,2025,17.2,19.4,16,17,27,0.42307692307692313,0.3846153846153846,15.4,16.3,-1,Middle third,Holding,-3.099999999999998,-1.799999999999999
+Health,Preventable deaths,per 100k,lower,preventable_mort,PL,2014,2023,224.24,208.78,19,20,27,0.3076923076923077,0.2692307692307693,165.82,150.85,-1,Bottom third,Holding,-57.93000000000001,-58.420000000000016
+Health,Road traffic deaths,per 100k,lower,road_deaths,PL,2014,2024,8.4,5.2,23,20,27,0.15384615384615385,0.2692307692307693,5.5,4.4,3,Bottom third,Climbing,-0.7999999999999998,-2.9000000000000004
+Health,Treatable deaths,per 100k,lower,treatable_mort,PL,2014,2023,130.93,132.71,18,21,27,0.34615384615384615,0.23076923076923073,94.83,86.81,-3,Bottom third,Falling,-45.900000000000006,-36.10000000000001
+Society,At risk of poverty or social exclusion,%,lower,arope,PL,2015,2025,22.5,15.0,14,2,27,0.5,0.9615384615384616,24.0,20.9,12,Top third,Climbing,5.899999999999999,1.5
+Society,Cannot keep home adequately warm,%,lower,cold_home,PL,2014,2025,9.0,3.2,15,3,27,0.46153846153846156,0.9230769230769231,10.4,8.8,12,Top third,Climbing,5.6000000000000005,1.4000000000000004
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,PL,2014,2023,6.4,2.8,3,3,27,0.9230769230769231,0.9230769230769231,13.6,10.0,0,Top third,Holding,7.2,7.199999999999999
+Society,Housing cost overburden,%,lower,housing_cost_burden,PL,2014,2025,9.6,4.1,16,5,26,0.42307692307692313,0.84,11.5,7.7,11,Top third,Climbing,3.6000000000000005,1.9000000000000004
+Society,Severe housing deprivation,%,lower,housing_deprivation,PL,2014,2023,9.1,4.6,21,18,26,0.23076923076923073,0.31999999999999995,5.4,4.0,3,Middle third,Climbing,-0.5999999999999996,-3.6999999999999993
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,PL,2014,2025,4.91,3.63,15,5,27,0.46153846153846156,0.8461538461538461,5.22,4.62,10,Top third,Climbing,0.9900000000000002,0.3099999999999996
+Society,Severe material & social deprivation,%,lower,severe_deprivation,PL,2015,2025,7.8,2.0,14,2,27,0.5,0.9615384615384616,9.7,6.3,12,Top third,Climbing,4.3,1.8999999999999995
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,PT,2014,2025,41.39,60.88,20,20,27,0.2692307692307693,0.2692307692307693,46.03,57.65,0,Bottom third,Holding,3.230000000000004,-4.640000000000001
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,PT,2014,2025,3.1,5.4,18,11,27,0.34615384615384615,0.6153846153846154,3.4,5.0,7,Middle third,Climbing,0.40000000000000036,-0.2999999999999998
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,PT,2014,2025,64.59,89.45,23,23,27,0.15384615384615385,0.15384615384615385,76.07,93.79,0,Bottom third,Holding,-4.340000000000003,-11.47999999999999
+Digital & innovation,European patent applications,per million people,higher,patents,PT,2014,2025,10.85,34.23,20,17,27,0.2692307692307693,0.3846153846153846,141.49,152.56,3,Middle third,Climbing,-118.33000000000001,-130.64000000000001
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,PT,2014,2024,1.29,1.73,15,12,27,0.46153846153846156,0.5769230769230769,2.09,2.26,3,Middle third,Climbing,-0.5299999999999998,-0.7999999999999998
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,PT,2019,2025,83.0,97.1,6,4,27,0.8076923076923077,0.8846153846153846,50.3,85.5,2,Top third,Holding,11.599999999999994,32.7
+Economy,"Employment rate, age 20–64",%,higher,employment,PT,2014,2025,66.1,79.6,20,12,27,0.2692307692307693,0.5769230769230769,67.5,76.1,8,Middle third,Climbing,3.5,-1.4000000000000057
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,PT,2014,2024,77.0,82.0,19,18,27,0.3076923076923077,0.34615384615384615,100.0,100.0,1,Middle third,Holding,-18.0,-23.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,PT,2014,2025,6.5,5.4,7,8,27,0.7692307692307692,0.7307692307692308,11.1,9.6,-1,Top third,Holding,4.199999999999999,4.6
+Economy,Government budget balance,% of GDP,higher,gov_balance,PT,2014,2025,-7.4,0.7,26,5,27,0.038461538461538436,0.8461538461538461,-2.4,-3.1,21,Top third,Climbing,3.8,-5.0
+Economy,Government debt,% of GDP,lower,gov_debt,PT,2014,2025,132.5,89.7,25,22,27,0.07692307692307687,0.1923076923076923,86.9,81.7,3,Bottom third,Climbing,-8.0,-45.599999999999994
+Economy,Young people not in work or education (15–29),%,lower,neet,PT,2014,2025,14.6,8.0,15,4,27,0.46153846153846156,0.8846153846153846,15.9,11.0,11,Top third,Climbing,3.0,1.3000000000000007
+Economy,Unemployment rate,%,lower,unemployment,PT,2014,2025,14.6,6.0,23,14,27,0.15384615384615385,0.5,11.0,6.0,9,Middle third,Climbing,0.0,-3.5999999999999996
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,PT,2014,2025,9.6,16.9,11,10,27,0.6153846153846154,0.6538461538461539,10.1,13.7,1,Middle third,Holding,3.1999999999999993,-0.5
+Education,At least basic digital skills,%,higher,digital_skills,PT,2021,2025,55.31,59.15,14,16,27,0.5,0.42307692307692313,53.92,60.4,-2,Middle third,Holding,-1.25,1.3900000000000006
+Education,Early leavers from education (18–24),%,lower,early_leavers,PT,2014,2025,17.3,6.1,25,7,26,0.07692307692307687,0.76,11.1,9.1,18,Top third,Climbing,3.0,-6.200000000000001
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,PT,2015,2025,23.8,35.2,17,19,27,0.3846153846153846,0.3076923076923077,22.2,33.9,-2,Bottom third,Holding,-1.3000000000000043,-1.6000000000000014
+Education,"University degree, age 25–34",%,higher,tertiary,PT,2014,2025,31.6,42.5,20,18,27,0.2692307692307693,0.34615384615384615,35.9,44.8,2,Middle third,Holding,-2.299999999999997,-4.299999999999997
+Environment & energy,Circular material use,%,higher,circularity,PT,2014,2024,2.5,3.0,23,24,27,0.15384615384615385,0.11538461538461542,11.1,12.2,-1,Bottom third,Holding,-9.2,-8.6
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,PT,2014,2024,9.2,15.73,6,6,27,0.8076923076923077,0.8076923076923077,8.08,13.52,0,Top third,Holding,2.210000000000001,1.1199999999999992
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,PT,2014,2024,5.8,4.9,7,7,27,0.7692307692307692,0.7692307692307692,,,0,Top third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,PT,2014,2024,70.234,64.524,19,16,27,0.3076923076923077,0.42307692307692313,54.4,57.286,3,Middle third,Climbing,-7.2379999999999995,-15.833999999999996
+Environment & energy,Municipal waste recycled,%,higher,recycling,PT,2014,2024,30.4,32.9,17,21,26,0.3846153846153846,0.19999999999999996,43.4,49.4,-4,Bottom third,Falling,-16.5,-13.0
+Environment & energy,Renewable share of energy,%,higher,renewables,PT,2014,2025,29.508,36.7,5,8,27,0.8461538461538461,0.7307692307692308,17.416,26.2,-3,Top third,Falling,10.500000000000004,12.091999999999999
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,PT,2014,2025,63.0,56.0,12,16,27,0.5769230769230769,0.42307692307692313,64.0,62.0,-4,Middle third,Falling,-6.0,-1.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,PT,2014,2024,2.9,3.0,10,9,27,0.6538461538461539,0.6923076923076923,3.6,3.5,1,Top third,Holding,0.5,0.7000000000000002
+Health,Life expectancy at birth,years,higher,life_exp,PT,2014,2024,81.3,82.5,10,9,27,0.6538461538461539,0.6923076923076923,80.6,81.5,1,Top third,Holding,1.0,0.7000000000000028
+Health,Adult obesity,%,lower,obesity,PT,2014,2025,16.6,17.0,13,12,27,0.5384615384615384,0.5769230769230769,15.4,16.3,1,Middle third,Holding,-0.6999999999999993,-1.200000000000001
+Health,Preventable deaths,per 100k,lower,preventable_mort,PT,2014,2023,143.95,125.94,9,8,27,0.6923076923076923,0.7307692307692308,165.82,150.85,1,Top third,Holding,24.909999999999997,21.870000000000005
+Health,Road traffic deaths,per 100k,lower,road_deaths,PT,2014,2024,6.1,5.5,16,22,27,0.42307692307692313,0.1923076923076923,5.5,4.4,-6,Bottom third,Falling,-1.0999999999999996,-0.5999999999999996
+Health,Treatable deaths,per 100k,lower,treatable_mort,PT,2014,2023,89.16,74.24,14,14,27,0.5,0.5,94.83,86.81,0,Middle third,Holding,12.570000000000007,5.670000000000002
+Society,At risk of poverty or social exclusion,%,lower,arope,PT,2015,2025,26.4,18.6,19,11,27,0.3076923076923077,0.6153846153846154,24.0,20.9,8,Middle third,Climbing,2.299999999999997,-2.3999999999999986
+Society,Cannot keep home adequately warm,%,lower,cold_home,PT,2014,2025,28.3,15.6,25,23,27,0.07692307692307687,0.15384615384615385,10.4,8.8,2,Bottom third,Holding,-6.799999999999999,-17.9
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,PT,2014,2023,11.6,6.9,10,13,27,0.6538461538461539,0.5384615384615384,13.6,10.0,-3,Middle third,Falling,3.0999999999999996,2.0
+Society,Housing cost overburden,%,lower,housing_cost_burden,PT,2014,2025,9.2,6.3,15,15,26,0.46153846153846156,0.43999999999999995,11.5,7.7,0,Middle third,Holding,1.4000000000000004,2.3000000000000007
+Society,Severe housing deprivation,%,lower,housing_deprivation,PT,2014,2023,5.5,6.0,17,22,26,0.3846153846153846,0.16000000000000003,5.4,4.0,-5,Bottom third,Falling,-2.0,-0.09999999999999964
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,PT,2014,2025,6.23,4.86,21,20,27,0.23076923076923073,0.2692307692307693,5.22,4.62,1,Bottom third,Holding,-0.2400000000000002,-1.0100000000000007
+Society,Severe material & social deprivation,%,lower,severe_deprivation,PT,2015,2025,10.9,4.3,20,13,27,0.2692307692307693,0.5384615384615384,9.7,6.3,7,Middle third,Climbing,2.0,-1.200000000000001
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,RO,2014,2025,10.19,16.53,27,27,27,0.0,0.0,46.03,57.65,0,Bottom third,Holding,-41.12,-35.84
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,RO,2014,2025,1.6,2.7,27,26,27,0.0,0.038461538461538436,3.4,5.0,1,Bottom third,Holding,-2.3,-1.7999999999999998
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,RO,2014,2025,54.08,93.15,27,17,27,0.0,0.3846153846153846,76.07,93.79,10,Middle third,Climbing,-0.6400000000000006,-21.989999999999995
+Digital & innovation,European patent applications,per million people,higher,patents,RO,2014,2025,1.41,2.15,27,27,27,0.0,0.0,141.49,152.56,0,Bottom third,Holding,-150.41,-140.08
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,RO,2014,2024,0.38,0.46,27,27,27,0.0,0.0,2.09,2.26,0,Bottom third,Holding,-1.7999999999999998,-1.71
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,RO,2019,2025,68.2,96.4,8,5,27,0.7307692307692308,0.8461538461538461,50.3,85.5,3,Top third,Climbing,10.900000000000006,17.900000000000006
+Economy,"Employment rate, age 20–64",%,higher,employment,RO,2014,2025,58.0,69.0,26,26,27,0.038461538461538436,0.038461538461538436,67.5,76.1,0,Bottom third,Holding,-7.099999999999994,-9.5
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,RO,2014,2024,55.0,78.0,26,21,27,0.038461538461538436,0.23076923076923073,100.0,100.0,5,Bottom third,Climbing,-22.0,-45.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,RO,2014,2025,17.5,18.7,23,26,27,0.15384615384615385,0.038461538461538436,11.1,9.6,-3,Bottom third,Falling,-9.1,-6.4
+Economy,Government budget balance,% of GDP,higher,gov_balance,RO,2014,2025,-1.2,-7.9,5,27,27,0.8461538461538461,0.0,-2.4,-3.1,-22,Bottom third,Falling,-4.800000000000001,1.2
+Economy,Government debt,% of GDP,lower,gov_debt,RO,2014,2025,39.1,59.3,4,14,27,0.8846153846153846,0.5,86.9,81.7,-10,Middle third,Falling,22.400000000000006,47.800000000000004
+Economy,Young people not in work or education (15–29),%,lower,neet,RO,2014,2025,24.8,19.2,25,27,27,0.07692307692307687,0.0,15.9,11.0,-2,Bottom third,Holding,-8.2,-8.9
+Economy,Unemployment rate,%,lower,unemployment,RO,2014,2025,8.6,6.1,11,15,27,0.6153846153846154,0.46153846153846156,11.0,6.0,-4,Middle third,Falling,-0.09999999999999964,2.4000000000000004
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,RO,2014,2025,1.5,10.2,27,22,27,0.0,0.1923076923076923,10.1,13.7,5,Bottom third,Climbing,-3.5,-8.6
+Education,At least basic digital skills,%,higher,digital_skills,RO,2021,2025,27.82,31.84,27,27,27,0.0,0.0,53.92,60.4,0,Bottom third,Holding,-28.56,-26.1
+Education,Early leavers from education (18–24),%,lower,early_leavers,RO,2014,2025,18.1,15.5,26,26,26,0.038461538461538436,0.0,11.1,9.1,0,Bottom third,Holding,-6.4,-7.000000000000002
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,RO,2015,2025,39.9,51.9,25,25,27,0.07692307692307687,0.07692307692307687,22.2,33.9,0,Bottom third,Holding,-18.0,-17.7
+Education,"University degree, age 25–34",%,higher,tertiary,RO,2014,2025,25.4,23.0,26,27,27,0.038461538461538436,0.0,35.9,44.8,-1,Bottom third,Holding,-21.799999999999997,-10.5
+Environment & energy,Circular material use,%,higher,circularity,RO,2014,2024,2.1,1.3,26,27,27,0.038461538461538436,0.0,11.1,12.2,-1,Bottom third,Holding,-10.899999999999999,-9.0
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,RO,2014,2024,9.3,19.13,5,2,27,0.8461538461538461,0.9615384615384616,8.08,13.52,3,Top third,Climbing,5.609999999999999,1.2200000000000006
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,RO,2014,2024,3.7,3.4,2,2,27,0.9615384615384616,0.9615384615384616,,,0,Top third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,RO,2014,2024,16.663,30.356,3,4,27,0.9230769230769231,0.8846153846153846,54.4,57.286,-1,Top third,Holding,26.93,37.736999999999995
+Environment & energy,Municipal waste recycled,%,higher,recycling,RO,2014,2023,13.1,12.4,25,27,27,0.07692307692307687,0.0,43.4,47.9,-2,Bottom third,Holding,-35.5,-30.299999999999997
+Environment & energy,Renewable share of energy,%,higher,renewables,RO,2014,2025,24.845,25.6,9,12,27,0.6923076923076923,0.5769230769230769,17.416,26.2,-3,Middle third,Falling,-0.5999999999999979,7.4289999999999985
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,RO,2014,2025,43.0,45.0,24,25,27,0.11538461538461542,0.07692307692307687,64.0,62.0,-1,Bottom third,Holding,-17.0,-21.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,RO,2014,2024,8.2,6.6,27,27,27,0.0,0.0,3.6,3.5,0,Bottom third,Holding,-3.0999999999999996,-4.6
+Health,Life expectancy at birth,years,higher,life_exp,RO,2014,2024,74.9,76.5,24,25,27,0.11538461538461542,0.07692307692307687,80.6,81.5,-1,Bottom third,Holding,-5.0,-5.699999999999989
+Health,Adult obesity,%,lower,obesity,RO,2014,2025,9.4,12.9,1,3,27,1.0,0.9230769230769231,15.4,16.3,-2,Top third,Holding,3.4000000000000004,6.0
+Health,Preventable deaths,per 100k,lower,preventable_mort,RO,2014,2023,318.65,264.04,24,24,27,0.11538461538461542,0.11538461538461542,165.82,150.85,0,Bottom third,Holding,-113.19000000000003,-152.82999999999998
+Health,Road traffic deaths,per 100k,lower,road_deaths,RO,2014,2024,9.1,7.8,24,27,27,0.11538461538461542,0.0,5.5,4.4,-3,Bottom third,Falling,-3.3999999999999995,-3.5999999999999996
+Health,Treatable deaths,per 100k,lower,treatable_mort,RO,2014,2023,207.64,199.7,26,27,27,0.038461538461538436,0.0,94.83,86.81,-1,Bottom third,Holding,-112.88999999999999,-112.80999999999999
+Society,At risk of poverty or social exclusion,%,lower,arope,RO,2015,2025,44.5,27.4,27,25,27,0.0,0.07692307692307687,24.0,20.9,2,Bottom third,Holding,-6.5,-20.5
+Society,Cannot keep home adequately warm,%,lower,cold_home,RO,2014,2025,12.9,11.9,19,22,27,0.3076923076923077,0.1923076923076923,10.4,8.8,-3,Bottom third,Falling,-3.0999999999999996,-2.5
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,RO,2014,2023,14.5,5.9,20,7,27,0.2692307692307693,0.7692307692307692,13.6,10.0,13,Top third,Climbing,4.1,-0.9000000000000004
+Society,Housing cost overburden,%,lower,housing_cost_burden,RO,2014,2025,16.2,5.0,26,7,26,0.038461538461538436,0.76,11.5,7.7,19,Top third,Climbing,2.7,-4.699999999999999
+Society,Severe housing deprivation,%,lower,housing_deprivation,RO,2014,2023,20.6,9.6,27,25,26,0.0,0.040000000000000036,5.4,4.0,2,Bottom third,Holding,-5.6,-15.200000000000001
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,RO,2014,2025,7.24,4.37,27,11,27,0.0,0.6153846153846154,5.22,4.62,16,Middle third,Climbing,0.25,-2.0200000000000005
+Society,Severe material & social deprivation,%,lower,severe_deprivation,RO,2015,2025,34.0,16.8,26,27,27,0.038461538461538436,0.0,9.7,6.3,-1,Bottom third,Holding,-10.5,-24.3
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,SE,2014,2025,81.02,83.87,2,4,27,0.9615384615384616,0.8846153846153846,46.03,57.65,-2,Top third,Holding,26.220000000000006,34.989999999999995
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,SE,2014,2025,5.8,8.9,2,1,27,0.9615384615384616,1.0,3.4,5.0,1,Top third,Holding,3.9000000000000004,2.4
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,SE,2014,2025,92.52,98.25,4,5,27,0.8846153846153846,0.8461538461538461,76.07,93.79,-1,Top third,Holding,4.459999999999994,16.450000000000003
+Digital & innovation,European patent applications,per million people,higher,patents,SE,2014,2025,399.44,446.18,4,3,27,0.8846153846153846,0.9230769230769231,141.49,152.56,1,Top third,Holding,293.62,257.95
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,SE,2014,2024,3.12,3.53,2,1,27,0.9615384615384616,1.0,2.09,2.26,1,Top third,Holding,1.27,1.0300000000000002
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,SE,2019,2025,77.1,89.8,7,12,27,0.7692307692307692,0.5769230769230769,50.3,85.5,-5,Middle third,Falling,4.299999999999997,26.799999999999997
+Economy,"Employment rate, age 20–64",%,higher,employment,SE,2014,2025,79.6,81.8,1,4,27,1.0,0.8846153846153846,67.5,76.1,-3,Top third,Falling,5.700000000000003,12.099999999999994
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,SE,2014,2024,125.0,113.0,7,8,27,0.7692307692307692,0.7307692307692308,100.0,100.0,-1,Top third,Holding,13.0,25.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,SE,2014,2025,4.8,3.9,4,5,27,0.8846153846153846,0.8461538461538461,11.1,9.6,-1,Top third,Holding,5.699999999999999,6.3
+Economy,Government budget balance,% of GDP,higher,gov_balance,SE,2014,2025,-1.9,-1.3,9,6,27,0.6923076923076923,0.8076923076923077,-2.4,-3.1,3,Top third,Climbing,1.8,0.5
+Economy,Government debt,% of GDP,lower,gov_debt,SE,2014,2025,46.1,35.1,8,6,27,0.7307692307692308,0.8076923076923077,86.9,81.7,2,Top third,Holding,46.6,40.800000000000004
+Economy,Young people not in work or education (15–29),%,lower,neet,SE,2014,2025,7.5,5.9,2,2,27,0.9615384615384616,0.9615384615384616,15.9,11.0,0,Top third,Holding,5.1,8.4
+Economy,Unemployment rate,%,lower,unemployment,SE,2014,2025,8.0,8.8,9,24,27,0.6923076923076923,0.11538461538461542,11.0,6.0,-15,Bottom third,Falling,-2.8000000000000007,3.0
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,SE,2014,2025,29.2,38.2,2,1,27,0.9615384615384616,1.0,10.1,13.7,1,Top third,Holding,24.500000000000004,19.1
+Education,At least basic digital skills,%,higher,digital_skills,SE,2021,2025,66.6,69.99,5,6,27,0.8461538461538461,0.8076923076923077,53.92,60.4,-1,Top third,Holding,9.589999999999996,12.679999999999993
+Education,Early leavers from education (18–24),%,lower,early_leavers,SE,2014,2025,6.7,6.7,7,9,26,0.7692307692307692,0.6799999999999999,11.1,9.1,-2,Top third,Holding,2.3999999999999995,4.3999999999999995
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,SE,2015,2025,20.8,33.9,10,16,27,0.6538461538461539,0.42307692307692313,22.2,33.9,-6,Middle third,Falling,0.0,1.3999999999999986
+Education,"University degree, age 25–34",%,higher,tertiary,SE,2014,2025,46.0,53.6,5,7,27,0.8461538461538461,0.7692307692307692,35.9,44.8,-2,Top third,Holding,8.800000000000004,10.100000000000001
+Environment & energy,Circular material use,%,higher,circularity,SE,2014,2024,6.4,10.4,14,12,27,0.5,0.5769230769230769,11.1,12.2,2,Middle third,Holding,-1.799999999999999,-4.699999999999999
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,SE,2014,2024,6.38,10.0,21,22,27,0.23076923076923073,0.1923076923076923,8.08,13.52,-1,Bottom third,Holding,-3.5199999999999996,-1.7000000000000002
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,SE,2014,2024,-0.5,-0.6,1,1,27,1.0,1.0,,,0,Top third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,SE,2014,2024,32.345,26.504,7,2,27,0.7692307692307692,0.9615384615384616,54.4,57.286,5,Top third,Climbing,30.782,22.055
+Environment & energy,Municipal waste recycled,%,higher,recycling,SE,2014,2024,49.3,46.1,5,13,26,0.8461538461538461,0.52,43.4,49.4,-8,Middle third,Falling,-3.299999999999997,5.899999999999999
+Environment & energy,Renewable share of energy,%,higher,renewables,SE,2014,2025,51.151,65.4,1,1,27,1.0,1.0,17.416,26.2,0,Top third,Holding,39.2,33.735
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,SE,2014,2025,87.0,80.0,3,3,27,0.9230769230769231,0.9230769230769231,64.0,62.0,0,Top third,Holding,18.0,23.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,SE,2014,2024,2.2,2.0,3,4,27,0.9230769230769231,0.8846153846153846,3.6,3.5,-1,Top third,Holding,1.5,1.4
+Health,Life expectancy at birth,years,higher,life_exp,SE,2014,2024,82.2,83.8,5,2,27,0.8461538461538461,0.9615384615384616,80.6,81.5,3,Top third,Climbing,2.299999999999997,1.6000000000000085
+Health,Adult obesity,%,lower,obesity,SE,2014,2025,14.0,17.5,4,13,27,0.8846153846153846,0.5384615384615384,15.4,16.3,-9,Middle third,Falling,-1.1999999999999993,1.4000000000000004
+Health,Preventable deaths,per 100k,lower,preventable_mort,SE,2014,2023,123.92,105.71,5,4,27,0.8461538461538461,0.8846153846153846,165.82,150.85,1,Top third,Holding,45.14,41.89999999999999
+Health,Road traffic deaths,per 100k,lower,road_deaths,SE,2014,2024,2.8,2.0,2,1,27,0.9615384615384616,1.0,5.5,4.4,1,Top third,Holding,2.4000000000000004,2.7
+Health,Treatable deaths,per 100k,lower,treatable_mort,SE,2014,2023,70.54,58.37,6,2,27,0.8076923076923077,0.9615384615384616,94.83,86.81,4,Top third,Climbing,28.440000000000005,24.289999999999992
+Society,At risk of poverty or social exclusion,%,lower,arope,SE,2015,2025,18.2,18.6,7,11,27,0.7692307692307692,0.6153846153846154,24.0,20.9,-4,Middle third,Falling,2.299999999999997,5.800000000000001
+Society,Cannot keep home adequately warm,%,lower,cold_home,SE,2014,2025,1.1,4.7,2,13,27,0.9615384615384616,0.5384615384615384,10.4,8.8,-11,Middle third,Falling,4.1000000000000005,9.3
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,SE,2014,2023,10.7,9.4,8,17,27,0.7307692307692308,0.3846153846153846,13.6,10.0,-9,Middle third,Falling,0.5999999999999996,2.9000000000000004
+Society,Housing cost overburden,%,lower,housing_cost_burden,SE,2014,2025,8.6,10.8,13,24,26,0.5384615384615384,0.07999999999999996,11.5,7.7,-11,Bottom third,Falling,-3.1000000000000005,2.9000000000000004
+Society,Severe housing deprivation,%,lower,housing_deprivation,SE,2014,2023,2.1,2.3,10,9,26,0.6538461538461539,0.6799999999999999,5.4,4.0,1,Top third,Holding,1.7000000000000002,3.3000000000000003
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,SE,2014,2025,4.15,4.58,10,13,27,0.6538461538461539,0.5384615384615384,5.22,4.62,-3,Middle third,Falling,0.040000000000000036,1.0699999999999994
+Society,Severe material & social deprivation,%,lower,severe_deprivation,SE,2015,2025,1.1,3.9,2,11,27,0.9615384615384616,0.6153846153846154,9.7,6.3,-9,Middle third,Falling,2.4,8.6
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,SI,2014,2025,52.94,62.68,11,17,27,0.6153846153846154,0.3846153846153846,46.03,57.65,-6,Middle third,Falling,5.030000000000001,6.909999999999997
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,SI,2014,2025,3.5,4.5,13,21,27,0.5384615384615384,0.23076923076923073,3.4,5.0,-8,Bottom third,Falling,-0.5,0.10000000000000009
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,SI,2014,2025,71.59,91.57,19,20,27,0.3076923076923077,0.2692307692307693,76.07,93.79,-1,Bottom third,Holding,-2.220000000000013,-4.47999999999999
+Digital & innovation,European patent applications,per million people,higher,patents,SI,2014,2025,60.63,80.25,12,13,27,0.5769230769230769,0.5384615384615384,141.49,152.56,-1,Middle third,Holding,-72.31,-80.86000000000001
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,SI,2014,2024,2.39,2.14,6,9,27,0.8076923076923077,0.6923076923076923,2.09,2.26,-3,Top third,Falling,-0.11999999999999966,0.30000000000000027
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,SI,2019,2025,63.8,83.9,11,17,27,0.6153846153846154,0.3846153846153846,50.3,85.5,-6,Middle third,Falling,-1.5999999999999943,13.5
+Economy,"Employment rate, age 20–64",%,higher,employment,SI,2014,2025,67.3,78.3,18,14,27,0.34615384615384615,0.5,67.5,76.1,4,Middle third,Climbing,2.200000000000003,-0.20000000000000284
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,SI,2014,2024,82.0,91.0,15,15,27,0.46153846153846156,0.46153846153846156,100.0,100.0,0,Middle third,Holding,-9.0,-18.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,SI,2014,2025,7.8,4.9,11,6,27,0.6153846153846154,0.8076923076923077,11.1,9.6,5,Top third,Climbing,4.699999999999999,3.3
+Economy,Government budget balance,% of GDP,higher,gov_balance,SI,2014,2025,-4.5,-2.5,21,14,27,0.23076923076923073,0.5,-2.4,-3.1,7,Middle third,Climbing,0.6000000000000001,-2.1
+Economy,Government debt,% of GDP,lower,gov_debt,SI,2014,2025,81.1,65.7,17,18,27,0.3846153846153846,0.34615384615384615,86.9,81.7,-1,Middle third,Holding,16.0,5.800000000000011
+Economy,Young people not in work or education (15–29),%,lower,neet,SI,2014,2025,11.0,7.6,7,3,27,0.7692307692307692,0.9230769230769231,15.9,11.0,4,Top third,Climbing,3.4000000000000004,4.9
+Economy,Unemployment rate,%,lower,unemployment,SI,2014,2025,9.7,3.9,15,6,27,0.46153846153846156,0.8076923076923077,11.0,6.0,9,Top third,Climbing,2.1,1.3000000000000007
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,SI,2014,2025,12.1,22.8,8,6,27,0.7307692307692308,0.8076923076923077,10.1,13.7,2,Top third,Holding,9.100000000000001,2.0
+Education,At least basic digital skills,%,higher,digital_skills,SI,2021,2025,49.67,46.5,20,25,27,0.2692307692307693,0.07692307692307687,53.92,60.4,-5,Bottom third,Falling,-13.899999999999999,-4.25
+Education,Early leavers from education (18–24),%,lower,early_leavers,SI,2014,2025,4.4,5.5,2,5,26,0.9615384615384616,0.84,11.1,9.1,-3,Top third,Falling,3.5999999999999996,6.699999999999999
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,SI,2015,2025,16.1,34.9,5,18,27,0.8461538461538461,0.34615384615384615,22.2,33.9,-13,Middle third,Falling,-1.0,6.099999999999998
+Education,"University degree, age 25–34",%,higher,tertiary,SI,2014,2025,38.0,42.8,17,16,27,0.3846153846153846,0.42307692307692313,35.9,44.8,1,Middle third,Holding,-2.0,2.1000000000000014
+Environment & energy,Circular material use,%,higher,circularity,SI,2014,2024,8.5,10.1,11,13,27,0.6153846153846154,0.5384615384615384,11.1,12.2,-2,Middle third,Holding,-2.0999999999999996,-2.5999999999999996
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,SI,2014,2024,6.84,12.17,19,15,27,0.3076923076923077,0.46153846153846156,8.08,13.52,4,Middle third,Climbing,-1.3499999999999996,-1.2400000000000002
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,SI,2014,2024,8.3,5.2,16,10,27,0.42307692307692313,0.6538461538461539,,,6,Middle third,Climbing,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,SI,2014,2024,45.19,46.382,11,11,27,0.6153846153846154,0.6153846153846154,54.4,57.286,0,Middle third,Holding,10.904000000000003,9.21
+Environment & energy,Municipal waste recycled,%,higher,recycling,SI,2014,2024,36.0,62.4,11,2,26,0.6153846153846154,0.96,43.4,49.4,9,Top third,Climbing,13.0,-7.399999999999999
+Environment & energy,Renewable share of energy,%,higher,renewables,SI,2014,2025,22.459,25.4,11,13,27,0.6153846153846154,0.5384615384615384,17.416,26.2,-2,Middle third,Holding,-0.8000000000000007,5.042999999999999
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,SI,2014,2025,58.0,58.0,16,15,27,0.42307692307692313,0.46153846153846156,64.0,62.0,1,Middle third,Holding,-4.0,-6.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,SI,2014,2024,1.8,1.7,1,3,27,1.0,0.9230769230769231,3.6,3.5,-2,Top third,Holding,1.8,1.8
+Health,Life expectancy at birth,years,higher,life_exp,SI,2014,2024,80.9,82.1,15,12,27,0.46153846153846156,0.5769230769230769,80.6,81.5,3,Middle third,Climbing,0.5999999999999943,0.30000000000001137
+Health,Adult obesity,%,lower,obesity,SI,2014,2025,19.2,18.6,22,16,27,0.1923076923076923,0.42307692307692313,15.4,16.3,6,Middle third,Climbing,-2.3000000000000007,-3.799999999999999
+Health,Preventable deaths,per 100k,lower,preventable_mort,SI,2014,2023,188.25,167.6,17,17,27,0.3846153846153846,0.3846153846153846,165.82,150.85,0,Middle third,Holding,-16.75,-22.430000000000007
+Health,Road traffic deaths,per 100k,lower,road_deaths,SI,2014,2024,5.2,3.2,11,6,27,0.6153846153846154,0.8076923076923077,5.5,4.4,5,Top third,Climbing,1.2000000000000002,0.2999999999999998
+Health,Treatable deaths,per 100k,lower,treatable_mort,SI,2014,2023,89.34,66.98,15,10,27,0.46153846153846156,0.6538461538461539,94.83,86.81,5,Middle third,Climbing,19.83,5.489999999999995
+Society,At risk of poverty or social exclusion,%,lower,arope,SI,2015,2025,17.7,15.5,6,3,27,0.8076923076923077,0.9230769230769231,24.0,20.9,3,Top third,Climbing,5.399999999999999,6.300000000000001
+Society,Cannot keep home adequately warm,%,lower,cold_home,SI,2014,2025,5.6,3.6,10,5,27,0.6538461538461539,0.8461538461538461,10.4,8.8,5,Top third,Climbing,5.200000000000001,4.800000000000001
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,SI,2014,2023,10.1,6.8,7,12,27,0.7692307692307692,0.5769230769230769,13.6,10.0,-5,Middle third,Falling,3.2,3.5
+Society,Housing cost overburden,%,lower,housing_cost_burden,SI,2014,2025,6.4,3.5,5,3,26,0.8461538461538461,0.92,11.5,7.7,2,Top third,Holding,4.2,5.1
+Society,Severe housing deprivation,%,lower,housing_deprivation,SI,2014,2023,6.5,3.5,19,14,26,0.3076923076923077,0.48,5.4,4.0,5,Middle third,Climbing,0.5,-1.0999999999999996
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,SI,2014,2025,3.7,3.55,3,4,27,0.9230769230769231,0.8846153846153846,5.22,4.62,-1,Top third,Holding,1.0700000000000003,1.5199999999999996
+Society,Severe material & social deprivation,%,lower,severe_deprivation,SI,2015,2025,4.8,1.9,9,1,27,0.6923076923076923,1.0,9.7,6.3,8,Top third,Climbing,4.4,4.8999999999999995
+Digital & innovation,Interact with public authorities online,% of people,higher,egov,SK,2014,2025,57.05,54.12,8,22,27,0.7307692307692308,0.1923076923076923,46.03,57.65,-14,Bottom third,Falling,-3.530000000000001,11.019999999999996
+Digital & innovation,ICT specialists in employment,%,higher,ict_specialists,SK,2014,2025,2.8,4.4,19,24,27,0.3076923076923077,0.11538461538461542,3.4,5.0,-5,Bottom third,Falling,-0.5999999999999996,-0.6000000000000001
+Digital & innovation,Use the internet regularly,% of people,higher,internet_use,SK,2014,2025,79.98,92.49,11,19,27,0.6153846153846154,0.3076923076923077,76.07,93.79,-8,Bottom third,Falling,-1.3000000000000114,3.910000000000011
+Digital & innovation,European patent applications,per million people,higher,patents,SK,2014,2025,4.8,10.7,24,25,27,0.11538461538461542,0.07692307692307687,141.49,152.56,-1,Bottom third,Holding,-141.86,-136.69
+Digital & innovation,R&D spending,% of GDP,higher,rd_spending,SK,2014,2024,0.87,0.98,20,22,27,0.2692307692307693,0.1923076923076923,2.09,2.26,-2,Bottom third,Holding,-1.2799999999999998,-1.2199999999999998
+Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,vhcn_coverage,SK,2019,2025,45.5,83.6,17,18,27,0.3846153846153846,0.34615384615384615,50.3,85.5,-1,Middle third,Holding,-1.9000000000000057,-4.799999999999997
+Economy,"Employment rate, age 20–64",%,higher,employment,SK,2014,2025,67.8,78.1,16,16,27,0.42307692307692313,0.42307692307692313,67.5,76.1,0,Middle third,Holding,2.0,0.29999999999999716
+Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,gdp_pc_pps,SK,2014,2024,78.0,75.0,17,24,27,0.3846153846153846,0.11538461538461542,100.0,100.0,-7,Bottom third,Falling,-25.0,-22.0
+Economy,Gender employment gap,pp,lower,gender_emp_gap,SK,2014,2025,9.8,8.7,16,18,27,0.42307692307692313,0.34615384615384615,11.1,9.6,-2,Middle third,Holding,0.9000000000000004,1.299999999999999
+Economy,Government budget balance,% of GDP,higher,gov_balance,SK,2014,2025,-3.2,-4.5,16,22,27,0.42307692307692313,0.1923076923076923,-2.4,-3.1,-6,Bottom third,Falling,-1.4,-0.8000000000000003
+Economy,Government debt,% of GDP,lower,gov_debt,SK,2014,2025,53.4,61.4,11,16,27,0.6153846153846154,0.42307692307692313,86.9,81.7,-5,Middle third,Falling,20.300000000000004,33.50000000000001
+Economy,Young people not in work or education (15–29),%,lower,neet,SK,2014,2025,17.5,11.1,19,19,27,0.3076923076923077,0.3076923076923077,15.9,11.0,0,Bottom third,Holding,-0.09999999999999964,-1.5999999999999996
+Economy,Unemployment rate,%,lower,unemployment,SK,2014,2025,13.1,5.4,22,12,27,0.1923076923076923,0.5769230769230769,11.0,6.0,10,Middle third,Climbing,0.5999999999999996,-2.0999999999999996
+Education,Adults in learning (last 4 weeks),%,higher,adult_learning,SK,2014,2025,3.1,11.9,24,16,27,0.11538461538461542,0.42307692307692313,10.1,13.7,8,Middle third,Climbing,-1.799999999999999,-7.0
+Education,At least basic digital skills,%,higher,digital_skills,SK,2021,2025,55.18,53.56,15,21,27,0.46153846153846156,0.23076923076923073,53.92,60.4,-6,Bottom third,Falling,-6.839999999999996,1.259999999999998
+Education,Early leavers from education (18–24),%,lower,early_leavers,SK,2014,2025,6.7,6.8,7,10,26,0.7692307692307692,0.64,11.1,9.1,-3,Middle third,Falling,2.3,4.3999999999999995
+Education,15-year-olds low-achieving in maths (PISA),%,lower,low_math,SK,2015,2025,27.7,32.2,20,12,27,0.2692307692307693,0.5769230769230769,22.2,33.9,8,Middle third,Climbing,1.6999999999999957,-5.5
+Education,"University degree, age 25–34",%,higher,tertiary,SK,2014,2025,29.8,36.3,24,23,27,0.11538461538461542,0.15384615384615385,35.9,44.8,1,Bottom third,Holding,-8.5,-6.099999999999998
+Environment & energy,Circular material use,%,higher,circularity,SK,2014,2024,4.8,12.2,19,10,27,0.3076923076923077,0.6538461538461539,11.1,12.2,9,Middle third,Climbing,0.0,-6.3
+Environment & energy,Energy productivity,PPS per kgoe,higher,energy_productivity,SK,2014,2024,7.01,10.35,17,21,27,0.3846153846153846,0.23076923076923073,8.08,13.52,-4,Bottom third,Falling,-3.17,-1.0700000000000003
+Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,ghg_per_capita,SK,2014,2024,6.8,5.3,13,11,27,0.5384615384615384,0.6153846153846154,,,2,Middle third,Holding,,
+Environment & energy,Energy import dependency,%,lower,import_dependency,SK,2014,2024,60.698,53.501,15,14,27,0.46153846153846156,0.5,54.4,57.286,1,Middle third,Holding,3.7850000000000037,-6.298000000000002
+Environment & energy,Municipal waste recycled,%,higher,recycling,SK,2014,2024,10.4,50.7,27,10,26,0.0,0.64,43.4,49.4,17,Middle third,Climbing,1.3000000000000043,-33.0
+Environment & energy,Renewable share of energy,%,higher,renewables,SK,2014,2025,11.713,16.3,20,26,27,0.2692307692307693,0.038461538461538436,17.416,26.2,-6,Bottom third,Falling,-9.899999999999999,-5.703000000000001
+Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,corruption_index,SK,2014,2025,50.0,48.0,22,23,27,0.1923076923076923,0.15384615384615385,64.0,62.0,-1,Bottom third,Holding,-14.0,-14.0
+Health,Infant mortality,"per 1,000 births",lower,infant_mortality,SK,2014,2024,5.8,5.9,25,26,27,0.07692307692307687,0.038461538461538436,3.6,3.5,-1,Bottom third,Holding,-2.4000000000000004,-2.1999999999999997
+Health,Life expectancy at birth,years,higher,life_exp,SK,2014,2024,76.9,78.4,22,22,27,0.1923076923076923,0.1923076923076923,80.6,81.5,0,Bottom third,Holding,-3.0999999999999943,-3.6999999999999886
+Health,Adult obesity,%,lower,obesity,SK,2014,2025,16.3,17.7,12,15,27,0.5769230769230769,0.46153846153846156,15.4,16.3,-3,Middle third,Falling,-1.3999999999999986,-0.9000000000000004
+Health,Preventable deaths,per 100k,lower,preventable_mort,SK,2014,2023,252.81,204.85,22,19,27,0.1923076923076923,0.3076923076923077,165.82,150.85,3,Bottom third,Climbing,-54.0,-86.99000000000001
+Health,Road traffic deaths,per 100k,lower,road_deaths,SK,2014,2024,5.4,4.8,13,17,27,0.5384615384615384,0.3846153846153846,5.5,4.4,-4,Middle third,Falling,-0.39999999999999947,0.09999999999999964
+Health,Treatable deaths,per 100k,lower,treatable_mort,SK,2014,2023,170.9,161.14,22,22,27,0.1923076923076923,0.1923076923076923,94.83,86.81,0,Bottom third,Holding,-74.32999999999998,-76.07000000000001
+Society,At risk of poverty or social exclusion,%,lower,arope,SK,2015,2025,17.3,16.7,5,6,27,0.8461538461538461,0.8076923076923077,24.0,20.9,-1,Top third,Holding,4.199999999999999,6.699999999999999
+Society,Cannot keep home adequately warm,%,lower,cold_home,SK,2014,2025,6.1,8.1,12,18,27,0.5769230769230769,0.34615384615384615,10.4,8.8,-6,Middle third,Falling,0.7000000000000011,4.300000000000001
+Society,"Report crime, violence or vandalism in their area",%,lower,crime,SK,2014,2023,8.7,3.4,5,4,27,0.8461538461538461,0.8846153846153846,13.6,10.0,1,Top third,Holding,6.6,4.9
+Society,Housing cost overburden,%,lower,housing_cost_burden,SK,2014,2025,9.0,3.5,14,3,26,0.5,0.92,11.5,7.7,11,Top third,Climbing,4.2,2.5
+Society,Severe housing deprivation,%,lower,housing_deprivation,SK,2014,2023,4.3,4.0,16,15,26,0.42307692307692313,0.43999999999999995,5.4,4.0,1,Middle third,Holding,0.0,1.1000000000000005
+Society,Income inequality (top 20% vs bottom 20%),ratio,lower,income_inequality,SK,2014,2025,3.93,3.27,6,2,27,0.8076923076923077,0.9615384615384616,5.22,4.62,4,Top third,Climbing,1.35,1.2899999999999996
+Society,Severe material & social deprivation,%,lower,severe_deprivation,SK,2015,2025,8.4,7.0,17,21,27,0.3846153846153846,0.23076923076923073,9.7,6.3,-4,Bottom third,Falling,-0.7000000000000002,1.299999999999999

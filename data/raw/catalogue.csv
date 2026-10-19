@@ -1,0 +1,43 @@
+id,domain,label,unit,better,dataset,filters
+gdp_pc_pps,Economy,"GDP per person (purchasing power, EU = 100)",EU = 100,higher,prc_ppp_ind,"{'na_item': 'VI_PPS_EU27_2020_HAB', 'ppp_cat': 'GDP'}"
+employment,Economy,"Employment rate, age 20–64",%,higher,sdg_08_30,"{'sex': 'T', 'age': 'Y20-64', 'unit': 'PC_POP'}"
+unemployment,Economy,Unemployment rate,%,lower,une_rt_a,"{'sex': 'T', 'age': 'Y15-74', 'unit': 'PC_ACT'}"
+neet,Economy,Young people not in work or education (15–29),%,lower,sdg_08_20,"{'sex': 'T', 'age': 'Y15-29', 'unit': 'PC_POP'}"
+gender_emp_gap,Economy,Gender employment gap,pp,lower,sdg_05_30,"{'wstatus': 'EMP', 'age': 'Y20-64', 'unit': 'PC_PNT'}"
+gov_debt,Economy,Government debt,% of GDP,lower,sdg_17_40,"{'unit': 'PC_GDP', 'sector': 'S13', 'na_item': 'GD'}"
+gov_balance,Economy,Government budget balance,% of GDP,higher,gov_10dd_edpt1,"{'unit': 'PC_GDP', 'sector': 'S13', 'na_item': 'B9'}"
+arope,Society,At risk of poverty or social exclusion,%,lower,sdg_01_10,"{'age': 'TOTAL', 'unit': 'PC'}"
+severe_deprivation,Society,Severe material & social deprivation,%,lower,sdg_01_31,"{'age': 'TOTAL', 'sex': 'T', 'unit': 'PC'}"
+income_inequality,Society,Income inequality (top 20% vs bottom 20%),ratio,lower,sdg_10_41,"{'age': 'TOTAL', 'sex': 'T', 'unit': 'RAT'}"
+housing_deprivation,Society,Severe housing deprivation,%,lower,sdg_11_11,"{'age': 'TOTAL', 'rskpovth': 'TOTAL', 'sex': 'T', 'unit': 'PC'}"
+housing_cost_burden,Society,Housing cost overburden,%,lower,ilc_lvho07a,"{'age': 'TOTAL', 'sex': 'T', 'rskpovth': 'TOTAL', 'unit': 'PC'}"
+cold_home,Society,Cannot keep home adequately warm,%,lower,sdg_07_60,"{'hhcomp': 'TOTAL', 'rskpovth': 'TOTAL', 'unit': 'PC'}"
+crime,Society,"Report crime, violence or vandalism in their area",%,lower,sdg_16_20,"{'hhcomp': 'TOTAL', 'rskpovth': 'TOTAL', 'unit': 'PC'}"
+life_exp,Health,Life expectancy at birth,years,higher,demo_mlexpec,"{'sex': 'T', 'age': 'Y_LT1', 'unit': 'YR'}"
+infant_mortality,Health,Infant mortality,"per 1,000 births",lower,tps00027,"{'unit': 'RT', 'indic_de': 'INFMORRT'}"
+preventable_mort,Health,Preventable deaths,per 100k,lower,sdg_03_42,"{'mortalit': 'PRVT', 'sex': 'T', 'icd10': 'TOTAL', 'unit': 'RT'}"
+treatable_mort,Health,Treatable deaths,per 100k,lower,sdg_03_42,"{'mortalit': 'TRT', 'sex': 'T', 'icd10': 'TOTAL', 'unit': 'RT'}"
+road_deaths,Health,Road traffic deaths,per 100k,lower,sdg_11_40,"{'tra_infr': 'TOTAL', 'unit': 'RT'}"
+obesity,Health,Adult obesity,%,lower,sdg_02_10,"{'unit': 'PC', 'bmi': 'BMI_GE30'}"
+early_leavers,Education,Early leavers from education (18–24),%,lower,sdg_04_10,"{'unit': 'PC', 'wstatus': 'POP', 'age': 'Y18-24', 'sex': 'T'}"
+tertiary,Education,"University degree, age 25–34",%,higher,sdg_04_20,"{'sex': 'T', 'age': 'Y25-34', 'unit': 'PC', 'isced11': 'ED5-8'}"
+low_math,Education,15-year-olds low-achieving in maths (PISA),%,lower,sdg_04_40,"{'field': 'EF461', 'sex': 'T', 'unit': 'PC'}"
+adult_learning,Education,Adults in learning (last 4 weeks),%,higher,sdg_04_60,"{'unit': 'PC', 'age': 'Y25-64', 'sex': 'T'}"
+digital_skills,Education,At least basic digital skills,%,higher,sdg_04_70,"{'ind_type': 'IND_TOTAL', 'indic_is': 'I_DSK2_BAB', 'unit': 'PC_IND'}"
+vhcn_coverage,Digital & innovation,Very-high-capacity broadband coverage,% of households,higher,sdg_17_60,"{'unit': 'PC_HH', 'inet_tec': 'VHCN_FX', 'terrtypo': 'TOTAL'}"
+internet_use,Digital & innovation,Use the internet regularly,% of people,higher,tin00028,"{'ind_type': 'IND_TOTAL', 'unit': 'PC_IND', 'indic_is': 'I_IU3'}"
+egov,Digital & innovation,Interact with public authorities online,% of people,higher,isoc_ciegi_ac,"{'unit': 'PC_IND', 'ind_type': 'IND_TOTAL'}"
+ict_specialists,Digital & innovation,ICT specialists in employment,%,higher,isoc_sks_itspt,{'unit': 'PC_EMP'}
+rd_spending,Digital & innovation,R&D spending,% of GDP,higher,sdg_09_10,"{'sectperf': 'TOTAL', 'unit': 'PC_GDP'}"
+patents,Digital & innovation,European patent applications,per million people,higher,sdg_09_40,"{'coop_ptn': 'APPL', 'unit': 'P_MHAB'}"
+renewables,Environment & energy,Renewable share of energy,%,higher,sdg_07_40,"{'nrg_bal': 'REN', 'unit': 'PC'}"
+ghg_per_capita,Environment & energy,Greenhouse gas emissions per person,t CO₂e,lower,sdg_13_10,"{'src_crf': 'TOTXMEMO', 'unit': 'T_HAB'}"
+energy_productivity,Environment & energy,Energy productivity,PPS per kgoe,higher,sdg_07_30,{'unit': 'PPS_KGOE'}
+import_dependency,Environment & energy,Energy import dependency,%,lower,nrg_ind_id,"{'siec': 'TOTAL', 'unit': 'PC'}"
+recycling,Environment & energy,Municipal waste recycled,%,higher,sdg_11_60,{'unit': 'PC'}
+circularity,Environment & energy,Circular material use,%,higher,sdg_12_41,{'unit': 'PC'}
+corruption_index,Governance,Corruption Perceptions Index (higher = cleaner),score 0–100,higher,sdg_16_50,{'unit': 'SC'}
+population,Context,Population on 1 January,people,,demo_pjan,"{'unit': 'NR', 'age': 'TOTAL', 'sex': 'T'}"
+net_migration_rate,Context,Net migration rate,"per 1,000",,demo_gind,{'indic_de': 'CNMIGRATRT'}
+natural_change_rate,Context,Natural change rate,"per 1,000",,demo_gind,{'indic_de': 'NATGROWRT'}
+fertility,Context,Total fertility rate,children per woman,,tps00199,{'indic_de': 'TOTFERRT'}

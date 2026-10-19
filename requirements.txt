@@ -1,0 +1,4 @@
+pandas>=2.2
+requests>=2.31
+duckdb>=1.1
+numpy>=1.26
